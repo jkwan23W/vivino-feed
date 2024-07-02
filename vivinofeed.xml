@@ -1,7 +1,6 @@
-﻿<?xml version="1.0"?>
 <vivino-product-list>
 <meta-data>
-<feed-generation-date>2024-06-21T10:11:36Z</feed-generation-date>
+<feed-generation-date>2024-07-02T16:04:32Z</feed-generation-date>
 </meta-data>
 <product>
 <product-name>Louis Roederer Cristal Rose Vinotheque Champagne 1995 Rose</product-name>
@@ -44,7 +43,7 @@
 <product-id>CHWB0010</product-id>
 </product>
 <product>
-<product-name>Agrapart & Fils Terroirs Blanc de Blancs Champagne NV White</product-name>
+<product-name>Agrapart &amp; Fils Terroirs Blanc de Blancs Champagne NV White</product-name>
 <price>580</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>75cl</bottle_size>
@@ -54,7 +53,7 @@
 <product-id>CHWB0019</product-id>
 </product>
 <product>
-<product-name>Agrapart & Fils Mineral Champagne 2017 White</product-name>
+<product-name>Agrapart &amp; Fils Mineral Champagne 2017 White</product-name>
 <price>950</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>75cl</bottle_size>
