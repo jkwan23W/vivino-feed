@@ -1,9 +1,9 @@
 <vivino-product-list>
 <meta-data>
-<feed-generation-date>2024-07-04T17:03:32Z</feed-generation-date>
+<feed-generation-date>2024-07-04T17:11:31Z</feed-generation-date>
 </meta-data>
 <product>
-<product-name>Siret Frere &amp; Soeur Reserve Perpetuelle NV</product-name>
+<product-name>Siret Frere & Soeur Reserve Perpetuelle NV</product-name>
 <price>660</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -13,7 +13,7 @@
 <product-id>CHWA0001</product-id>
 </product>
 <product>
-<product-name>Siret Frere &amp; Soeur Rose de Saignee 2018</product-name>
+<product-name>Siret Frere & Soeur Rose de Saignee 2018</product-name>
 <price>780</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -23,7 +23,7 @@
 <product-id>CHROA0001</product-id>
 </product>
 <product>
-<product-name>Siret Frere &amp; Soeur Blanc de Blancs 2013</product-name>
+<product-name>Siret Frere & Soeur Blanc de Blancs 2013</product-name>
 <price>1060</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -33,7 +33,7 @@
 <product-id>CHWA0003</product-id>
 </product>
 <product>
-<product-name>Siret Frere &amp; Soeur Blanc de Noirs 2014</product-name>
+<product-name>Siret Frere & Soeur Blanc de Noirs 2014</product-name>
 <price>1320</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1903,7 +1903,7 @@
 <product-id>CHWB0010</product-id>
 </product>
 <product>
-<product-name>Agrapart &amp; Fils Terroirs Blanc de Blancs Champagne NV</product-name>
+<product-name>Agrapart & Fils Terroirs Blanc de Blancs Champagne NV</product-name>
 <price>580</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1913,7 +1913,7 @@
 <product-id>CHWB0019</product-id>
 </product>
 <product>
-<product-name>Agrapart &amp; Fils Mineral Champagne 2017</product-name>
+<product-name>Agrapart & Fils Mineral Champagne 2017</product-name>
 <price>950</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -2083,18 +2083,8 @@
 <product-id>BORB0008</product-id>
 </product>
 <product>
-<product-name>Chateau Carmes Haut Brion (Limited Edition - Marie Jeanne) Pomerol 2016</product-name>
-<price>16800</price>
-<quantity-is-minimum>false</quantity-is-minimum>
-<bottle_size>225cl</bottle_size>
-<bottle_quantity>1</bottle_quantity>
-<link>0</link>
-<inventory-count>2</inventory-count>
-<product-id>BORB0010</product-id>
-</product>
-<product>
-<product-name>Chateau Cheval Blanc Saint-Émilion Grand Cru (Premier Grand Cru Classé) 1990</product-name>
-<price>13500</price>
+<product-name>Error 2023 Error 2023 Error 2023</product-name>
+<price>Error 2023</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2683,7 +2673,7 @@
 <product-id>BURB0052</product-id>
 </product>
 <product>
-<product-name>Domaine Forey Père &amp; Fils Les Gaudichots Vosne-Romanée 1er Cru 2010</product-name>
+<product-name>Domaine Forey Père & Fils Les Gaudichots Vosne-Romanée 1er Cru 2010</product-name>
 <price>22400</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>3000 ml</bottle_size>
@@ -2793,7 +2783,7 @@
 <product-id>BURB0137</product-id>
 </product>
 <product>
-<product-name>Serafin Pere &amp; Fils Charmes Chambertin Grand Cru 2014</product-name>
+<product-name>Serafin Pere & Fils Charmes Chambertin Grand Cru 2014</product-name>
 <price>2000</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -2803,7 +2793,7 @@
 <product-id>BURB0115</product-id>
 </product>
 <product>
-<product-name>Serafin Pere &amp; Fils Chambolle Musigny 1er Cru les Baudes 2016</product-name>
+<product-name>Serafin Pere & Fils Chambolle Musigny 1er Cru les Baudes 2016</product-name>
 <price>1080</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -2813,7 +2803,7 @@
 <product-id>BURB0116</product-id>
 </product>
 <product>
-<product-name>Serafin Pere &amp; Fils Chambolle Musigny 1er Cru les Baudes 2013</product-name>
+<product-name>Serafin Pere & Fils Chambolle Musigny 1er Cru les Baudes 2013</product-name>
 <price>1200</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -2823,7 +2813,7 @@
 <product-id>BURB0118</product-id>
 </product>
 <product>
-<product-name>Serafin Pere &amp; Fils Gevrey Chambertin 1er Cru Les Cazetiers 2014</product-name>
+<product-name>Serafin Pere & Fils Gevrey Chambertin 1er Cru Les Cazetiers 2014</product-name>
 <price>1280</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -2833,7 +2823,7 @@
 <product-id>BURB0120</product-id>
 </product>
 <product>
-<product-name>Serafin Pere &amp; Fils Gevrey Chambertin 1er Cru Les Cazetiers 2013</product-name>
+<product-name>Serafin Pere & Fils Gevrey Chambertin 1er Cru Les Cazetiers 2013</product-name>
 <price>1160</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -2843,7 +2833,7 @@
 <product-id>BURB0121</product-id>
 </product>
 <product>
-<product-name>Serafin Pere &amp; Fils Morey Saint Denis 1er Cru Les Millandes 2016</product-name>
+<product-name>Serafin Pere & Fils Morey Saint Denis 1er Cru Les Millandes 2016</product-name>
 <price>880</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -2853,7 +2843,7 @@
 <product-id>BURB0124</product-id>
 </product>
 <product>
-<product-name>Serafin Pere &amp; Fils Morey Saint Denis 1er Cru Les Millandes 2014</product-name>
+<product-name>Serafin Pere & Fils Morey Saint Denis 1er Cru Les Millandes 2014</product-name>
 <price>960</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -2863,7 +2853,7 @@
 <product-id>BURB0125</product-id>
 </product>
 <product>
-<product-name>Serafin Pere &amp; Fils Gevrey Chambertin Vieilles Vignes 2015</product-name>
+<product-name>Serafin Pere & Fils Gevrey Chambertin Vieilles Vignes 2015</product-name>
 <price>630</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -2873,7 +2863,7 @@
 <product-id>BURB0126</product-id>
 </product>
 <product>
-<product-name>Serafin Pere &amp; Fils Gevrey Chambertin Vieilles Vignes 2014</product-name>
+<product-name>Serafin Pere & Fils Gevrey Chambertin Vieilles Vignes 2014</product-name>
 <price>640</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -2883,7 +2873,7 @@
 <product-id>BURB0127</product-id>
 </product>
 <product>
-<product-name>Serafin Pere &amp; Fils Gevrey Chambertin Vieilles Vignes 2013</product-name>
+<product-name>Serafin Pere & Fils Gevrey Chambertin Vieilles Vignes 2013</product-name>
 <price>560</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -2893,7 +2883,7 @@
 <product-id>BURB0128</product-id>
 </product>
 <product>
-<product-name>Serafin Pere &amp; Fils Gevrey Chambertin Vieilles Vignes 2012</product-name>
+<product-name>Serafin Pere & Fils Gevrey Chambertin Vieilles Vignes 2012</product-name>
 <price>600</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -2903,7 +2893,7 @@
 <product-id>BURB0129</product-id>
 </product>
 <product>
-<product-name>Serafin Pere &amp; Fils Gevrey Chambertin 2017</product-name>
+<product-name>Serafin Pere & Fils Gevrey Chambertin 2017</product-name>
 <price>430</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -2913,7 +2903,7 @@
 <product-id>BURB0130</product-id>
 </product>
 <product>
-<product-name>Serafin Pere &amp; Fils Gevrey Chambertin 2016</product-name>
+<product-name>Serafin Pere & Fils Gevrey Chambertin 2016</product-name>
 <price>480</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -2923,7 +2913,7 @@
 <product-id>BURB0131</product-id>
 </product>
 <product>
-<product-name>Serafin Pere &amp; Fils Gevrey Chambertin 2015</product-name>
+<product-name>Serafin Pere & Fils Gevrey Chambertin 2015</product-name>
 <price>480</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -2933,7 +2923,7 @@
 <product-id>BURB0132</product-id>
 </product>
 <product>
-<product-name>Serafin Pere &amp; Fils Gevrey Chambertin 2013</product-name>
+<product-name>Serafin Pere & Fils Gevrey Chambertin 2013</product-name>
 <price>480</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -2943,7 +2933,7 @@
 <product-id>BURB0133</product-id>
 </product>
 <product>
-<product-name>Serafin Pere &amp; Fils Bourgogne Rouge 2016</product-name>
+<product-name>Serafin Pere & Fils Bourgogne Rouge 2016</product-name>
 <price>400</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -2953,7 +2943,7 @@
 <product-id>BURB0145</product-id>
 </product>
 <product>
-<product-name>Serafin Pere &amp; Fils Chambolle Musigny 1er Cru Les Baudes 2020</product-name>
+<product-name>Serafin Pere & Fils Chambolle Musigny 1er Cru Les Baudes 2020</product-name>
 <price>2800</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
@@ -2963,7 +2953,7 @@
 <product-id>BURB0067</product-id>
 </product>
 <product>
-<product-name>Serafin Pere &amp; Fils Gevrey Chambertin 1er Cru les Cazetiers 2020</product-name>
+<product-name>Serafin Pere & Fils Gevrey Chambertin 1er Cru les Cazetiers 2020</product-name>
 <price>3120</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
@@ -3571,5 +3561,15 @@
 <link>https://www.vivino.com/HK/en/jim-barry-the-armagh-shiraz/w/31124/</link>
 <inventory-count>30</inventory-count>
 <product-id>AURB0001</product-id>
+</product>
+<product>
+<product-name> </product-name>
+<price/>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size/>
+<bottle_quantity/>
+<link/>
+<inventory-count/>
+<product-id/>
 </product>
 </vivino-product-list>
