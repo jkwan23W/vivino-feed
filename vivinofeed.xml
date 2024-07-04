@@ -1,6 +1,7 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <vivino-product-list>
 <meta-data>
-<feed-generation-date>2024-07-04T17:18:41Z</feed-generation-date>
+<feed-generation-date>2024-07-04T17:21:15Z</feed-generation-date>
 </meta-data>
 <product>
 <product-name>Siret Frere & Soeur Reserve Perpetuelle NV</product-name>
@@ -3291,5 +3292,275 @@
 <link>https://www.vivino.com/HK/en/pierre-yves-colin-morey-chevalier-montrachet-grand-cru-chevalier-montrachet-grand-cru/w/4854735/</link>
 <inventory-count>1</inventory-count>
 <product-id>BUWB0007</product-id>
+</product>
+<product>
+<product-name>Louis Latour Corton-Charlemagne Grand Cru 2017</product-name>
+<price>880</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>1</bottle_quantity>
+<link>https://www.vivino.com/HK/en/louis-latour-corton-charlemagne-grand-cru/w/7273/</link>
+<inventory-count>1</inventory-count>
+<product-id>BUWB0008</product-id>
+</product>
+<product>
+<product-name>Domaine Jean-Louis Chave Saint-Joseph 2018</product-name>
+<price>600</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>1</bottle_quantity>
+<link>https://www.vivino.com/HK/en/domaine-jean-louis-chave-saint-joseph/w/1098850</link>
+<inventory-count>11</inventory-count>
+<product-id>RHRB0001</product-id>
+</product>
+<product>
+<product-name>Domaine Jean-Louis Chave Saint-Joseph 2016</product-name>
+<price>640</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>1</bottle_quantity>
+<link>https://www.vivino.com/HK/en/domaine-jean-louis-chave-saint-joseph/w/1098850</link>
+<inventory-count>6</inventory-count>
+<product-id>RHRB0002</product-id>
+</product>
+<product>
+<product-name>Domaine Jean-Louis Chave L'Hermitage 2015</product-name>
+<price>11040</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>1500 ml</bottle_size>
+<bottle_quantity>1</bottle_quantity>
+<link>https://www.vivino.com/HK/en/domaine-jean-louis-chave-l-hermitage/w/1098851</link>
+<inventory-count>6</inventory-count>
+<product-id>RHRB0003</product-id>
+</product>
+<product>
+<product-name>Domaine Jean-Louis Chave Ermitage Cuvée Cathelin 2000</product-name>
+<price>49600</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>1</bottle_quantity>
+<link>https://www.vivino.com/HK/en/domaine-jean-louis-chave-ermitage-cuvee-cathelin/w/1489043/</link>
+<inventory-count>2</inventory-count>
+<product-id>RHRB0004</product-id>
+</product>
+<product>
+<product-name>Domaine Jean-Louis Chave Hermitage Vin de Paille 1996</product-name>
+<price>12640</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>375 ml</bottle_size>
+<bottle_quantity>1</bottle_quantity>
+<link>https://www.vivino.com/HK/en/domaine-jean-louis-chave-hermitage-vin-de-paille/w/3217535/</link>
+<inventory-count>6</inventory-count>
+<product-id>RHSB0001</product-id>
+</product>
+<product>
+<product-name>Chateau de Fonsalette Cote du Rhone 1994</product-name>
+<price>6240</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>1</bottle_quantity>
+<link>https://www.vivino.com/HK/en/fonsalet-reserve-cotes-du-rhone-cotes-du-rhone/w/1191704</link>
+<inventory-count>2</inventory-count>
+<product-id>RHRB0009</product-id>
+</product>
+<product>
+<product-name>Domaine Jean-Louis Chave L'Hermitage Blanc 2015</product-name>
+<price>2240</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>1</bottle_quantity>
+<link>https://www.vivino.com/HK/en/domaine-jean-louis-chave-l-hermitage-blanc/w/5650148</link>
+<inventory-count>5</inventory-count>
+<product-id>RHWB0001</product-id>
+</product>
+<product>
+<product-name>Domaine Jean-Louis Chave L'Hermitage Blanc 2015</product-name>
+<price>4720</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>1500 ml</bottle_size>
+<bottle_quantity>1</bottle_quantity>
+<link>https://www.vivino.com/HK/en/domaine-jean-louis-chave-l-hermitage-blanc/w/5650148</link>
+<inventory-count>6</inventory-count>
+<product-id>RHWB0002</product-id>
+</product>
+<product>
+<product-name>Domaine Tempier Bandol Cuvee Cabassou 1999</product-name>
+<price>1520</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>1</bottle_quantity>
+<link>https://www.vivino.com/HK/en/domaine-tempier-bandol-cuvee-cabassaou/w/83170?ref=nav-search</link>
+<inventory-count>4</inventory-count>
+<product-id>PRRB0001</product-id>
+</product>
+<product>
+<product-name>Domaine Tempier Bandol Cuvee Cabassou 1995</product-name>
+<price>1520</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>1</bottle_quantity>
+<link>https://www.vivino.com/HK/en/domaine-tempier-bandol-cuvee-cabassaou/w/83170?ref=nav-search</link>
+<inventory-count>4</inventory-count>
+<product-id>PRRB0002</product-id>
+</product>
+<product>
+<product-name>Domaine de Trévallon Alpilles Rouge 2017</product-name>
+<price>1200</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>1</bottle_quantity>
+<link>https://www.vivino.com/HK/en/domaine-de-trevallon-alpilles-rouge/w/1126324</link>
+<inventory-count>12</inventory-count>
+<product-id>PRRB0003</product-id>
+</product>
+<product>
+<product-name>Domaine de Trévallon Alpilles Rouge 2011</product-name>
+<price>1280</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>1</bottle_quantity>
+<link>https://www.vivino.com/HK/en/domaine-de-trevallon-alpilles-rouge/w/1126324</link>
+<inventory-count>8</inventory-count>
+<product-id>PRRB0004</product-id>
+</product>
+<product>
+<product-name>Domaine de Trévallon Alpilles Rouge 2011</product-name>
+<price>1280</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>1</bottle_quantity>
+<link>https://www.vivino.com/HK/en/domaine-de-trevallon-alpilles-rouge/w/1126324</link>
+<inventory-count>6</inventory-count>
+<product-id>PRRB0005</product-id>
+</product>
+<product>
+<product-name>La Grange des Pères Vin de Pays de l'Hérault 2013</product-name>
+<price>6320</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>1500 ml</bottle_size>
+<bottle_quantity>1</bottle_quantity>
+<link>https://www.vivino.com/HK/en/la-grange-des-peres-vin-de-pays-de-l-herault/w/779852/</link>
+<inventory-count>2</inventory-count>
+<product-id>LRRB0001</product-id>
+</product>
+<product>
+<product-name>Clos Rougeard Saumur Champigny 2015</product-name>
+<price>1840</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>1</bottle_quantity>
+<link>https://www.vivino.com/HK/en/clos-rougeard-saumur-champigny/w/1101358</link>
+<inventory-count>24</inventory-count>
+<product-id>LORB0001</product-id>
+</product>
+<product>
+<product-name>Domaine des Miroirs entre deux bleus Les Saugettes Entre deux Bleus 2016</product-name>
+<price>13440</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>1</bottle_quantity>
+<link>https://www.vivino.com/HK/en/domaine-des-miroirs-les-saugettes-entre-deux-bleus-ctes-du-jura/w/1645781</link>
+<inventory-count>3</inventory-count>
+<product-id>JUWB0001</product-id>
+</product>
+<product>
+<product-name>Domaine des Miroirs Mizuiro Mizuiro 2016</product-name>
+<price>12640</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>1</bottle_quantity>
+<link>https://www.vivino.com/HK/en/domaine-des-miroirs-mizuiro/w/2220907/</link>
+<inventory-count>3</inventory-count>
+<product-id>JUWB0002</product-id>
+</product>
+<product>
+<product-name>Jean François Ganevat Les Vignes de Mon Pere 2003</product-name>
+<price>5520</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>1</bottle_quantity>
+<link>https://www.vivino.com/HK/en/jean-francois-ganevat-les-vignes-de-mon-pere/w/1163376/</link>
+<inventory-count>18</inventory-count>
+<product-id>JUWB0003</product-id>
+</product>
+<product>
+<product-name>Masseto Toscana 2015</product-name>
+<price>12640</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>1500 ml</bottle_size>
+<bottle_quantity>1</bottle_quantity>
+<link>https://www.vivino.com/HK/en/masseto-toscana/w/2446729/</link>
+<inventory-count>1</inventory-count>
+<product-id>TURB0002</product-id>
+</product>
+<product>
+<product-name>Antinori Tenuta Tignanello 'Solaia' 2015</product-name>
+<price>5440</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>1500 ml</bottle_size>
+<bottle_quantity>1</bottle_quantity>
+<link>https://www.vivino.com/HK/en/antinori-tuscany-tenuta-tignanello-solaia/w/1651/</link>
+<inventory-count>6</inventory-count>
+<product-id>TURB0003</product-id>
+</product>
+<product>
+<product-name>Antinori Tenuta Guado al Tasso Bolgheri Superiore 2015</product-name>
+<price>4640</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>3000 ml</bottle_size>
+<bottle_quantity>1</bottle_quantity>
+<link>https://www.vivino.com/HK/en/antinori-tuscany-tenuta-guado-al-tasso-bolgheri-superiore/w/1658/</link>
+<inventory-count>3</inventory-count>
+<product-id>TURB0004</product-id>
+</product>
+<product>
+<product-name>Tenuta San Guido Sassicaia 2016</product-name>
+<price>2080</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>1</bottle_quantity>
+<link>https://www.vivino.com/HK/en/tenuta-san-guido-sassicaia/w/5078/</link>
+<inventory-count>1</inventory-count>
+<product-id>TURB0005</product-id>
+</product>
+<product>
+<product-name>Sine Qua Non Shakti Grenache 2014</product-name>
+<price>2240</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>1</bottle_quantity>
+<link>https://www.vivino.com/HK/en/sine-qua-non-shakti-grenache/w/4861082/</link>
+<inventory-count>0</inventory-count>
+<product-id>CARB0001</product-id>
+</product>
+<product>
+<product-name>Klein Constancia Vin de Constance (Natural Sweet) 2019</product-name>
+<price>360</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>500 ml</bottle_size>
+<bottle_quantity>1</bottle_quantity>
+<link>https://www.vivino.com/HK/en/klein-constantia-vin-de-constance-natural-sweet/w/1958101/</link>
+<inventory-count>0</inventory-count>
+<product-id>SFWB0001</product-id>
+</product>
+<product>
+<product-name>Kracher Grande Cuvée Nummer 5 Nouvelle Vague Trockenbeerenauslese 2019</product-name>
+<price>400</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>375 ml</bottle_size>
+<bottle_quantity>1</bottle_quantity>
+<link>https://www.vivino.com/HK/en/kracher-grande-cuvee-nummer-5-nouvelle-vague-trockenbeerenauslese/w/10142049/</link>
+<inventory-count>18</inventory-count>
+<product-id>AUWB0001</product-id>
+</product>
+<product>
+<product-name>Jim Barry The Armagh Shiraz 2009</product-name>
+<price>1520</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>1</bottle_quantity>
+<link>https://www.vivino.com/HK/en/jim-barry-the-armagh-shiraz/w/31124/</link>
+<inventory-count>30</inventory-count>
+<product-id>AURB0001</product-id>
 </product>
 </vivino-product-list>
