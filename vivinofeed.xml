@@ -1,6 +1,7 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <vivino-product-list>
 <meta-data>
-<feed-generation-date>2024-07-05T13:18:05Z</feed-generation-date>
+<feed-generation-date>2024-07-05T13:23:08Z</feed-generation-date>
 </meta-data>
 <product>
 <product-name>Siret Frere & Soeur Reserve Perpetuelle NV</product-name>
@@ -74,7 +75,7 @@
 </product>
 <product>
 <product-name>Robert Faivre Les Champs de Romy Blanc de Blancs 2018</product-name>
-<price>0</price>
+<price>680</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -424,7 +425,7 @@
 </product>
 <product>
 <product-name>Aurelien Verdet Nuits Saint Georges 2019</product-name>
-<price>0</price>
+<price>600</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -444,7 +445,7 @@
 </product>
 <product>
 <product-name>Aurelien Verdet Nuits Saint Georges 1er Cru Les Damodes 2018</product-name>
-<price>0</price>
+<price>1060</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -464,7 +465,7 @@
 </product>
 <product>
 <product-name>Aurelien Verdet Morey Saint Denis Les Monts Luisants 2019</product-name>
-<price>0</price>
+<price>1060</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -474,7 +475,7 @@
 </product>
 <product>
 <product-name>Aurelien Verdet Bourgogne Hautes Cotes de Nuits Prieuré 2021</product-name>
-<price>0</price>
+<price>420</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -504,7 +505,7 @@
 </product>
 <product>
 <product-name>Aurelien Verdet Vosne Romanée Vieilles Vignes 2021</product-name>
-<price>0</price>
+<price>980</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -903,16 +904,6 @@
 <product-id>BURA0201</product-id>
 </product>
 <product>
-<product-name>Domaine Julien Gros Savigny les Beaune Clos du Village Monopole 2018</product-name>
-<price>0</price>
-<quantity-is-minimum>false</quantity-is-minimum>
-<bottle_size>750 ml</bottle_size>
-<bottle_quantity>1</bottle_quantity>
-<link>https://www.vivino.com/HK/en/domaine-julien-gros-savigny-les-beaune-clos-du-village-monopole-blanc/w/7535487</link>
-<inventory-count>2</inventory-count>
-<product-id>BUWA0020</product-id>
-</product>
-<product>
 <product-name>Domaine Julien Gros Corton Clos du Roi Grand Cru Hommage a Louis PetitJean 2017</product-name>
 <price>1500</price>
 <quantity-is-minimum>false</quantity-is-minimum>
@@ -1111,26 +1102,6 @@
 <link>https://www.vivino.com/HK/en/odoul-coquard-gevrey-chambertin/w/1191873</link>
 <inventory-count>6</inventory-count>
 <product-id>BURA0103</product-id>
-</product>
-<product>
-<product-name>Domaine Odoul Coquard Chambolle-Musigny 2021</product-name>
-<price>0</price>
-<quantity-is-minimum>false</quantity-is-minimum>
-<bottle_size>750 ml</bottle_size>
-<bottle_quantity>1</bottle_quantity>
-<link>https://www.vivino.com/HK/en/odoul-coquard-chambolle-musigny/w/1607759</link>
-<inventory-count>3</inventory-count>
-<product-id>BURA0104</product-id>
-</product>
-<product>
-<product-name>Domaine Odoul Coquard Gevrey-Chambertin 1er cru Les Combottes 2021</product-name>
-<price>0</price>
-<quantity-is-minimum>false</quantity-is-minimum>
-<bottle_size>750 ml</bottle_size>
-<bottle_quantity>1</bottle_quantity>
-<link>https://www.vivino.com/HK/en/odoul-coquard-gevrey-chambertin-1er-cru-aux-combottes/w/1525295</link>
-<inventory-count>30</inventory-count>
-<product-id>BURA0106</product-id>
 </product>
 <product>
 <product-name>Domaine Odoul Coquard Clos Vougeot Grand Cru 2021</product-name>
@@ -1423,16 +1394,6 @@
 <product-id>BUWA0044</product-id>
 </product>
 <product>
-<product-name>Antonin Cosnier Corton Charlemagne Grand Cru 2019</product-name>
-<price>0</price>
-<quantity-is-minimum>false</quantity-is-minimum>
-<bottle_size>1500 ml</bottle_size>
-<bottle_quantity>1</bottle_quantity>
-<link>https://www.vivino.com/HK/en/antonin-cosnier-corton-charlemagne-grand-cru/w/8399199/</link>
-<inventory-count>3</inventory-count>
-<product-id>BUWA0045</product-id>
-</product>
-<product>
 <product-name>Antonin Cosnier Corton Charlemagne Grand Cru 2020</product-name>
 <price>1800</price>
 <quantity-is-minimum>false</quantity-is-minimum>
@@ -1461,16 +1422,6 @@
 <link>https://www.vivino.com/HK/en/antonin-cosnier-pernand-vergelesses/w/8561588/</link>
 <inventory-count>6</inventory-count>
 <product-id>BUWA0049</product-id>
-</product>
-<product>
-<product-name>Antonin Cosnier Pernand Vergelesses 1er Cru En Caradeaux Blanc 2019</product-name>
-<price>0</price>
-<quantity-is-minimum>false</quantity-is-minimum>
-<bottle_size>750 ml</bottle_size>
-<bottle_quantity>1</bottle_quantity>
-<link>https://www.vivino.com/HK/en/antonin-cosnier-pernand-vergelesses-premier-cru-en-caradeux/w/9242952/</link>
-<inventory-count>5</inventory-count>
-<product-id>BUWA0050</product-id>
 </product>
 <product>
 <product-name>Antonin Cosnier Pernand Vergelesses 1er Cru En Caradeaux Blanc 2019</product-name>
@@ -1524,16 +1475,6 @@
 </product>
 <product>
 <product-name>Antonin Cosnier Corton Renardes Grand Cru 2019</product-name>
-<price>0</price>
-<quantity-is-minimum>false</quantity-is-minimum>
-<bottle_size>750 ml</bottle_size>
-<bottle_quantity>1</bottle_quantity>
-<link>https://www.vivino.com/HK/en/antonin-cosnier-corton-grand-cru-les-renardes/w/9836746/</link>
-<inventory-count>3</inventory-count>
-<product-id>BURA0118</product-id>
-</product>
-<product>
-<product-name>Antonin Cosnier Corton Renardes Grand Cru 2019</product-name>
 <price>2160</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
@@ -1541,16 +1482,6 @@
 <link>https://www.vivino.com/HK/en/antonin-cosnier-corton-grand-cru-les-renardes/w/9836746/</link>
 <inventory-count>4</inventory-count>
 <product-id>BURA0119</product-id>
-</product>
-<product>
-<product-name>Antonin Cosnier Corton Renardes Grand Cru 2020</product-name>
-<price>0</price>
-<quantity-is-minimum>false</quantity-is-minimum>
-<bottle_size>750 ml</bottle_size>
-<bottle_quantity>1</bottle_quantity>
-<link>https://www.vivino.com/HK/en/antonin-cosnier-corton-grand-cru-les-renardes/w/9836746/</link>
-<inventory-count>5</inventory-count>
-<product-id>BURA0120</product-id>
 </product>
 <product>
 <product-name>Antonin Cosnier Corton Renardes Grand Cru 2020</product-name>
