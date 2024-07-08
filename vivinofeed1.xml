@@ -1,10 +1,10 @@
 This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <vivino-product-list>
 <meta-data>
-<feed-generation-date>2024-07-05T13:31:42Z</feed-generation-date>
+<feed-generation-date>2024-07-08T09:57:54Z</feed-generation-date>
 </meta-data>
 <product>
-<product-name>Siret Frere & Soeur Reserve Perpetuelle NV</product-name>
+<product-name>Siret Frere &amp; Soeur Reserve Perpetuelle NV White</product-name>
 <price>660</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -14,7 +14,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>CHWA0001</product-id>
 </product>
 <product>
-<product-name>Siret Frere & Soeur Rose de Saignee 2018</product-name>
+<product-name>Siret Frere &amp; Soeur Rose de Saignee 2018 Rose</product-name>
 <price>780</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -24,7 +24,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>CHROA0001</product-id>
 </product>
 <product>
-<product-name>Siret Frere & Soeur Blanc de Blancs 2013</product-name>
+<product-name>Siret Frere &amp; Soeur Blanc de Blancs 2013 White</product-name>
 <price>1060</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -34,7 +34,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>CHWA0003</product-id>
 </product>
 <product>
-<product-name>Siret Frere & Soeur Blanc de Noirs 2014</product-name>
+<product-name>Siret Frere &amp; Soeur Blanc de Noirs 2014 White</product-name>
 <price>1320</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -44,7 +44,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>CHWA0004</product-id>
 </product>
 <product>
-<product-name>Robert Faivre L'Aguerrie NV</product-name>
+<product-name>Robert Faivre L'Aguerrie NV White</product-name>
 <price>540</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -54,7 +54,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>CHWA0006</product-id>
 </product>
 <product>
-<product-name>Robert Faivre Les Perles du Paradis Rose NV</product-name>
+<product-name>Robert Faivre Les Perles du Paradis Rose NV Rose</product-name>
 <price>580</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -64,7 +64,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>CHROA0002</product-id>
 </product>
 <product>
-<product-name>Robert Faivre Les Champs de Romy Blanc de Blancs 2017</product-name>
+<product-name>Robert Faivre Les Champs de Romy Blanc de Blancs 2017 White</product-name>
 <price>630</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -74,7 +74,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>CHWA0007</product-id>
 </product>
 <product>
-<product-name>Robert Faivre Les Champs de Romy Blanc de Blancs 2018</product-name>
+<product-name>Robert Faivre Les Champs de Romy Blanc de Blancs 2018 White</product-name>
 <price>680</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -84,7 +84,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>CHWA0022</product-id>
 </product>
 <product>
-<product-name>Robert Faivre L'Experte Blanc de Blancs 2018</product-name>
+<product-name>Robert Faivre L'Experte Blanc de Blancs 2018 White</product-name>
 <price>630</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -94,7 +94,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>CHWA0020</product-id>
 </product>
 <product>
-<product-name>Robert Faivre L'or de Faivre 2015</product-name>
+<product-name>Robert Faivre L'or de Faivre 2015 White</product-name>
 <price>1060</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -104,7 +104,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>CHWA0008</product-id>
 </product>
 <product>
-<product-name>Robert Faivre Reflet Naturel NV</product-name>
+<product-name>Robert Faivre Reflet Naturel NV White</product-name>
 <price>990</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
@@ -114,7 +114,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>CHWA0009</product-id>
 </product>
 <product>
-<product-name>Robert Faivre Reflet Naturel NV</product-name>
+<product-name>Robert Faivre Reflet Naturel NV White</product-name>
 <price>2640</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>3000 ml</bottle_size>
@@ -124,7 +124,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>CHWA0010</product-id>
 </product>
 <product>
-<product-name>Robert Faivre Coteaux Champenois Pinot Meunier le Bel'Val 2021</product-name>
+<product-name>Robert Faivre Coteaux Champenois Pinot Meunier le Bel'Val 2021 Red</product-name>
 <price>660</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -134,7 +134,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>CHRA0001</product-id>
 </product>
 <product>
-<product-name>Nathalie Falmet Cuvee Brut Nature NV</product-name>
+<product-name>Nathalie Falmet Cuvee Brut Nature NV White</product-name>
 <price>460</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -144,7 +144,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>CHWA0011</product-id>
 </product>
 <product>
-<product-name>Nathalie Falmet Solera Reserve Perpetuelle NV</product-name>
+<product-name>Nathalie Falmet Solera Reserve Perpetuelle NV White</product-name>
 <price>720</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -154,7 +154,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>CHWA0012</product-id>
 </product>
 <product>
-<product-name>Nathalie Falmet Terra Blanc de Blancs 2014</product-name>
+<product-name>Nathalie Falmet Terra Blanc de Blancs 2014 White</product-name>
 <price>720</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -164,7 +164,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>CHWA0013</product-id>
 </product>
 <product>
-<product-name>Nathalie Falmet Cuvee ZH 302 Pinot Meunier 2012</product-name>
+<product-name>Nathalie Falmet Cuvee ZH 302 Pinot Meunier 2012 White</product-name>
 <price>1320</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -174,7 +174,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>CHWA0014</product-id>
 </product>
 <product>
-<product-name>Nathalie Falmet Cuvee ZH 303 Chardonnay 2014</product-name>
+<product-name>Nathalie Falmet Cuvee ZH 303 Chardonnay 2014 White</product-name>
 <price>1320</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -184,7 +184,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>CHWA0015</product-id>
 </product>
 <product>
-<product-name>Nathalie Falmet Cuvee ZH 318 Pinot Noir 2017</product-name>
+<product-name>Nathalie Falmet Cuvee ZH 318 Pinot Noir 2017 White</product-name>
 <price>1320</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -194,7 +194,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>CHWA0016</product-id>
 </product>
 <product>
-<product-name>Nathalie Falmet Cuvee Brut Nature NV</product-name>
+<product-name>Nathalie Falmet Cuvee Brut Nature NV White</product-name>
 <price>460</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -204,7 +204,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>CHWA0011</product-id>
 </product>
 <product>
-<product-name>Nathalie Falmet Terra Blanc de Blancs 2018</product-name>
+<product-name>Nathalie Falmet Terra Blanc de Blancs 2018 White</product-name>
 <price>720</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -214,7 +214,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>CHWA0023</product-id>
 </product>
 <product>
-<product-name>Nathalie Falmet Cuvee ZH 303 Chardonnay 2014</product-name>
+<product-name>Nathalie Falmet Cuvee ZH 303 Chardonnay 2014 White</product-name>
 <price>1320</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -224,7 +224,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>CHWA0015</product-id>
 </product>
 <product>
-<product-name>Chateau Ginkgo Castillon Cotes de Bordeaux 2020</product-name>
+<product-name>Chateau Ginkgo Castillon Cotes de Bordeaux 2020 Red</product-name>
 <price>780</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -234,7 +234,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BORA0002</product-id>
 </product>
 <product>
-<product-name>Chateau Ginkgo Castillon Cotes de Bordeaux 2021</product-name>
+<product-name>Chateau Ginkgo Castillon Cotes de Bordeaux 2021 Red</product-name>
 <price>780</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -244,7 +244,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BORA0003</product-id>
 </product>
 <product>
-<product-name>Darviot-Perrin Volnay 1er Cru Santenots 2020</product-name>
+<product-name>Darviot-Perrin Volnay 1er Cru Santenots 2020 Red</product-name>
 <price>900</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -254,7 +254,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0006</product-id>
 </product>
 <product>
-<product-name>Darviot-Perrin Chassagne Montrachet Rouge 1er Cru Les Bondues 2016</product-name>
+<product-name>Darviot-Perrin Chassagne Montrachet Rouge 1er Cru Les Bondues 2016 Red</product-name>
 <price>1070</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -264,7 +264,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0048</product-id>
 </product>
 <product>
-<product-name>Darviot-Perrin Volnay 1er Cru Santenots 2004</product-name>
+<product-name>Darviot-Perrin Volnay 1er Cru Santenots 2004 Red</product-name>
 <price>1320</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -274,7 +274,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0049</product-id>
 </product>
 <product>
-<product-name>Darviot-Perrin Beaune Les Longbois 2021</product-name>
+<product-name>Darviot-Perrin Beaune Les Longbois 2021 White</product-name>
 <price>660</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -284,7 +284,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWA0024</product-id>
 </product>
 <product>
-<product-name>Darviot-Perrin Meursault 'Clos de La Velle' 2021</product-name>
+<product-name>Darviot-Perrin Meursault 'Clos de La Velle' 2021 White</product-name>
 <price>870</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -294,7 +294,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWA0025</product-id>
 </product>
 <product>
-<product-name>Darviot-Perrin Meursault 1er Cru Les Genevrieres 2021</product-name>
+<product-name>Darviot-Perrin Meursault 1er Cru Les Genevrieres 2021 White</product-name>
 <price>1620</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -304,7 +304,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWA0027</product-id>
 </product>
 <product>
-<product-name>Darviot-Perrin Meursault 1er Cru Les Charmes 2021</product-name>
+<product-name>Darviot-Perrin Meursault 1er Cru Les Charmes 2021 White</product-name>
 <price>1500</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -314,7 +314,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWA0028</product-id>
 </product>
 <product>
-<product-name>Darviot-Perrin Meursault 1er Cru 'Perrières' 2021</product-name>
+<product-name>Darviot-Perrin Meursault 1er Cru 'Perrières' 2021 White</product-name>
 <price>2160</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -324,7 +324,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWA0029</product-id>
 </product>
 <product>
-<product-name>Darviot-Perrin Chassagne-Montrachet 'La Bergerie' 2021</product-name>
+<product-name>Darviot-Perrin Chassagne-Montrachet 'La Bergerie' 2021 White</product-name>
 <price>1020</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -334,7 +334,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWA0030</product-id>
 </product>
 <product>
-<product-name>Darviot-Perrin Chassagne-Montrachet 1er Cru 'Blanchot Dessus' 2021</product-name>
+<product-name>Darviot-Perrin Chassagne-Montrachet 1er Cru 'Blanchot Dessus' 2021 White</product-name>
 <price>2160</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -344,7 +344,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWA0031</product-id>
 </product>
 <product>
-<product-name>Darviot-Perrin Chassagne-Montrachet 1er Cru 'Les Bondues' 2021</product-name>
+<product-name>Darviot-Perrin Chassagne-Montrachet 1er Cru 'Les Bondues' 2021 Red</product-name>
 <price>870</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -354,7 +354,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0085</product-id>
 </product>
 <product>
-<product-name>Darviot-Perrin Volnay 1er cru 'Santenots' 2021</product-name>
+<product-name>Darviot-Perrin Volnay 1er cru 'Santenots' 2021 Red</product-name>
 <price>1070</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -364,7 +364,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0086</product-id>
 </product>
 <product>
-<product-name>Darviot-Perrin Volnay 1er cru 'Gigotte' 2021</product-name>
+<product-name>Darviot-Perrin Volnay 1er cru 'Gigotte' 2021 Red</product-name>
 <price>1020</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -374,7 +374,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0087</product-id>
 </product>
 <product>
-<product-name>Bachelet-Monnot Chassagne Montrachet 2021</product-name>
+<product-name>Bachelet-Monnot Chassagne Montrachet 2021 White</product-name>
 <price>820</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -384,7 +384,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWA0058</product-id>
 </product>
 <product>
-<product-name>Bachelet-Monnot Puligny Montrachet 2021</product-name>
+<product-name>Bachelet-Monnot Puligny Montrachet 2021 White</product-name>
 <price>960</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -394,7 +394,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWA0059</product-id>
 </product>
 <product>
-<product-name>Bachelet-Monnot Meursault Clos du Cromin 2021</product-name>
+<product-name>Bachelet-Monnot Meursault Clos du Cromin 2021 White</product-name>
 <price>960</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -404,7 +404,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWA0060</product-id>
 </product>
 <product>
-<product-name>Bachelet-Monnot Puligny Montrachet 1er Cru les Referts 2021</product-name>
+<product-name>Bachelet-Monnot Puligny Montrachet 1er Cru les Referts 2021 White</product-name>
 <price>1920</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -414,7 +414,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWA0061</product-id>
 </product>
 <product>
-<product-name>Bachelet-Monnot Bourgogne Rouge 2021</product-name>
+<product-name>Bachelet-Monnot Bourgogne Rouge 2021 Red</product-name>
 <price>320</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -424,7 +424,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0140</product-id>
 </product>
 <product>
-<product-name>Aurelien Verdet Nuits Saint Georges 2019</product-name>
+<product-name>Aurelien Verdet Nuits Saint Georges 2019 Red</product-name>
 <price>600</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -434,7 +434,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0014</product-id>
 </product>
 <product>
-<product-name>Aurelien Verdet Nuits Saint Georges 2018</product-name>
+<product-name>Aurelien Verdet Nuits Saint Georges 2018 Red</product-name>
 <price>600</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -444,7 +444,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0015</product-id>
 </product>
 <product>
-<product-name>Aurelien Verdet Nuits Saint Georges 1er Cru Les Damodes 2018</product-name>
+<product-name>Aurelien Verdet Nuits Saint Georges 1er Cru Les Damodes 2018 Red</product-name>
 <price>1060</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -454,7 +454,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0017</product-id>
 </product>
 <product>
-<product-name>Aurelien Verdet Morey Saint Denis Les Monts Luisants 2020</product-name>
+<product-name>Aurelien Verdet Morey Saint Denis Les Monts Luisants 2020 Red</product-name>
 <price>1060</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -464,7 +464,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0018</product-id>
 </product>
 <product>
-<product-name>Aurelien Verdet Morey Saint Denis Les Monts Luisants 2019</product-name>
+<product-name>Aurelien Verdet Morey Saint Denis Les Monts Luisants 2019 Red</product-name>
 <price>1060</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -474,7 +474,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0019</product-id>
 </product>
 <product>
-<product-name>Aurelien Verdet Bourgogne Hautes Cotes de Nuits Prieuré 2021</product-name>
+<product-name>Aurelien Verdet Bourgogne Hautes Cotes de Nuits Prieuré 2021 Red</product-name>
 <price>420</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -484,7 +484,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0088</product-id>
 </product>
 <product>
-<product-name>Aurelien Verdet Cote de Nuits Village La Prêtière 2021</product-name>
+<product-name>Aurelien Verdet Cote de Nuits Village La Prêtière 2021 Red</product-name>
 <price>420</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -494,7 +494,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0122</product-id>
 </product>
 <product>
-<product-name>Aurelien Verdet Nuits Saint Georges 2021</product-name>
+<product-name>Aurelien Verdet Nuits Saint Georges 2021 Red</product-name>
 <price>600</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -504,7 +504,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0125</product-id>
 </product>
 <product>
-<product-name>Aurelien Verdet Vosne Romanée Vieilles Vignes 2021</product-name>
+<product-name>Aurelien Verdet Vosne Romanée Vieilles Vignes 2021 Red</product-name>
 <price>980</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -514,7 +514,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0128</product-id>
 </product>
 <product>
-<product-name>Aurelien Verdet Morey St Denis 1er Cru Les Monts Luisants 2021</product-name>
+<product-name>Aurelien Verdet Morey St Denis 1er Cru Les Monts Luisants 2021 Red</product-name>
 <price>1020</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -524,7 +524,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0130</product-id>
 </product>
 <product>
-<product-name>Aurelien Verdet Bourgogne Hautes Côtes de Nuits Le Prieuré 2022</product-name>
+<product-name>Aurelien Verdet Bourgogne Hautes Côtes de Nuits Le Prieuré 2022 Red</product-name>
 <price>340</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -534,7 +534,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0202</product-id>
 </product>
 <product>
-<product-name>Aurelien Verdet Fixin 2022</product-name>
+<product-name>Aurelien Verdet Fixin 2022 Red</product-name>
 <price>460</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -544,7 +544,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0203</product-id>
 </product>
 <product>
-<product-name>Aurelien Verdet Marsannay Champs Perdrix 2022</product-name>
+<product-name>Aurelien Verdet Marsannay Champs Perdrix 2022 Red</product-name>
 <price>510</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -554,7 +554,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0204</product-id>
 </product>
 <product>
-<product-name>Aurelien Verdet Nuits Saint Georges 2022</product-name>
+<product-name>Aurelien Verdet Nuits Saint Georges 2022 Red</product-name>
 <price>600</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -564,7 +564,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0205</product-id>
 </product>
 <product>
-<product-name>Aurelien Verdet Gevrey Chambertin 2022</product-name>
+<product-name>Aurelien Verdet Gevrey Chambertin 2022 Red</product-name>
 <price>720</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -574,7 +574,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0206</product-id>
 </product>
 <product>
-<product-name>Aurelien Verdet Vosne Romanée Vieilles Vignes 2022</product-name>
+<product-name>Aurelien Verdet Vosne Romanée Vieilles Vignes 2022 Red</product-name>
 <price>1020</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -584,7 +584,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0207</product-id>
 </product>
 <product>
-<product-name>Aurelien Verdet Chambolle-Musigny 2022</product-name>
+<product-name>Aurelien Verdet Chambolle-Musigny 2022 Red</product-name>
 <price>960</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -594,7 +594,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0208</product-id>
 </product>
 <product>
-<product-name>Aurelien Verdet Nuits Saint Georges 1er Cru Les Damodes 2022</product-name>
+<product-name>Aurelien Verdet Nuits Saint Georges 1er Cru Les Damodes 2022 Red</product-name>
 <price>1060</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -604,7 +604,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0209</product-id>
 </product>
 <product>
-<product-name>Aurelien Verdet Nuits Saint Georges 1er Cru Aux Boudots 2022</product-name>
+<product-name>Aurelien Verdet Nuits Saint Georges 1er Cru Aux Boudots 2022 Red</product-name>
 <price>1140</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -614,7 +614,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0210</product-id>
 </product>
 <product>
-<product-name>Agnes Paquet Bourgogne Aligote 2022</product-name>
+<product-name>Agnes Paquet Bourgogne Aligote 2022 White</product-name>
 <price>260</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -624,7 +624,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWA0080</product-id>
 </product>
 <product>
-<product-name>Agnes Paquet Hautes Cote de Beaune Blanc 2022</product-name>
+<product-name>Agnes Paquet Hautes Cote de Beaune Blanc 2022 White</product-name>
 <price>310</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -634,7 +634,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWA0081</product-id>
 </product>
 <product>
-<product-name>Agnes Paquet Auxey-Duresses Blanc Les Hoz 2022</product-name>
+<product-name>Agnes Paquet Auxey-Duresses Blanc Les Hoz 2022 White</product-name>
 <price>380</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -644,7 +644,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWA0082</product-id>
 </product>
 <product>
-<product-name>Agnes Paquet Auxey-Duresses Blanc Les Hoz 2022</product-name>
+<product-name>Agnes Paquet Auxey-Duresses Blanc Les Hoz 2022 White</product-name>
 <price>770</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
@@ -654,7 +654,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWA0083</product-id>
 </product>
 <product>
-<product-name>Agnes Paquet Auxey-Duresses Blanc Les Hoz 2022</product-name>
+<product-name>Agnes Paquet Auxey-Duresses Blanc Les Hoz 2022 White</product-name>
 <price>2160</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>3000 ml</bottle_size>
@@ -664,7 +664,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWA0084</product-id>
 </product>
 <product>
-<product-name>Agnes Paquet Hautes Cote de Beaune Rouge 2022</product-name>
+<product-name>Agnes Paquet Hautes Cote de Beaune Rouge 2022 Red</product-name>
 <price>310</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -674,7 +674,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0191</product-id>
 </product>
 <product>
-<product-name>Agnes Paquet Auxey-Duresses Rouge Les Hoz 2022</product-name>
+<product-name>Agnes Paquet Auxey-Duresses Rouge Les Hoz 2022 Red</product-name>
 <price>380</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -684,7 +684,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0192</product-id>
 </product>
 <product>
-<product-name>Agnes Paquet Pommard Les Combes 2022</product-name>
+<product-name>Agnes Paquet Pommard Les Combes 2022 Red</product-name>
 <price>590</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -694,7 +694,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0193</product-id>
 </product>
 <product>
-<product-name>Domaine Bruno Clavelier Bourgogne Passetoutgrain 2019</product-name>
+<product-name>Domaine Bruno Clavelier Bourgogne Passetoutgrain 2019 Red</product-name>
 <price>350</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -704,7 +704,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0065</product-id>
 </product>
 <product>
-<product-name>Domaine Bruno Clavelier Vosne Romanée La Combe Brûlée 2018</product-name>
+<product-name>Domaine Bruno Clavelier Vosne Romanée La Combe Brûlée 2018 Red</product-name>
 <price>1320</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -714,7 +714,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0066</product-id>
 </product>
 <product>
-<product-name>Domaine Bruno Clavelier Vosne Romanée 1er Cru Aux Brûlées 2016</product-name>
+<product-name>Domaine Bruno Clavelier Vosne Romanée 1er Cru Aux Brûlées 2016 Red</product-name>
 <price>2280</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -724,7 +724,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0068</product-id>
 </product>
 <product>
-<product-name>Domaine Bruno Clavelier Vosne Romanée 1er Cru Les Beaux Monts 2016</product-name>
+<product-name>Domaine Bruno Clavelier Vosne Romanée 1er Cru Les Beaux Monts 2016 Red</product-name>
 <price>2280</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -734,7 +734,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0069</product-id>
 </product>
 <product>
-<product-name>Domaine Bruno Clavelier Chambolle Musigny 1er Cru La Combe d'Orveaux 2017</product-name>
+<product-name>Domaine Bruno Clavelier Chambolle Musigny 1er Cru La Combe d'Orveaux 2017 Red</product-name>
 <price>2640</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -744,7 +744,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0070</product-id>
 </product>
 <product>
-<product-name>Domaine Bruno Clavelier Chambolle Musigny 1er Cru Les Noirots 2017</product-name>
+<product-name>Domaine Bruno Clavelier Chambolle Musigny 1er Cru Les Noirots 2017 Red</product-name>
 <price>2280</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -754,7 +754,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0071</product-id>
 </product>
 <product>
-<product-name>Domaine Bruno Clavelier Gevrey Chambertin 1er Cru Les Corbeaux 2017</product-name>
+<product-name>Domaine Bruno Clavelier Gevrey Chambertin 1er Cru Les Corbeaux 2017 Red</product-name>
 <price>1620</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -764,7 +764,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0072</product-id>
 </product>
 <product>
-<product-name>Domaine Bruno Clavelier Nuits Saint Georges 1er Cru Aux Cras 2018</product-name>
+<product-name>Domaine Bruno Clavelier Nuits Saint Georges 1er Cru Aux Cras 2018 Red</product-name>
 <price>1620</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -774,7 +774,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0073</product-id>
 </product>
 <product>
-<product-name>Domaine Bruno Clavelier Corton Grand Cru Le Rognet 2016</product-name>
+<product-name>Domaine Bruno Clavelier Corton Grand Cru Le Rognet 2016 Red</product-name>
 <price>1980</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -784,7 +784,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0074</product-id>
 </product>
 <product>
-<product-name>Domaine Thierry Mortet Bourgogne Rouge Cote d'Or 2022</product-name>
+<product-name>Domaine Thierry Mortet Bourgogne Rouge Cote d'Or 2022 Red</product-name>
 <price>360</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -794,7 +794,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0227</product-id>
 </product>
 <product>
-<product-name>Domaine Thierry Mortet Gevrey Chambertin 2022</product-name>
+<product-name>Domaine Thierry Mortet Gevrey Chambertin 2022 Red</product-name>
 <price>700</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -804,7 +804,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0228</product-id>
 </product>
 <product>
-<product-name>Domaine Thierry Mortet Gevrey Chambertin 2022</product-name>
+<product-name>Domaine Thierry Mortet Gevrey Chambertin 2022 Red</product-name>
 <price>1620</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
@@ -814,7 +814,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0229</product-id>
 </product>
 <product>
-<product-name>Domaine Thierry Mortet Gevrey Chambertin Vignes Belles 2022</product-name>
+<product-name>Domaine Thierry Mortet Gevrey Chambertin Vignes Belles 2022 Red</product-name>
 <price>780</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -824,7 +824,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0230</product-id>
 </product>
 <product>
-<product-name>Domaine Thierry Mortet Chambolle-Musigny 1er Cru Les Beaux Bruns 2022</product-name>
+<product-name>Domaine Thierry Mortet Chambolle-Musigny 1er Cru Les Beaux Bruns 2022 Red</product-name>
 <price>1180</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -834,7 +834,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0231</product-id>
 </product>
 <product>
-<product-name>Edouard Confuron Bourgogne Aligoté 2022</product-name>
+<product-name>Edouard Confuron Bourgogne Aligoté 2022 White</product-name>
 <price>340</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -844,7 +844,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWA0093</product-id>
 </product>
 <product>
-<product-name>Edouard Confuron Côteaux Bourguignons 2022</product-name>
+<product-name>Edouard Confuron Côteaux Bourguignons 2022 Red</product-name>
 <price>340</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -854,7 +854,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0196</product-id>
 </product>
 <product>
-<product-name>Edouard Confuron Bourgogne Pinot Noir 2022</product-name>
+<product-name>Edouard Confuron Bourgogne Pinot Noir 2022 Red</product-name>
 <price>360</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -864,7 +864,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0197</product-id>
 </product>
 <product>
-<product-name>Edouard Confuron Nuits-Saint-Georges Aux Allots 2022</product-name>
+<product-name>Edouard Confuron Nuits-Saint-Georges Aux Allots 2022 Red</product-name>
 <price>830</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -874,7 +874,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0198</product-id>
 </product>
 <product>
-<product-name>Edouard Confuron Gevrey-Chambertin Les Seuvrées 2022</product-name>
+<product-name>Edouard Confuron Gevrey-Chambertin Les Seuvrées 2022 Red</product-name>
 <price>1020</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -884,7 +884,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0199</product-id>
 </product>
 <product>
-<product-name>Edouard Confuron Vosne-Romanée Le Pré de la Folie 2022</product-name>
+<product-name>Edouard Confuron Vosne-Romanée Le Pré de la Folie 2022 Red</product-name>
 <price>1180</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -894,7 +894,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0200</product-id>
 </product>
 <product>
-<product-name>Edouard Confuron Vosne-Romanée Les Hautes Maizières 2022</product-name>
+<product-name>Edouard Confuron Vosne-Romanée Les Hautes Maizières 2022 Red</product-name>
 <price>1440</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -904,7 +904,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0201</product-id>
 </product>
 <product>
-<product-name>Domaine Julien Gros Corton Clos du Roi Grand Cru Hommage a Louis PetitJean 2017</product-name>
+<product-name>Domaine Julien Gros Corton Clos du Roi Grand Cru Hommage a Louis PetitJean 2017 Red</product-name>
 <price>1500</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -914,7 +914,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0057</product-id>
 </product>
 <product>
-<product-name>Domaine Julien Gros Corton Clos du Roi Grand Cru Hommage a Louis PetitJean 2020</product-name>
+<product-name>Domaine Julien Gros Corton Clos du Roi Grand Cru Hommage a Louis PetitJean 2020 Red</product-name>
 <price>2160</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -924,7 +924,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0058</product-id>
 </product>
 <product>
-<product-name>Domaine Julien Gros Savigny les Beaune Blanc Clos du Village Monopole 2022</product-name>
+<product-name>Domaine Julien Gros Savigny les Beaune Blanc Clos du Village Monopole 2022 White</product-name>
 <price>510</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -934,7 +934,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWA0101</product-id>
 </product>
 <product>
-<product-name>Domaine Julien Gros Corton Charlemagne Grand Cru Les Languettes 2019</product-name>
+<product-name>Domaine Julien Gros Corton Charlemagne Grand Cru Les Languettes 2019 White</product-name>
 <price>1800</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -944,7 +944,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWA0102</product-id>
 </product>
 <product>
-<product-name>Domaine Julien Gros Corton Charlemagne Grand Cru Les Languettes 2022</product-name>
+<product-name>Domaine Julien Gros Corton Charlemagne Grand Cru Les Languettes 2022 White</product-name>
 <price>2160</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -954,7 +954,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWA0103</product-id>
 </product>
 <product>
-<product-name>Domaine Julien Gros Savigny les Beaune Clos du Village Monopole 2022</product-name>
+<product-name>Domaine Julien Gros Savigny les Beaune Clos du Village Monopole 2022 Red</product-name>
 <price>510</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -964,7 +964,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0246</product-id>
 </product>
 <product>
-<product-name>Domaine Julien Gros Corton Clos du Roi Grand Cru 2021</product-name>
+<product-name>Domaine Julien Gros Corton Clos du Roi Grand Cru 2021 Red</product-name>
 <price>1440</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -974,7 +974,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0247</product-id>
 </product>
 <product>
-<product-name>Domaine Julien Gros Corton Clos du Roi Grand Cru 2022</product-name>
+<product-name>Domaine Julien Gros Corton Clos du Roi Grand Cru 2022 Red</product-name>
 <price>1440</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -984,7 +984,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0248</product-id>
 </product>
 <product>
-<product-name>Domaine Christian Gros Ladoix Les Issards 2021</product-name>
+<product-name>Domaine Christian Gros Ladoix Les Issards 2021 White</product-name>
 <price>460</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -994,7 +994,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWA0018</product-id>
 </product>
 <product>
-<product-name>Domaine Christian Gros Ladoix 1er Cru Les Grechons 2021</product-name>
+<product-name>Domaine Christian Gros Ladoix 1er Cru Les Grechons 2021 White</product-name>
 <price>780</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1004,7 +1004,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWA0019</product-id>
 </product>
 <product>
-<product-name>Domaine Christian Gros Ladoix La Corvee Basse 2021</product-name>
+<product-name>Domaine Christian Gros Ladoix La Corvee Basse 2021 Red</product-name>
 <price>420</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1014,7 +1014,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0061</product-id>
 </product>
 <product>
-<product-name>Domaine Christian Gros Ladoix La Corvee Basse 2020</product-name>
+<product-name>Domaine Christian Gros Ladoix La Corvee Basse 2020 Red</product-name>
 <price>900</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
@@ -1024,7 +1024,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0062</product-id>
 </product>
 <product>
-<product-name>Domaine Christian Gros Aloxe Corton Les Valozieres 2020</product-name>
+<product-name>Domaine Christian Gros Aloxe Corton Les Valozieres 2020 Red</product-name>
 <price>1140</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
@@ -1034,7 +1034,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0063</product-id>
 </product>
 <product>
-<product-name>Domaine Christian Gros Aloxe Corton 1er Cru Les Petites Lolieres 2020</product-name>
+<product-name>Domaine Christian Gros Aloxe Corton 1er Cru Les Petites Lolieres 2020 Red</product-name>
 <price>1500</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
@@ -1044,7 +1044,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0064</product-id>
 </product>
 <product>
-<product-name>Domaine Odoul Coquard Morey-Saint-Denis 1er Cru 'Les Millandes' 2019</product-name>
+<product-name>Domaine Odoul Coquard Morey-Saint-Denis 1er Cru 'Les Millandes' 2019 Red</product-name>
 <price>1020</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1054,7 +1054,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0027</product-id>
 </product>
 <product>
-<product-name>Domaine Odoul Coquard Gevrey-Chambertin 1er Cru 'Aux Combottes' 2019</product-name>
+<product-name>Domaine Odoul Coquard Gevrey-Chambertin 1er Cru 'Aux Combottes' 2019 Red</product-name>
 <price>1180</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1064,7 +1064,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0028</product-id>
 </product>
 <product>
-<product-name>Domaine Odoul Coquard Gevrey-Chambertin 1er Cru 'Aux Combottes' 2018</product-name>
+<product-name>Domaine Odoul Coquard Gevrey-Chambertin 1er Cru 'Aux Combottes' 2018 Red</product-name>
 <price>1180</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1074,7 +1074,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0029</product-id>
 </product>
 <product>
-<product-name>Domaine Odoul Coquard Bourgogne Côte D'Or 2021</product-name>
+<product-name>Domaine Odoul Coquard Bourgogne Côte D'Or 2021 Red</product-name>
 <price>340</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1084,7 +1084,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0101</product-id>
 </product>
 <product>
-<product-name>Domaine Odoul Coquard Morey-Saint-Denis Aux Chéseaux 2021</product-name>
+<product-name>Domaine Odoul Coquard Morey-Saint-Denis Aux Chéseaux 2021 Red</product-name>
 <price>630</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1094,7 +1094,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0102</product-id>
 </product>
 <product>
-<product-name>Domaine Odoul Coquard Gevrey-Chambertin 2021</product-name>
+<product-name>Domaine Odoul Coquard Gevrey-Chambertin 2021 Red</product-name>
 <price>720</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1104,7 +1104,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0103</product-id>
 </product>
 <product>
-<product-name>Domaine Odoul Coquard Clos Vougeot Grand Cru 2021</product-name>
+<product-name>Domaine Odoul Coquard Clos Vougeot Grand Cru 2021 Red</product-name>
 <price>1800</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1114,7 +1114,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0107</product-id>
 </product>
 <product>
-<product-name>Domaine Prieure Roch Nuits Saint Georges 1er Cru Clos des Corvees Monopole 2021</product-name>
+<product-name>Domaine Prieure Roch Nuits Saint Georges 1er Cru Clos des Corvees Monopole 2021 Red</product-name>
 <price>4800</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1124,7 +1124,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0172</product-id>
 </product>
 <product>
-<product-name>Domaine Potinet Ampeau Monthelie 2015</product-name>
+<product-name>Domaine Potinet Ampeau Monthelie 2015 White</product-name>
 <price>460</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1134,7 +1134,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWA0033</product-id>
 </product>
 <product>
-<product-name>Domaine Potinet Ampeau Meursault 2016</product-name>
+<product-name>Domaine Potinet Ampeau Meursault 2016 White</product-name>
 <price>780</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1144,7 +1144,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWA0034</product-id>
 </product>
 <product>
-<product-name>Domaine Potinet Ampeau Meursault 1977</product-name>
+<product-name>Domaine Potinet Ampeau Meursault 1977 White</product-name>
 <price>3360</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1154,7 +1154,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWA0035</product-id>
 </product>
 <product>
-<product-name>Domaine Potinet Ampeau Meursault 1er Cru Charmes 2014</product-name>
+<product-name>Domaine Potinet Ampeau Meursault 1er Cru Charmes 2014 White</product-name>
 <price>1180</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1164,7 +1164,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWA0036</product-id>
 </product>
 <product>
-<product-name>Domaine Potinet Ampeau Meursault 1er Cru Les Perrieres 2016</product-name>
+<product-name>Domaine Potinet Ampeau Meursault 1er Cru Les Perrieres 2016 White</product-name>
 <price>1440</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1174,7 +1174,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWA0037</product-id>
 </product>
 <product>
-<product-name>Domaine Potinet Ampeau Meursault 1er Cru Les Perrieres 2014</product-name>
+<product-name>Domaine Potinet Ampeau Meursault 1er Cru Les Perrieres 2014 White</product-name>
 <price>1800</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1184,7 +1184,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWA0038</product-id>
 </product>
 <product>
-<product-name>Domaine Potinet Ampeau Pommard 1er Cru les Pezerolles 2003</product-name>
+<product-name>Domaine Potinet Ampeau Pommard 1er Cru les Pezerolles 2003 Red</product-name>
 <price>1070</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1194,7 +1194,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0116</product-id>
 </product>
 <product>
-<product-name>Domaine Potinet Ampeau Volnay 1er Cru Clos des Chenes 2003</product-name>
+<product-name>Domaine Potinet Ampeau Volnay 1er Cru Clos des Chenes 2003 Red</product-name>
 <price>1020</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1204,7 +1204,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0109</product-id>
 </product>
 <product>
-<product-name>Domaine Potinet Ampeau Volnay 1er Cru Clos des Chenes 2017</product-name>
+<product-name>Domaine Potinet Ampeau Volnay 1er Cru Clos des Chenes 2017 Red</product-name>
 <price>820</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1214,7 +1214,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0110</product-id>
 </product>
 <product>
-<product-name>Domaine Potinet Ampeau Volnay 1er Cru Santenots 1964</product-name>
+<product-name>Domaine Potinet Ampeau Volnay 1er Cru Santenots 1964 Red</product-name>
 <price>5760</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1224,7 +1224,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0112</product-id>
 </product>
 <product>
-<product-name>Domaine Potinet Ampeau Volnay 1er Cru Santenots 1978</product-name>
+<product-name>Domaine Potinet Ampeau Volnay 1er Cru Santenots 1978 Red</product-name>
 <price>4560</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1234,7 +1234,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0113</product-id>
 </product>
 <product>
-<product-name>Domaine Potinet Ampeau Monthelie 2010</product-name>
+<product-name>Domaine Potinet Ampeau Monthelie 2010 Red</product-name>
 <price>460</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1244,7 +1244,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0114</product-id>
 </product>
 <product>
-<product-name>Domaine Potinet Ampeau Auxey Duresses 1er Cru Bas des Duresses 2006</product-name>
+<product-name>Domaine Potinet Ampeau Auxey Duresses 1er Cru Bas des Duresses 2006 Red</product-name>
 <price>510</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1254,7 +1254,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0115</product-id>
 </product>
 <product>
-<product-name>Domaine Potinet Ampeau Bourgogne Aligote 2018</product-name>
+<product-name>Domaine Potinet Ampeau Bourgogne Aligote 2018 White</product-name>
 <price>270</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1264,7 +1264,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWA0094</product-id>
 </product>
 <product>
-<product-name>Domaine Potinet Ampeau Monthelie 2019</product-name>
+<product-name>Domaine Potinet Ampeau Monthelie 2019 White</product-name>
 <price>460</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1274,7 +1274,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWA0095</product-id>
 </product>
 <product>
-<product-name>Domaine Potinet Ampeau Meursault 2016</product-name>
+<product-name>Domaine Potinet Ampeau Meursault 2016 White</product-name>
 <price>780</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1284,7 +1284,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWA0034</product-id>
 </product>
 <product>
-<product-name>Domaine Potinet Ampeau Meursault 1er Cru Charmes 2016</product-name>
+<product-name>Domaine Potinet Ampeau Meursault 1er Cru Charmes 2016 White</product-name>
 <price>1180</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1294,7 +1294,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWA0096</product-id>
 </product>
 <product>
-<product-name>Domaine Potinet Ampeau Puligny Montrachet 2018</product-name>
+<product-name>Domaine Potinet Ampeau Puligny Montrachet 2018 White</product-name>
 <price>720</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1304,7 +1304,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWA0097</product-id>
 </product>
 <product>
-<product-name>Domaine Potinet Ampeau Puligny Montrachet 1er Cru Champs Gain 2015</product-name>
+<product-name>Domaine Potinet Ampeau Puligny Montrachet 1er Cru Champs Gain 2015 White</product-name>
 <price>1140</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1314,7 +1314,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWA0041</product-id>
 </product>
 <product>
-<product-name>Domaine Potinet Ampeau Puligny Montrachet 1er Cru Champs Gain 2014</product-name>
+<product-name>Domaine Potinet Ampeau Puligny Montrachet 1er Cru Champs Gain 2014 White</product-name>
 <price>1320</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1324,7 +1324,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWA0042</product-id>
 </product>
 <product>
-<product-name>Domaine Potinet Ampeau Pommard 1er Cru les Pezerolles 2015</product-name>
+<product-name>Domaine Potinet Ampeau Pommard 1er Cru les Pezerolles 2015 Red</product-name>
 <price>1020</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1334,7 +1334,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0223</product-id>
 </product>
 <product>
-<product-name>Domaine Potinet Ampeau Pommard 1er Cru les Pezerolles 2003</product-name>
+<product-name>Domaine Potinet Ampeau Pommard 1er Cru les Pezerolles 2003 Red</product-name>
 <price>1070</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1344,7 +1344,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0116</product-id>
 </product>
 <product>
-<product-name>Domaine Potinet Ampeau Volnay 1er Cru Clos des Chenes 2009</product-name>
+<product-name>Domaine Potinet Ampeau Volnay 1er Cru Clos des Chenes 2009 Red</product-name>
 <price>1140</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1354,7 +1354,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0224</product-id>
 </product>
 <product>
-<product-name>Domaine Potinet Ampeau Volnay 1er Cru Clos des Chenes 2003</product-name>
+<product-name>Domaine Potinet Ampeau Volnay 1er Cru Clos des Chenes 2003 Red</product-name>
 <price>1020</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1364,7 +1364,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0109</product-id>
 </product>
 <product>
-<product-name>Domaine Potinet Ampeau Monthelie 2019</product-name>
+<product-name>Domaine Potinet Ampeau Monthelie 2019 Red</product-name>
 <price>460</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1374,7 +1374,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0225</product-id>
 </product>
 <product>
-<product-name>Antonin Cosnier Corton Charlemagne Grand Cru 2018</product-name>
+<product-name>Antonin Cosnier Corton Charlemagne Grand Cru 2018 White</product-name>
 <price>1800</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1384,7 +1384,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWA0043</product-id>
 </product>
 <product>
-<product-name>Antonin Cosnier Corton Charlemagne Grand Cru 2019</product-name>
+<product-name>Antonin Cosnier Corton Charlemagne Grand Cru 2019 White</product-name>
 <price>1800</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1394,7 +1394,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWA0044</product-id>
 </product>
 <product>
-<product-name>Antonin Cosnier Corton Charlemagne Grand Cru 2020</product-name>
+<product-name>Antonin Cosnier Corton Charlemagne Grand Cru 2020 White</product-name>
 <price>1800</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1404,7 +1404,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWA0046</product-id>
 </product>
 <product>
-<product-name>Antonin Cosnier Corton Charlemagne Grand Cru 2020</product-name>
+<product-name>Antonin Cosnier Corton Charlemagne Grand Cru 2020 White</product-name>
 <price>3840</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
@@ -1414,7 +1414,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWA0047</product-id>
 </product>
 <product>
-<product-name>Antonin Cosnier Pernand Vergelesses Blanc 2019</product-name>
+<product-name>Antonin Cosnier Pernand Vergelesses Blanc 2019 White</product-name>
 <price>1060</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
@@ -1424,7 +1424,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWA0049</product-id>
 </product>
 <product>
-<product-name>Antonin Cosnier Pernand Vergelesses 1er Cru En Caradeaux Blanc 2019</product-name>
+<product-name>Antonin Cosnier Pernand Vergelesses 1er Cru En Caradeaux Blanc 2019 White</product-name>
 <price>1500</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
@@ -1434,7 +1434,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWA0051</product-id>
 </product>
 <product>
-<product-name>Antonin Cosnier Pernand Vergelesses 1er Cru En Caradeaux Blanc 2020</product-name>
+<product-name>Antonin Cosnier Pernand Vergelesses 1er Cru En Caradeaux Blanc 2020 White</product-name>
 <price>1500</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
@@ -1444,7 +1444,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWA0053</product-id>
 </product>
 <product>
-<product-name>Antonin Cosnier Pernand Vergelesses le Morand Blanc 2020</product-name>
+<product-name>Antonin Cosnier Pernand Vergelesses le Morand Blanc 2020 White</product-name>
 <price>510</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1454,7 +1454,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWA0054</product-id>
 </product>
 <product>
-<product-name>Antonin Cosnier Pernand Vergelesses Le Morand Blanc 2020</product-name>
+<product-name>Antonin Cosnier Pernand Vergelesses Le Morand Blanc 2020 White</product-name>
 <price>1180</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
@@ -1464,7 +1464,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWA0055</product-id>
 </product>
 <product>
-<product-name>Antonin Cosnier Corton Renardes Grand Cru 2018</product-name>
+<product-name>Antonin Cosnier Corton Renardes Grand Cru 2018 Red</product-name>
 <price>2160</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
@@ -1474,7 +1474,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0117</product-id>
 </product>
 <product>
-<product-name>Antonin Cosnier Corton Renardes Grand Cru 2019</product-name>
+<product-name>Antonin Cosnier Corton Renardes Grand Cru 2019 Red</product-name>
 <price>2160</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
@@ -1484,7 +1484,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0119</product-id>
 </product>
 <product>
-<product-name>Antonin Cosnier Corton Renardes Grand Cru 2020</product-name>
+<product-name>Antonin Cosnier Corton Renardes Grand Cru 2020 Red</product-name>
 <price>2160</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
@@ -1494,7 +1494,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0121</product-id>
 </product>
 <product>
-<product-name>Antonin Cosnier Corton Renardes Grand Cru 2021</product-name>
+<product-name>Antonin Cosnier Corton Renardes Grand Cru 2021 Red</product-name>
 <price>1020</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1504,7 +1504,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0189</product-id>
 </product>
 <product>
-<product-name>Famille Messager-Germain Fixin Blanc 2022</product-name>
+<product-name>Famille Messager-Germain Fixin Blanc 2022 White</product-name>
 <price>700</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1514,7 +1514,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWA0100</product-id>
 </product>
 <product>
-<product-name>Famille Messager-Germain Bourgogne Pinot Noir 2021</product-name>
+<product-name>Famille Messager-Germain Bourgogne Pinot Noir 2021 Red</product-name>
 <price>340</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1524,7 +1524,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0243</product-id>
 </product>
 <product>
-<product-name>Famille Messager-Germain Fixin 2021</product-name>
+<product-name>Famille Messager-Germain Fixin 2021 Red</product-name>
 <price>700</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1534,7 +1534,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURA0244</product-id>
 </product>
 <product>
-<product-name>Domaine des Sables Verts Saumur Blanc 2022</product-name>
+<product-name>Domaine des Sables Verts Saumur Blanc 2022 White</product-name>
 <price>220</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1544,7 +1544,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>LOWA0001</product-id>
 </product>
 <product>
-<product-name>Domaine des Sables Verts Saumur Blanc Les Roueres 2022</product-name>
+<product-name>Domaine des Sables Verts Saumur Blanc Les Roueres 2022 White</product-name>
 <price>300</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1554,7 +1554,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>LOWA0002</product-id>
 </product>
 <product>
-<product-name>Domaine des Sables Verts Saumur Champigny Glouglou 2022</product-name>
+<product-name>Domaine des Sables Verts Saumur Champigny Glouglou 2022 Red</product-name>
 <price>220</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1564,7 +1564,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>LORA0001</product-id>
 </product>
 <product>
-<product-name>Domaine des Sables Verts Saumur Champigny les Poyeux 2021</product-name>
+<product-name>Domaine des Sables Verts Saumur Champigny les Poyeux 2021 Red</product-name>
 <price>540</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1574,7 +1574,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>LORA0002</product-id>
 </product>
 <product>
-<product-name>Domaine des Sables Verts Saumur Champigny Chaintres 2020</product-name>
+<product-name>Domaine des Sables Verts Saumur Champigny Chaintres 2020 Red</product-name>
 <price>360</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1584,7 +1584,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>LORA0003</product-id>
 </product>
 <product>
-<product-name>Eymin Tichaux Saint Joseph Varembon 2021</product-name>
+<product-name>Eymin Tichaux Saint Joseph Varembon 2021 White</product-name>
 <price>460</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1594,7 +1594,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>RHWA0001</product-id>
 </product>
 <product>
-<product-name>Eymin Tichaux Condrieu 2021</product-name>
+<product-name>Eymin Tichaux Condrieu 2021 White</product-name>
 <price>700</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1604,7 +1604,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>RHWA0002</product-id>
 </product>
 <product>
-<product-name>Eymin Tichaux IGP Collines Rhodaniennes Seyssuel Cap Syrah 2021</product-name>
+<product-name>Eymin Tichaux IGP Collines Rhodaniennes Seyssuel Cap Syrah 2021 Red</product-name>
 <price>280</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1614,7 +1614,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>RHRA0003</product-id>
 </product>
 <product>
-<product-name>Eymin Tichaux IGP Collines Rhodaniennes Seyssuel Avant Premiere 2021</product-name>
+<product-name>Eymin Tichaux IGP Collines Rhodaniennes Seyssuel Avant Premiere 2021 Red</product-name>
 <price>470</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1624,7 +1624,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>RHRA0004</product-id>
 </product>
 <product>
-<product-name>Eymin Tichaux IGP Collines Rhodaniennes Seyssuel l'Arene 2020</product-name>
+<product-name>Eymin Tichaux IGP Collines Rhodaniennes Seyssuel l'Arene 2020 Red</product-name>
 <price>720</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1634,7 +1634,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>RHRA0005</product-id>
 </product>
 <product>
-<product-name>Eymin Tichaux Crozes Hermitage Seyssuel Les Chassis 2021</product-name>
+<product-name>Eymin Tichaux Crozes Hermitage Seyssuel Les Chassis 2021 Red</product-name>
 <price>350</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1644,7 +1644,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>RHRA0007</product-id>
 </product>
 <product>
-<product-name>Eymin Tichaux Cote Rotie Le Truchet 2020</product-name>
+<product-name>Eymin Tichaux Cote Rotie Le Truchet 2020 Red</product-name>
 <price>990</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1654,7 +1654,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>RHRA0008</product-id>
 </product>
 <product>
-<product-name>Domaine Giraud Gari 2021</product-name>
+<product-name>Domaine Giraud Gari 2021 Red</product-name>
 <price>1180</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1664,7 +1664,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>RHRA0001</product-id>
 </product>
 <product>
-<product-name>Domaine Giraud Gari 2021</product-name>
+<product-name>Domaine Giraud Gari 2021 Red</product-name>
 <price>2280</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
@@ -1674,7 +1674,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>RHRA0002</product-id>
 </product>
 <product>
-<product-name>Domaine la Courtade Cuvee la Courtade Blanc 2021</product-name>
+<product-name>Domaine la Courtade Cuvee la Courtade Blanc 2021 White</product-name>
 <price>350</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1684,7 +1684,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>PRWA0001</product-id>
 </product>
 <product>
-<product-name>Domaine la Courtade Cuvee la Courtade Blanc 2022</product-name>
+<product-name>Domaine la Courtade Cuvee la Courtade Blanc 2022 White</product-name>
 <price>350</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1694,7 +1694,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>PRWA0004</product-id>
 </product>
 <product>
-<product-name>Domaine la Courtade Cuvee la Courtade Blanc 2021</product-name>
+<product-name>Domaine la Courtade Cuvee la Courtade Blanc 2021 White</product-name>
 <price>700</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
@@ -1704,7 +1704,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>PRWA0002</product-id>
 </product>
 <product>
-<product-name>Domaine la Courtade Cuvee la Courtade Rose 2021</product-name>
+<product-name>Domaine la Courtade Cuvee la Courtade Rose 2021 Rose</product-name>
 <price>320</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1714,7 +1714,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>PRROA0001</product-id>
 </product>
 <product>
-<product-name>Domaine la Courtade Cuvee la Courtade Rose 2021</product-name>
+<product-name>Domaine la Courtade Cuvee la Courtade Rose 2021 Rose</product-name>
 <price>650</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
@@ -1724,7 +1724,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>PRROA0002</product-id>
 </product>
 <product>
-<product-name>Domaine la Courtade Cuvee la Courtade Rouge 2020</product-name>
+<product-name>Domaine la Courtade Cuvee la Courtade Rouge 2020 Red</product-name>
 <price>420</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1734,7 +1734,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>PRRA0001</product-id>
 </product>
 <product>
-<product-name>Domaine Vico Clos Venturi Blanc 2022</product-name>
+<product-name>Domaine Vico Clos Venturi Blanc 2022 White</product-name>
 <price>340</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1744,7 +1744,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>COWA0001</product-id>
 </product>
 <product>
-<product-name>Domaine Vico Clos Venturi IP Blanc 2020</product-name>
+<product-name>Domaine Vico Clos Venturi IP Blanc 2020 White</product-name>
 <price>420</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1754,7 +1754,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>COWA0002</product-id>
 </product>
 <product>
-<product-name>Domaine Vico Clos Venturi Altare Blanc 2021</product-name>
+<product-name>Domaine Vico Clos Venturi Altare Blanc 2021 White</product-name>
 <price>510</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1764,7 +1764,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>COWA0004</product-id>
 </product>
 <product>
-<product-name>Domaine Vico Clos Venturi Chiesa Nera Blanc 2020</product-name>
+<product-name>Domaine Vico Clos Venturi Chiesa Nera Blanc 2020 White</product-name>
 <price>700</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1774,7 +1774,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>COWA0005</product-id>
 </product>
 <product>
-<product-name>Domaine Vico Clos Venturi Rouge 2020</product-name>
+<product-name>Domaine Vico Clos Venturi Rouge 2020 Red</product-name>
 <price>340</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1784,7 +1784,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>CORA0001</product-id>
 </product>
 <product>
-<product-name>Domaine Vico Clos Venturi Altare Rouge 2021</product-name>
+<product-name>Domaine Vico Clos Venturi Altare Rouge 2021 Red</product-name>
 <price>700</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1794,7 +1794,7 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>CORA0002</product-id>
 </product>
 <product>
-<product-name>Domaine Vico Clos Venturi Chiesa Nera Rouge 2020</product-name>
+<product-name>Domaine Vico Clos Venturi Chiesa Nera Rouge 2020 Red</product-name>
 <price>780</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1804,8 +1804,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>CORA0003</product-id>
 </product>
 <product>
-<product-name>Krug Vintage Champagne 2008</product-name>
-<price>4200</price>
+<product-name>Krug Vintage Champagne 2008 White</product-name>
+<price>5820</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -1814,8 +1814,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>CHWB0004</product-id>
 </product>
 <product>
-<product-name>Pascal Agrapart Venus Champagne 2016</product-name>
-<price>1650</price>
+<product-name>Pascal Agrapart Venus Champagne 2016 White</product-name>
+<price>2070</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -1824,8 +1824,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>CHWB0009</product-id>
 </product>
 <product>
-<product-name>Pascal Agrapart Experience 16 Champagne NV</product-name>
-<price>1800</price>
+<product-name>Pascal Agrapart Experience 16 Champagne NV White</product-name>
+<price>2250</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -1834,8 +1834,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>CHWB0010</product-id>
 </product>
 <product>
-<product-name>Agrapart & Fils Terroirs Blanc de Blancs Champagne NV</product-name>
-<price>580</price>
+<product-name>Agrapart &amp; Fils Terroirs Blanc de Blancs Champagne NV White</product-name>
+<price>730</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -1844,8 +1844,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>CHWB0019</product-id>
 </product>
 <product>
-<product-name>Agrapart & Fils Mineral Champagne 2017</product-name>
-<price>950</price>
+<product-name>Agrapart &amp; Fils Mineral Champagne 2017 White</product-name>
+<price>1190</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -1854,8 +1854,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>CHWB0020</product-id>
 </product>
 <product>
-<product-name>Pascal Agrapart Avizoise Champagne 2017</product-name>
-<price>1100</price>
+<product-name>Pascal Agrapart Avizoise Champagne 2017 White</product-name>
+<price>1380</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -1864,8 +1864,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>CHWB0022</product-id>
 </product>
 <product>
-<product-name>Pascal Agrapart Venus Champagne 2017</product-name>
-<price>1750</price>
+<product-name>Pascal Agrapart Venus Champagne 2017 White</product-name>
+<price>2190</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -1874,8 +1874,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>CHWB0023</product-id>
 </product>
 <product>
-<product-name>Pascal Agrapart Experience 17 Champagne NV</product-name>
-<price>1950</price>
+<product-name>Pascal Agrapart Experience 17 Champagne NV White</product-name>
+<price>2440</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -1884,8 +1884,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>CHWB0024</product-id>
 </product>
 <product>
-<product-name>Francoise Bedel Dis Vin Secret Champagne NV</product-name>
-<price>495</price>
+<product-name>Francoise Bedel Dis Vin Secret Champagne NV White</product-name>
+<price>620</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -1894,8 +1894,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>CHWB0011</product-id>
 </product>
 <product>
-<product-name>Francoise Bedel Entre Ciel et Terre Champagne NV</product-name>
-<price>580</price>
+<product-name>Francoise Bedel Entre Ciel et Terre Champagne NV White</product-name>
+<price>730</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -1904,8 +1904,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>CHWB0012</product-id>
 </product>
 <product>
-<product-name>Francoise Bedel L'ame de la Terre Champagne 2010</product-name>
-<price>650</price>
+<product-name>Francoise Bedel L'ame de la Terre Champagne 2010 White</product-name>
+<price>820</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -1914,8 +1914,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>CHWB0013</product-id>
 </product>
 <product>
-<product-name>Le Pin Pomerol 2015</product-name>
-<price>54400</price>
+<product-name>Le Pin Pomerol 2015 Red</product-name>
+<price>85000</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -1924,8 +1924,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BORB0003</product-id>
 </product>
 <product>
-<product-name>L'if Saint-Émilion 2017</product-name>
-<price>5500</price>
+<product-name>L'if Saint-Émilion 2017 Red</product-name>
+<price>6880</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -1934,8 +1934,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BORB0005</product-id>
 </product>
 <product>
-<product-name>Vieux Chateau Certan Pomerol 2010</product-name>
-<price>13440</price>
+<product-name>Vieux Chateau Certan Pomerol 2010 Red</product-name>
+<price>21000</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>3000 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -1944,8 +1944,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BORB0006</product-id>
 </product>
 <product>
-<product-name>Vieux Chateau Certan Pomerol 2015</product-name>
-<price>2500</price>
+<product-name>Vieux Chateau Certan Pomerol 2015 Red</product-name>
+<price>3130</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -1954,8 +1954,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BORB0037</product-id>
 </product>
 <product>
-<product-name>Vieux Chateau Certan Pomerol 2014</product-name>
-<price>1900</price>
+<product-name>Vieux Chateau Certan Pomerol 2014 Red</product-name>
+<price>2380</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -1964,8 +1964,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BORB0063</product-id>
 </product>
 <product>
-<product-name>Vieux Chateau Certan Pomerol 2012</product-name>
-<price>2200</price>
+<product-name>Vieux Chateau Certan Pomerol 2012 Red</product-name>
+<price>2750</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -1974,8 +1974,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BORB0064</product-id>
 </product>
 <product>
-<product-name>Vieux Chateau Certan Pomerol 2012</product-name>
-<price>4500</price>
+<product-name>Vieux Chateau Certan Pomerol 2012 Red</product-name>
+<price>5630</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -1984,8 +1984,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BORB0065</product-id>
 </product>
 <product>
-<product-name>Vieux Chateau Certan Pomerol 2011</product-name>
-<price>1900</price>
+<product-name>Vieux Chateau Certan Pomerol 2011 Red</product-name>
+<price>2380</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -1994,8 +1994,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BORB0066</product-id>
 </product>
 <product>
-<product-name>Vieux Chateau Certan Pomerol 2002</product-name>
-<price>2100</price>
+<product-name>Vieux Chateau Certan Pomerol 2002 Red</product-name>
+<price>2630</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2004,8 +2004,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BORB0067</product-id>
 </product>
 <product>
-<product-name>Chateau Trotanoy Pomerol 1961</product-name>
-<price>25600</price>
+<product-name>Chateau Trotanoy Pomerol 1961 Red</product-name>
+<price>40000</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2014,8 +2014,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BORB0008</product-id>
 </product>
 <product>
-<product-name>Chateau Cheval Blanc Saint-Émilion Grand Cru (Premier Grand Cru Classé) 1990</product-name>
-<price>13500</price>
+<product-name>Chateau Cheval Blanc Saint-Émilion Grand Cru (Premier Grand Cru Classé) 1990 Red</product-name>
+<price>16880</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2024,8 +2024,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BORB0043</product-id>
 </product>
 <product>
-<product-name>Chateau Giscours Margaux 2011</product-name>
-<price>490</price>
+<product-name>Chateau Giscours Margaux 2011 Red</product-name>
+<price>620</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2034,8 +2034,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BORB0044</product-id>
 </product>
 <product>
-<product-name>Chateau Giscours Margaux 2003</product-name>
-<price>1650</price>
+<product-name>Chateau Giscours Margaux 2003 Red</product-name>
+<price>2320</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2044,8 +2044,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BORB0045</product-id>
 </product>
 <product>
-<product-name>Chateau Margaux Margaux 1997</product-name>
-<price>4900</price>
+<product-name>Chateau Margaux Margaux 1997 Red</product-name>
+<price>6130</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2054,8 +2054,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BORB0046</product-id>
 </product>
 <product>
-<product-name>Chateau Margaux Pavillon Rouge du Chateau Margaux Margaux 1999</product-name>
-<price>1850</price>
+<product-name>Chateau Margaux Pavillon Rouge du Chateau Margaux Margaux 1999 Red</product-name>
+<price>2320</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2064,8 +2064,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BORB0047</product-id>
 </product>
 <product>
-<product-name>Chateau Lafite Rothschild Pauillac 2008</product-name>
-<price>5200</price>
+<product-name>Chateau Lafite Rothschild Pauillac 2008 Red</product-name>
+<price>8130</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2074,8 +2074,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BORB0077</product-id>
 </product>
 <product>
-<product-name>Chateau Lafite Rothschild Pauillac 2007</product-name>
-<price>5800</price>
+<product-name>Chateau Lafite Rothschild Pauillac 2007 Red</product-name>
+<price>7250</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2084,8 +2084,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BORB0078</product-id>
 </product>
 <product>
-<product-name>Chateau Lafite Rothschild Pauillac 2005</product-name>
-<price>7500</price>
+<product-name>Chateau Lafite Rothschild Pauillac 2005 Red</product-name>
+<price>9380</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2094,8 +2094,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BORB0079</product-id>
 </product>
 <product>
-<product-name>Chateau Lafite Rothschild Pauillac 2002</product-name>
-<price>6200</price>
+<product-name>Chateau Lafite Rothschild Pauillac 2002 Red</product-name>
+<price>7750</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2104,8 +2104,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BORB0080</product-id>
 </product>
 <product>
-<product-name>Chateau Lafite Rothschild Pauillac 2001</product-name>
-<price>11840</price>
+<product-name>Chateau Lafite Rothschild Pauillac 2001 Red</product-name>
+<price>18500</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2114,8 +2114,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BORB0081</product-id>
 </product>
 <product>
-<product-name>Chateau Lafite Rothschild Pauillac 1998</product-name>
-<price>6000</price>
+<product-name>Chateau Lafite Rothschild Pauillac 1998 Red</product-name>
+<price>9380</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2124,8 +2124,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BORB0082</product-id>
 </product>
 <product>
-<product-name>Chateau Lafite Rothschild Pauillac 1998</product-name>
-<price>12440</price>
+<product-name>Chateau Lafite Rothschild Pauillac 1998 Red</product-name>
+<price>19440</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2134,8 +2134,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BORB0083</product-id>
 </product>
 <product>
-<product-name>Chateau Lafite Rothschild Caruades Lafite Pauillac 2010</product-name>
-<price>3100</price>
+<product-name>Chateau Lafite Rothschild Caruades Lafite Pauillac 2010 Red</product-name>
+<price>3880</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2144,8 +2144,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BORB0086</product-id>
 </product>
 <product>
-<product-name>Chateau Duhart Milon Pauillac 2008</product-name>
-<price>1900</price>
+<product-name>Chateau Duhart Milon Pauillac 2008 Red</product-name>
+<price>2380</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2154,8 +2154,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BORB0088</product-id>
 </product>
 <product>
-<product-name>Chateau Lynch Bages Pauillac 2008</product-name>
-<price>1300</price>
+<product-name>Chateau Lynch Bages Pauillac 2008 Red</product-name>
+<price>1630</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2164,8 +2164,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BORB0048</product-id>
 </product>
 <product>
-<product-name>Chateau Lynch Bages Pauillac 2005</product-name>
-<price>3800</price>
+<product-name>Chateau Lynch Bages Pauillac 2005 Red</product-name>
+<price>4750</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2174,8 +2174,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BORB0049</product-id>
 </product>
 <product>
-<product-name>Chateau Lynch Bages Pauillac 1998</product-name>
-<price>1550</price>
+<product-name>Chateau Lynch Bages Pauillac 1998 Red</product-name>
+<price>1940</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2184,8 +2184,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BORB0050</product-id>
 </product>
 <product>
-<product-name>Chateau Pichon Longueville Comtesse de Lalande Pauillac 1988</product-name>
-<price>2300</price>
+<product-name>Chateau Pichon Longueville Comtesse de Lalande Pauillac 1988 Red</product-name>
+<price>2880</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2194,8 +2194,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BORB0052</product-id>
 </product>
 <product>
-<product-name>Chateau Pichon Baron Longueville Pauillac 1997</product-name>
-<price>1400</price>
+<product-name>Chateau Pichon Baron Longueville Pauillac 1997 Red</product-name>
+<price>1880</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2204,8 +2204,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BORB0054</product-id>
 </product>
 <product>
-<product-name>Chateau Leoville Las Cases Saint Julien 2003</product-name>
-<price>1560</price>
+<product-name>Chateau Leoville Las Cases Saint Julien 2003 Red</product-name>
+<price>2440</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2214,8 +2214,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BORB0055</product-id>
 </product>
 <product>
-<product-name>Chateau Gruaud Larose Saint Julien 2001</product-name>
-<price>790</price>
+<product-name>Chateau Gruaud Larose Saint Julien 2001 Red</product-name>
+<price>1230</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2224,8 +2224,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BORB0056</product-id>
 </product>
 <product>
-<product-name>Chateau Gruaud Larose Saint Julien 1996</product-name>
-<price>1000</price>
+<product-name>Chateau Gruaud Larose Saint Julien 1996 Red</product-name>
+<price>1570</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2234,8 +2234,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BORB0057</product-id>
 </product>
 <product>
-<product-name>Chateau Gruaud Larose Saint Julien 1989</product-name>
-<price>1270</price>
+<product-name>Chateau Gruaud Larose Saint Julien 1989 Red</product-name>
+<price>1980</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2244,8 +2244,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BORB0058</product-id>
 </product>
 <product>
-<product-name>Chateau Haut Bailly Pessac-Léognan 2007</product-name>
-<price>550</price>
+<product-name>Chateau Haut Bailly Pessac-Léognan 2007 Red</product-name>
+<price>850</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2254,8 +2254,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BORB0059</product-id>
 </product>
 <product>
-<product-name>Chateau Carmes Haut Brion Pessac-Léognan 2014</product-name>
-<price>880</price>
+<product-name>Chateau Carmes Haut Brion Pessac-Léognan 2014 Red</product-name>
+<price>1380</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2264,8 +2264,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BORB0060</product-id>
 </product>
 <product>
-<product-name>Chateau Carmes Haut Brion Pessac-Léognan 2012</product-name>
-<price>880</price>
+<product-name>Chateau Carmes Haut Brion Pessac-Léognan 2012 Red</product-name>
+<price>1380</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2274,8 +2274,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BORB0061</product-id>
 </product>
 <product>
-<product-name>Chateau L'Eglise Clinet Pomerol 2002</product-name>
-<price>920</price>
+<product-name>Chateau L'Eglise Clinet Pomerol 2002 Red</product-name>
+<price>1440</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2284,8 +2284,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BORB0062</product-id>
 </product>
 <product>
-<product-name>Chateau Ducru Beaucaillou Hommage a Mon Grand Pere 1 bottle each 1961, 1970, 1982 0 61/70/82</product-name>
-<price>22400</price>
+<product-name>Chateau Ducru Beaucaillou Hommage a Mon Grand Pere 1 bottle each 1961, 1970, 1982 0 61/70/82 Red</product-name>
+<price>35000</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2294,8 +2294,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BORB0042</product-id>
 </product>
 <product>
-<product-name>Chateau Bel Air Marquis d'Aligre Margaux 1996</product-name>
-<price>550</price>
+<product-name>Chateau Bel Air Marquis d'Aligre Margaux 1996 Red</product-name>
+<price>850</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2304,8 +2304,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BORB0027</product-id>
 </product>
 <product>
-<product-name>Domaine Prieure Roch Chambertin Clos de Beze Grand Cru 2018</product-name>
-<price>31200</price>
+<product-name>Domaine Prieure Roch Chambertin Clos de Beze Grand Cru 2018 Red</product-name>
+<price>48750</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2314,8 +2314,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0001</product-id>
 </product>
 <product>
-<product-name>Domaine Prieure Roch Vosne Romanee 1er Cru Les Suchots 2017</product-name>
-<price>14400</price>
+<product-name>Domaine Prieure Roch Vosne Romanee 1er Cru Les Suchots 2017 Red</product-name>
+<price>22500</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2324,8 +2324,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0005</product-id>
 </product>
 <product>
-<product-name>Domaine Prieure Roch Vosne Romanee 1er Cru Les Suchots 2005</product-name>
-<price>10800</price>
+<product-name>Domaine Prieure Roch Vosne Romanee 1er Cru Les Suchots 2005 Red</product-name>
+<price>16880</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2334,8 +2334,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0008</product-id>
 </product>
 <product>
-<product-name>Domaine Prieure Roch Vosne Romanee Les Hautes Maizieres 2016</product-name>
-<price>22400</price>
+<product-name>Domaine Prieure Roch Vosne Romanee Les Hautes Maizieres 2016 Red</product-name>
+<price>35000</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2344,8 +2344,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0009</product-id>
 </product>
 <product>
-<product-name>Domaine Prieure Roch Nuits Saint Georges 1er Cru Clos des Corvees Monopole 2017</product-name>
-<price>6240</price>
+<product-name>Domaine Prieure Roch Nuits Saint Georges 1er Cru Clos des Corvees Monopole 2017 Red</product-name>
+<price>9750</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2354,8 +2354,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0016</product-id>
 </product>
 <product>
-<product-name>Domaine Prieure Roch Vieilles Vignes Nuits 1er Cru 2014</product-name>
-<price>5200</price>
+<product-name>Domaine Prieure Roch Vieilles Vignes Nuits 1er Cru 2014 Red</product-name>
+<price>8130</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2364,8 +2364,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0023</product-id>
 </product>
 <product>
-<product-name>Domaine Sylvain Cathiard Romanee Saint Vivant Grand Cru 2019</product-name>
-<price>30400</price>
+<product-name>Domaine Sylvain Cathiard Romanee Saint Vivant Grand Cru 2019 Red</product-name>
+<price>47500</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2374,8 +2374,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0025</product-id>
 </product>
 <product>
-<product-name>Domaine Sylvain Cathiard Romanee Saint Vivant Grand Cru 2019</product-name>
-<price>31600</price>
+<product-name>Domaine Sylvain Cathiard Romanee Saint Vivant Grand Cru 2019 Red</product-name>
+<price>49380</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2384,8 +2384,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0026</product-id>
 </product>
 <product>
-<product-name>Domaine Sylvain Cathiard Vosne Romanee 1er Cru aux Malconsorts 2019</product-name>
-<price>7920</price>
+<product-name>Domaine Sylvain Cathiard Vosne Romanee 1er Cru aux Malconsorts 2019 Red</product-name>
+<price>12380</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2394,8 +2394,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0027</product-id>
 </product>
 <product>
-<product-name>Domaine Sylvain Cathiard Vosne Romanee 1er Cru les Suchots 2019</product-name>
-<price>7840</price>
+<product-name>Domaine Sylvain Cathiard Vosne Romanee 1er Cru les Suchots 2019 Red</product-name>
+<price>12250</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2404,8 +2404,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0028</product-id>
 </product>
 <product>
-<product-name>Domaine Sylvain Cathiard Vosne Romanee 1er Cru aux Reignots 2019</product-name>
-<price>7600</price>
+<product-name>Domaine Sylvain Cathiard Vosne Romanee 1er Cru aux Reignots 2019 Red</product-name>
+<price>11880</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2414,8 +2414,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0029</product-id>
 </product>
 <product>
-<product-name>Domaine Sylvain Cathiard Vosne Romanee 1er Cru en Orveaux 2019</product-name>
-<price>6320</price>
+<product-name>Domaine Sylvain Cathiard Vosne Romanee 1er Cru en Orveaux 2019 Red</product-name>
+<price>9880</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2424,8 +2424,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0030</product-id>
 </product>
 <product>
-<product-name>Domaine Sylvain Cathiard Nuits Saint George 1er Cru aux Murgers 2019</product-name>
-<price>5200</price>
+<product-name>Domaine Sylvain Cathiard Nuits Saint George 1er Cru aux Murgers 2019 Red</product-name>
+<price>8130</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2434,8 +2434,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0031</product-id>
 </product>
 <product>
-<product-name>Domaine Sylvain Cathiard Chambolle Musigny Le Clos de l'Orme 2019</product-name>
-<price>3040</price>
+<product-name>Domaine Sylvain Cathiard Chambolle Musigny Le Clos de l'Orme 2019 Red</product-name>
+<price>4750</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2444,8 +2444,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0033</product-id>
 </product>
 <product>
-<product-name>Domaine Sylvain Cathiard Vosne Romanee 2019</product-name>
-<price>2320</price>
+<product-name>Domaine Sylvain Cathiard Vosne Romanee 2019 Red</product-name>
+<price>3630</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2454,8 +2454,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0035</product-id>
 </product>
 <product>
-<product-name>Domaine Sylvain Cathiard Bourgogne Rouge 2019</product-name>
-<price>1320</price>
+<product-name>Domaine Sylvain Cathiard Bourgogne Rouge 2019 Red</product-name>
+<price>2070</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2464,8 +2464,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0036</product-id>
 </product>
 <product>
-<product-name>Domaine Sylvain Cathiard Coteaux Bourguignons Les Croix Blanches 2019</product-name>
-<price>1440</price>
+<product-name>Domaine Sylvain Cathiard Coteaux Bourguignons Les Croix Blanches 2019 Red</product-name>
+<price>2250</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2474,8 +2474,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0037</product-id>
 </product>
 <product>
-<product-name>Domaine Sylvain Cathiard Hautes Cotes de Nuits Rouge Aux Chaumes 2019</product-name>
-<price>790</price>
+<product-name>Domaine Sylvain Cathiard Hautes Cotes de Nuits Rouge Aux Chaumes 2019 Red</product-name>
+<price>1230</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2484,8 +2484,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0038</product-id>
 </product>
 <product>
-<product-name>Domaine Sylvain Cathiard Hautes Cotes de Nuits Rouge 2019</product-name>
-<price>720</price>
+<product-name>Domaine Sylvain Cathiard Hautes Cotes de Nuits Rouge 2019 Red</product-name>
+<price>1130</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2494,8 +2494,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0039</product-id>
 </product>
 <product>
-<product-name>Georges Noellat Grands Echezeaux Grand Cru 2016</product-name>
-<price>7920</price>
+<product-name>Georges Noellat Grands Echezeaux Grand Cru 2016 Red</product-name>
+<price>12380</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2504,8 +2504,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0041</product-id>
 </product>
 <product>
-<product-name>Georges Noellat Nuits Saint Georges 1er Cru Aux Cras 2016</product-name>
-<price>2560</price>
+<product-name>Georges Noellat Nuits Saint Georges 1er Cru Aux Cras 2016 Red</product-name>
+<price>4000</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2514,8 +2514,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0044</product-id>
 </product>
 <product>
-<product-name>Georges Noellat Vosne Romanée 2016</product-name>
-<price>1760</price>
+<product-name>Georges Noellat Vosne Romanée 2016 Red</product-name>
+<price>2750</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2524,8 +2524,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0046</product-id>
 </product>
 <product>
-<product-name>Georges Noellat Nuits Saint Georges 1er Cru Aux Cras 2016</product-name>
-<price>1000</price>
+<product-name>Georges Noellat Nuits Saint Georges 1er Cru Aux Cras 2016 Red</product-name>
+<price>1570</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2534,8 +2534,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0047</product-id>
 </product>
 <product>
-<product-name>Georges Noellat Nuits Saint Georges 1er Cru Les Boudots 2016</product-name>
-<price>1160</price>
+<product-name>Georges Noellat Nuits Saint Georges 1er Cru Les Boudots 2016 Red</product-name>
+<price>1820</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2544,8 +2544,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0048</product-id>
 </product>
 <product>
-<product-name>Georges Noellat Beaune 1er Cru des tuvilains 2016</product-name>
-<price>520</price>
+<product-name>Georges Noellat Beaune 1er Cru des tuvilains 2016 Red</product-name>
+<price>820</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2554,8 +2554,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0049</product-id>
 </product>
 <product>
-<product-name>Hubert Lignier Nuits-Saint-Georges 1er Cru 'Les Saints-Georges' 2015</product-name>
-<price>3040</price>
+<product-name>Hubert Lignier Nuits-Saint-Georges 1er Cru 'Les Saints-Georges' 2015 Red</product-name>
+<price>4750</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2564,8 +2564,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0102</product-id>
 </product>
 <product>
-<product-name>Domaine Denis Mortet Gevrey-Chambertin Mes Cinq Terroirs 2018</product-name>
-<price>960</price>
+<product-name>Domaine Denis Mortet Gevrey-Chambertin Mes Cinq Terroirs 2018 Red</product-name>
+<price>1500</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2574,8 +2574,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0138</product-id>
 </product>
 <product>
-<product-name>Hospices de Beaune Hospices de BeauneCuvée Boillot Auxey-Duresses Premier Cru 1976</product-name>
-<price>7840</price>
+<product-name>Hospices de Beaune Hospices de BeauneCuvée Boillot Auxey-Duresses Premier Cru 1976 Red</product-name>
+<price>12250</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2584,8 +2584,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0050</product-id>
 </product>
 <product>
-<product-name>Rene Engel Vosne Romanee 1er Cru 1961</product-name>
-<price>23040</price>
+<product-name>Rene Engel Vosne Romanee 1er Cru 1961 Red</product-name>
+<price>36000</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2594,8 +2594,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0051</product-id>
 </product>
 <product>
-<product-name>Rene Engel Clos Vougeot Grand Cru 1959</product-name>
-<price>31600</price>
+<product-name>Rene Engel Clos Vougeot Grand Cru 1959 Red</product-name>
+<price>49380</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2604,8 +2604,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0052</product-id>
 </product>
 <product>
-<product-name>Domaine Forey Père & Fils Les Gaudichots Vosne-Romanée 1er Cru 2010</product-name>
-<price>22400</price>
+<product-name>Domaine Forey Père &amp; Fils Les Gaudichots Vosne-Romanée 1er Cru 2010 Red</product-name>
+<price>35000</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>3000 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2614,8 +2614,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0104</product-id>
 </product>
 <product>
-<product-name>Domaine G. Roumier Charmes-Chambertin Grand Cru "Aux Mazoyeres" 2010</product-name>
-<price>9200</price>
+<product-name>Domaine G. Roumier Charmes-Chambertin Grand Cru "Aux Mazoyeres" 2010 Red</product-name>
+<price>14380</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2624,8 +2624,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0143</product-id>
 </product>
 <product>
-<product-name>Domaine G. Roumier Chambolle-Musigny 1er Cru 'Les Combottes' 2009</product-name>
-<price>9440</price>
+<product-name>Domaine G. Roumier Chambolle-Musigny 1er Cru 'Les Combottes' 2009 Red</product-name>
+<price>14750</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2634,8 +2634,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0053</product-id>
 </product>
 <product>
-<product-name>Domaine G. Roumier Chambolle Musigny 1er Cru Les Cras 2009</product-name>
-<price>7840</price>
+<product-name>Domaine G. Roumier Chambolle Musigny 1er Cru Les Cras 2009 Red</product-name>
+<price>12250</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2644,8 +2644,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0055</product-id>
 </product>
 <product>
-<product-name>Domaine G. Roumier Chambolle Musigny 1er Cru Les Cras 2007</product-name>
-<price>7360</price>
+<product-name>Domaine G. Roumier Chambolle Musigny 1er Cru Les Cras 2007 Red</product-name>
+<price>11500</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2654,8 +2654,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0056</product-id>
 </product>
 <product>
-<product-name>Pascal Lachaux Domaine Robert Arnaux Vosne Romanee 1er Cru Les Chaumes 2001</product-name>
-<price>4400</price>
+<product-name>Pascal Lachaux Domaine Robert Arnaux Vosne Romanee 1er Cru Les Chaumes 2001 Red</product-name>
+<price>6880</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2664,8 +2664,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0061</product-id>
 </product>
 <product>
-<product-name>Domaine Gros Frère et Soeur Grands Échezeaux Grand Cru 2003</product-name>
-<price>5200</price>
+<product-name>Domaine Gros Frère et Soeur Grands Échezeaux Grand Cru 2003 Red</product-name>
+<price>8130</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2674,8 +2674,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0062</product-id>
 </product>
 <product>
-<product-name>Jean-Claude Ramonet Chassagne-Montrachet Premier Cru 'Clos Saint-Jean' 1995</product-name>
-<price>10800</price>
+<product-name>Jean-Claude Ramonet Chassagne-Montrachet Premier Cru 'Clos Saint-Jean' 1995 Red</product-name>
+<price>16880</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>3000 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2684,8 +2684,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0105</product-id>
 </product>
 <product>
-<product-name>Géantet-Pansiot Charmes-Chambertin Grand Cru 2005</product-name>
-<price>12000</price>
+<product-name>Géantet-Pansiot Charmes-Chambertin Grand Cru 2005 Red</product-name>
+<price>18750</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>3000 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2694,8 +2694,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0106</product-id>
 </product>
 <product>
-<product-name>Albert Bichot Corton Grand Cru 'Clos des Maréchaudes' 2015</product-name>
-<price>3840</price>
+<product-name>Albert Bichot Corton Grand Cru 'Clos des Maréchaudes' 2015 Red</product-name>
+<price>6000</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>3000 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2704,8 +2704,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0066</product-id>
 </product>
 <product>
-<product-name>Domaine Pierre Amiot et Fils Morey-Saint-Denis 1er Cru 'Les Millandes' 2013</product-name>
-<price>520</price>
+<product-name>Domaine Pierre Amiot et Fils Morey-Saint-Denis 1er Cru 'Les Millandes' 2013 Red</product-name>
+<price>820</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2714,8 +2714,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0137</product-id>
 </product>
 <product>
-<product-name>Serafin Pere & Fils Charmes Chambertin Grand Cru 2014</product-name>
-<price>2000</price>
+<product-name>Serafin Pere &amp; Fils Charmes Chambertin Grand Cru 2014 Red</product-name>
+<price>3130</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2724,8 +2724,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0115</product-id>
 </product>
 <product>
-<product-name>Serafin Pere & Fils Chambolle Musigny 1er Cru les Baudes 2016</product-name>
-<price>1080</price>
+<product-name>Serafin Pere &amp; Fils Chambolle Musigny 1er Cru les Baudes 2016 Red</product-name>
+<price>1690</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2734,8 +2734,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0116</product-id>
 </product>
 <product>
-<product-name>Serafin Pere & Fils Chambolle Musigny 1er Cru les Baudes 2013</product-name>
-<price>1200</price>
+<product-name>Serafin Pere &amp; Fils Chambolle Musigny 1er Cru les Baudes 2013 Red</product-name>
+<price>1880</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2744,8 +2744,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0118</product-id>
 </product>
 <product>
-<product-name>Serafin Pere & Fils Gevrey Chambertin 1er Cru Les Cazetiers 2014</product-name>
-<price>1280</price>
+<product-name>Serafin Pere &amp; Fils Gevrey Chambertin 1er Cru Les Cazetiers 2014 Red</product-name>
+<price>2000</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2754,8 +2754,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0120</product-id>
 </product>
 <product>
-<product-name>Serafin Pere & Fils Gevrey Chambertin 1er Cru Les Cazetiers 2013</product-name>
-<price>1160</price>
+<product-name>Serafin Pere &amp; Fils Gevrey Chambertin 1er Cru Les Cazetiers 2013 Red</product-name>
+<price>1820</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2764,8 +2764,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0121</product-id>
 </product>
 <product>
-<product-name>Serafin Pere & Fils Morey Saint Denis 1er Cru Les Millandes 2016</product-name>
-<price>880</price>
+<product-name>Serafin Pere &amp; Fils Morey Saint Denis 1er Cru Les Millandes 2016 Red</product-name>
+<price>1380</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2774,8 +2774,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0124</product-id>
 </product>
 <product>
-<product-name>Serafin Pere & Fils Morey Saint Denis 1er Cru Les Millandes 2014</product-name>
-<price>960</price>
+<product-name>Serafin Pere &amp; Fils Morey Saint Denis 1er Cru Les Millandes 2014 Red</product-name>
+<price>1500</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2784,8 +2784,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0125</product-id>
 </product>
 <product>
-<product-name>Serafin Pere & Fils Gevrey Chambertin Vieilles Vignes 2015</product-name>
-<price>630</price>
+<product-name>Serafin Pere &amp; Fils Gevrey Chambertin Vieilles Vignes 2015 Red</product-name>
+<price>980</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2794,8 +2794,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0126</product-id>
 </product>
 <product>
-<product-name>Serafin Pere & Fils Gevrey Chambertin Vieilles Vignes 2014</product-name>
-<price>640</price>
+<product-name>Serafin Pere &amp; Fils Gevrey Chambertin Vieilles Vignes 2014 Red</product-name>
+<price>1000</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2804,8 +2804,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0127</product-id>
 </product>
 <product>
-<product-name>Serafin Pere & Fils Gevrey Chambertin Vieilles Vignes 2013</product-name>
-<price>560</price>
+<product-name>Serafin Pere &amp; Fils Gevrey Chambertin Vieilles Vignes 2013 Red</product-name>
+<price>870</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2814,8 +2814,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0128</product-id>
 </product>
 <product>
-<product-name>Serafin Pere & Fils Gevrey Chambertin Vieilles Vignes 2012</product-name>
-<price>600</price>
+<product-name>Serafin Pere &amp; Fils Gevrey Chambertin Vieilles Vignes 2012 Red</product-name>
+<price>940</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2824,8 +2824,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0129</product-id>
 </product>
 <product>
-<product-name>Serafin Pere & Fils Gevrey Chambertin 2017</product-name>
-<price>430</price>
+<product-name>Serafin Pere &amp; Fils Gevrey Chambertin 2017 Red</product-name>
+<price>670</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2834,8 +2834,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0130</product-id>
 </product>
 <product>
-<product-name>Serafin Pere & Fils Gevrey Chambertin 2016</product-name>
-<price>480</price>
+<product-name>Serafin Pere &amp; Fils Gevrey Chambertin 2016 Red</product-name>
+<price>750</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2844,8 +2844,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0131</product-id>
 </product>
 <product>
-<product-name>Serafin Pere & Fils Gevrey Chambertin 2015</product-name>
-<price>480</price>
+<product-name>Serafin Pere &amp; Fils Gevrey Chambertin 2015 Red</product-name>
+<price>750</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2854,8 +2854,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0132</product-id>
 </product>
 <product>
-<product-name>Serafin Pere & Fils Gevrey Chambertin 2013</product-name>
-<price>480</price>
+<product-name>Serafin Pere &amp; Fils Gevrey Chambertin 2013 Red</product-name>
+<price>750</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2864,8 +2864,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0133</product-id>
 </product>
 <product>
-<product-name>Serafin Pere & Fils Bourgogne Rouge 2016</product-name>
-<price>400</price>
+<product-name>Serafin Pere &amp; Fils Bourgogne Rouge 2016 Red</product-name>
+<price>620</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2874,8 +2874,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0145</product-id>
 </product>
 <product>
-<product-name>Serafin Pere & Fils Chambolle Musigny 1er Cru Les Baudes 2020</product-name>
-<price>2800</price>
+<product-name>Serafin Pere &amp; Fils Chambolle Musigny 1er Cru Les Baudes 2020 Red</product-name>
+<price>4380</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2884,8 +2884,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0067</product-id>
 </product>
 <product>
-<product-name>Serafin Pere & Fils Gevrey Chambertin 1er Cru les Cazetiers 2020</product-name>
-<price>3120</price>
+<product-name>Serafin Pere &amp; Fils Gevrey Chambertin 1er Cru les Cazetiers 2020 Red</product-name>
+<price>4880</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2894,8 +2894,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0068</product-id>
 </product>
 <product>
-<product-name>Domaine Odoul Coquard Bourgogne Côte D'Or' 2019</product-name>
-<price>310</price>
+<product-name>Domaine Odoul Coquard Bourgogne Côte D'Or' 2019 Red</product-name>
+<price>480</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2904,8 +2904,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0074</product-id>
 </product>
 <product>
-<product-name>Domaine Odoul Coquard Vosne Romanee Vieilles Vignes 2019</product-name>
-<price>500</price>
+<product-name>Domaine Odoul Coquard Vosne Romanee Vieilles Vignes 2019 Red</product-name>
+<price>790</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2914,8 +2914,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0075</product-id>
 </product>
 <product>
-<product-name>Domaine Odoul Coquard Gevrey-Chambertin 2019</product-name>
-<price>480</price>
+<product-name>Domaine Odoul Coquard Gevrey-Chambertin 2019 Red</product-name>
+<price>740</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2924,8 +2924,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0076</product-id>
 </product>
 <product>
-<product-name>Domaine Odoul Coquard Morey-Saint-Denis 'Aux Chéseaux' 2019</product-name>
-<price>480</price>
+<product-name>Domaine Odoul Coquard Morey-Saint-Denis 'Aux Chéseaux' 2019 Red</product-name>
+<price>740</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2934,8 +2934,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0077</product-id>
 </product>
 <product>
-<product-name>Domaine Odoul Coquard Chambolle-Musigny 1er cru Les Sentiers 2019</product-name>
-<price>960</price>
+<product-name>Domaine Odoul Coquard Chambolle-Musigny 1er cru Les Sentiers 2019 Red</product-name>
+<price>1500</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2944,8 +2944,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0078</product-id>
 </product>
 <product>
-<product-name>Domaine Odoul Coquard Chambolle-Musigny 1er cru Les Fuees 2019</product-name>
-<price>1040</price>
+<product-name>Domaine Odoul Coquard Chambolle-Musigny 1er cru Les Fuees 2019 Red</product-name>
+<price>1630</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2954,8 +2954,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0079</product-id>
 </product>
 <product>
-<product-name>Domaine Odoul Coquard Morey-Saint-Denis 1er Cru 'Les Millandes' 2019</product-name>
-<price>1080</price>
+<product-name>Domaine Odoul Coquard Morey-Saint-Denis 1er Cru 'Les Millandes' 2019 Red</product-name>
+<price>1690</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2964,8 +2964,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0081</product-id>
 </product>
 <product>
-<product-name>Domaine Odoul Coquard Gevrey-Chambertin 1er Cru 'Aux Combottes' 2019</product-name>
-<price>1080</price>
+<product-name>Domaine Odoul Coquard Gevrey-Chambertin 1er Cru 'Aux Combottes' 2019 Red</product-name>
+<price>1690</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2974,8 +2974,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0082</product-id>
 </product>
 <product>
-<product-name>Domaine Odoul Coquard Clos Vougeot Grand Cru 2019</product-name>
-<price>1430</price>
+<product-name>Domaine Odoul Coquard Clos Vougeot Grand Cru 2019 Red</product-name>
+<price>2230</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2984,8 +2984,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0083</product-id>
 </product>
 <product>
-<product-name>Domaine Odoul Coquard Charmes-Chambertin 2019</product-name>
-<price>1430</price>
+<product-name>Domaine Odoul Coquard Charmes-Chambertin 2019 Red</product-name>
+<price>2230</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2994,8 +2994,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0084</product-id>
 </product>
 <product>
-<product-name>Pierre Millemann Bonnes Mares Grand Cru 2020</product-name>
-<price>13200</price>
+<product-name>Pierre Millemann Bonnes Mares Grand Cru 2020 Red</product-name>
+<price>20630</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3004,8 +3004,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0164</product-id>
 </product>
 <product>
-<product-name>MJ Tricot Monthelie 1er Cru 'Les Champs Fuilliot 2020</product-name>
-<price>310</price>
+<product-name>MJ Tricot Monthelie 1er Cru 'Les Champs Fuilliot 2020 Red</product-name>
+<price>480</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3014,8 +3014,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0135</product-id>
 </product>
 <product>
-<product-name>Louis Latour Charmes-Chambertin Grand Cru 2016</product-name>
-<price>2000</price>
+<product-name>Louis Latour Charmes-Chambertin Grand Cru 2016 Red</product-name>
+<price>3130</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3024,8 +3024,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0087</product-id>
 </product>
 <product>
-<product-name>Louis Latour Charmes-Chambertin Grand Cru 2017</product-name>
-<price>2000</price>
+<product-name>Louis Latour Charmes-Chambertin Grand Cru 2017 Red</product-name>
+<price>3130</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3034,8 +3034,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BURB0088</product-id>
 </product>
 <product>
-<product-name>MJ Tricot Meursault 2018</product-name>
-<price>480</price>
+<product-name>MJ Tricot Meursault 2018 White</product-name>
+<price>750</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3044,8 +3044,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWB0013</product-id>
 </product>
 <product>
-<product-name>MJ Tricot Meursault 2017</product-name>
-<price>470</price>
+<product-name>MJ Tricot Meursault 2017 White</product-name>
+<price>730</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3054,8 +3054,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWB0014</product-id>
 </product>
 <product>
-<product-name>MJ Tricot Meursault 1er Cru Charmes 2020</product-name>
-<price>960</price>
+<product-name>MJ Tricot Meursault 1er Cru Charmes 2020 White</product-name>
+<price>1500</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3064,8 +3064,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWB0015</product-id>
 </product>
 <product>
-<product-name>MJ Tricot Meursault 1er Cru Charmes 2019</product-name>
-<price>960</price>
+<product-name>MJ Tricot Meursault 1er Cru Charmes 2019 White</product-name>
+<price>1500</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3074,8 +3074,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWB0016</product-id>
 </product>
 <product>
-<product-name>MJ Tricot Meursault 1er Cru Le Poruzot 2020</product-name>
-<price>1080</price>
+<product-name>MJ Tricot Meursault 1er Cru Le Poruzot 2020 White</product-name>
+<price>1690</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3084,8 +3084,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWB0017</product-id>
 </product>
 <product>
-<product-name>MJ Tricot Meursault 1er Cru Le Poruzot 2019</product-name>
-<price>960</price>
+<product-name>MJ Tricot Meursault 1er Cru Le Poruzot 2019 White</product-name>
+<price>1500</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3094,8 +3094,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWB0018</product-id>
 </product>
 <product>
-<product-name>MJ Tricot Meursault 1er Cru Le Poruzot 2018</product-name>
-<price>960</price>
+<product-name>MJ Tricot Meursault 1er Cru Le Poruzot 2018 White</product-name>
+<price>1500</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3104,8 +3104,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWB0019</product-id>
 </product>
 <product>
-<product-name>MJ Tricot Meursault 1er Cru Perrieres 2020</product-name>
-<price>1080</price>
+<product-name>MJ Tricot Meursault 1er Cru Perrieres 2020 White</product-name>
+<price>1690</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3114,8 +3114,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWB0020</product-id>
 </product>
 <product>
-<product-name>MJ Tricot Meursault 1er Cru Perrieres 2019</product-name>
-<price>1080</price>
+<product-name>MJ Tricot Meursault 1er Cru Perrieres 2019 White</product-name>
+<price>1690</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3124,8 +3124,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWB0021</product-id>
 </product>
 <product>
-<product-name>MJ Tricot Meursault 1er Cru Perrieres 2018</product-name>
-<price>1080</price>
+<product-name>MJ Tricot Meursault 1er Cru Perrieres 2018 White</product-name>
+<price>1690</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3134,8 +3134,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWB0022</product-id>
 </product>
 <product>
-<product-name>Domaine Roulot Meursault Meursault Blanc 2015</product-name>
-<price>2560</price>
+<product-name>Domaine Roulot Meursault Meursault Blanc 2015 White</product-name>
+<price>4000</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3144,8 +3144,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWB0025</product-id>
 </product>
 <product>
-<product-name>Domaine Roulot Meursault Les Luchets 2017</product-name>
-<price>2800</price>
+<product-name>Domaine Roulot Meursault Les Luchets 2017 White</product-name>
+<price>4380</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3154,8 +3154,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWB0026</product-id>
 </product>
 <product>
-<product-name>Domaine Roulot Meursault 1er Cru Boucheres 2017</product-name>
-<price>4160</price>
+<product-name>Domaine Roulot Meursault 1er Cru Boucheres 2017 White</product-name>
+<price>6500</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3164,8 +3164,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWB0028</product-id>
 </product>
 <product>
-<product-name>Domaine Roulot Meursault 1er Cru Boucheres 2015</product-name>
-<price>4960</price>
+<product-name>Domaine Roulot Meursault 1er Cru Boucheres 2015 White</product-name>
+<price>7750</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3174,8 +3174,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWB0030</product-id>
 </product>
 <product>
-<product-name>Pierre Millemann Corton Charlemagne Grand Cru 2020</product-name>
-<price>12400</price>
+<product-name>Pierre Millemann Corton Charlemagne Grand Cru 2020 White</product-name>
+<price>19380</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3184,8 +3184,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWB0032</product-id>
 </product>
 <product>
-<product-name>Arnaud Ente Meursault 1er Cru 'La Goutte d'Or' 2016</product-name>
-<price>18400</price>
+<product-name>Arnaud Ente Meursault 1er Cru 'La Goutte d'Or' 2016 White</product-name>
+<price>28750</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3194,8 +3194,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWB0003</product-id>
 </product>
 <product>
-<product-name>Arnaud Ente Meursault 'La Sève du Clos' 2013</product-name>
-<price>20000</price>
+<product-name>Arnaud Ente Meursault 'La Sève du Clos' 2013 White</product-name>
+<price>31250</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3204,8 +3204,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWB0004</product-id>
 </product>
 <product>
-<product-name>Arnaud Ente Puligny-Montrachet 1er Cru 'Les Referts' 2016</product-name>
-<price>16400</price>
+<product-name>Arnaud Ente Puligny-Montrachet 1er Cru 'Les Referts' 2016 White</product-name>
+<price>25630</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3214,8 +3214,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWB0005</product-id>
 </product>
 <product>
-<product-name>Pierre-Yves Colin-Morey Chevalier Montrachet Grand Cru 2018</product-name>
-<price>7840</price>
+<product-name>Pierre-Yves Colin-Morey Chevalier Montrachet Grand Cru 2018 White</product-name>
+<price>12250</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3224,8 +3224,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWB0007</product-id>
 </product>
 <product>
-<product-name>Louis Latour Corton-Charlemagne Grand Cru 2017</product-name>
-<price>880</price>
+<product-name>Louis Latour Corton-Charlemagne Grand Cru 2017 White</product-name>
+<price>1380</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3234,8 +3234,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>BUWB0008</product-id>
 </product>
 <product>
-<product-name>Domaine Jean-Louis Chave Saint-Joseph 2018</product-name>
-<price>600</price>
+<product-name>Domaine Jean-Louis Chave Saint-Joseph 2018 Red</product-name>
+<price>940</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3244,8 +3244,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>RHRB0001</product-id>
 </product>
 <product>
-<product-name>Domaine Jean-Louis Chave Saint-Joseph 2016</product-name>
-<price>640</price>
+<product-name>Domaine Jean-Louis Chave Saint-Joseph 2016 Red</product-name>
+<price>990</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3254,8 +3254,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>RHRB0002</product-id>
 </product>
 <product>
-<product-name>Domaine Jean-Louis Chave L'Hermitage 2015</product-name>
-<price>11040</price>
+<product-name>Domaine Jean-Louis Chave L'Hermitage 2015 Red</product-name>
+<price>17250</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3264,8 +3264,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>RHRB0003</product-id>
 </product>
 <product>
-<product-name>Domaine Jean-Louis Chave Ermitage Cuvée Cathelin 2000</product-name>
-<price>49600</price>
+<product-name>Domaine Jean-Louis Chave Ermitage Cuvée Cathelin 2000 Red</product-name>
+<price>77500</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3274,8 +3274,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>RHRB0004</product-id>
 </product>
 <product>
-<product-name>Domaine Jean-Louis Chave Hermitage Vin de Paille 1996</product-name>
-<price>12640</price>
+<product-name>Domaine Jean-Louis Chave Hermitage Vin de Paille 1996 Sweet</product-name>
+<price>19750</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>375 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3284,8 +3284,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>RHSB0001</product-id>
 </product>
 <product>
-<product-name>Chateau de Fonsalette Cote du Rhone 1994</product-name>
-<price>6240</price>
+<product-name>Chateau de Fonsalette Cote du Rhone 1994 Red</product-name>
+<price>9750</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3294,8 +3294,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>RHRB0009</product-id>
 </product>
 <product>
-<product-name>Domaine Jean-Louis Chave L'Hermitage Blanc 2015</product-name>
-<price>2240</price>
+<product-name>Domaine Jean-Louis Chave L'Hermitage Blanc 2015 White</product-name>
+<price>3500</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3304,8 +3304,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>RHWB0001</product-id>
 </product>
 <product>
-<product-name>Domaine Jean-Louis Chave L'Hermitage Blanc 2015</product-name>
-<price>4720</price>
+<product-name>Domaine Jean-Louis Chave L'Hermitage Blanc 2015 White</product-name>
+<price>7380</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3314,8 +3314,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>RHWB0002</product-id>
 </product>
 <product>
-<product-name>Domaine Tempier Bandol Cuvee Cabassou 1999</product-name>
-<price>1520</price>
+<product-name>Domaine Tempier Bandol Cuvee Cabassou 1999 Red</product-name>
+<price>2380</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3324,8 +3324,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>PRRB0001</product-id>
 </product>
 <product>
-<product-name>Domaine Tempier Bandol Cuvee Cabassou 1995</product-name>
-<price>1520</price>
+<product-name>Domaine Tempier Bandol Cuvee Cabassou 1995 Red</product-name>
+<price>2380</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3334,8 +3334,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>PRRB0002</product-id>
 </product>
 <product>
-<product-name>Domaine de Trévallon Alpilles Rouge 2017</product-name>
-<price>1200</price>
+<product-name>Domaine de Trévallon Alpilles Rouge 2017 Red</product-name>
+<price>1880</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3344,8 +3344,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>PRRB0003</product-id>
 </product>
 <product>
-<product-name>Domaine de Trévallon Alpilles Rouge 2011</product-name>
-<price>1280</price>
+<product-name>Domaine de Trévallon Alpilles Rouge 2011 Red</product-name>
+<price>2000</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3354,8 +3354,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>PRRB0004</product-id>
 </product>
 <product>
-<product-name>Domaine de Trévallon Alpilles Rouge 2011</product-name>
-<price>1280</price>
+<product-name>Domaine de Trévallon Alpilles Rouge 2011 Red</product-name>
+<price>2000</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3364,8 +3364,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>PRRB0005</product-id>
 </product>
 <product>
-<product-name>La Grange des Pères Vin de Pays de l'Hérault 2013</product-name>
-<price>6320</price>
+<product-name>La Grange des Pères Vin de Pays de l'Hérault 2013 Red</product-name>
+<price>9880</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3374,8 +3374,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>LRRB0001</product-id>
 </product>
 <product>
-<product-name>Clos Rougeard Saumur Champigny 2015</product-name>
-<price>1840</price>
+<product-name>Clos Rougeard Saumur Champigny 2015 Red</product-name>
+<price>2880</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3384,8 +3384,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>LORB0001</product-id>
 </product>
 <product>
-<product-name>Domaine des Miroirs entre deux bleus Les Saugettes Entre deux Bleus 2016</product-name>
-<price>13440</price>
+<product-name>Domaine des Miroirs entre deux bleus Les Saugettes Entre deux Bleus 2016 White</product-name>
+<price>21000</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3394,8 +3394,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>JUWB0001</product-id>
 </product>
 <product>
-<product-name>Domaine des Miroirs Mizuiro Mizuiro 2016</product-name>
-<price>12640</price>
+<product-name>Domaine des Miroirs Mizuiro Mizuiro 2016 White</product-name>
+<price>19750</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3404,8 +3404,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>JUWB0002</product-id>
 </product>
 <product>
-<product-name>Jean François Ganevat Les Vignes de Mon Pere 2003</product-name>
-<price>5520</price>
+<product-name>Jean François Ganevat Les Vignes de Mon Pere 2003 White</product-name>
+<price>8630</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3414,8 +3414,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>JUWB0003</product-id>
 </product>
 <product>
-<product-name>Masseto Toscana 2015</product-name>
-<price>12640</price>
+<product-name>Masseto Toscana 2015 Red</product-name>
+<price>19750</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3424,8 +3424,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>TURB0002</product-id>
 </product>
 <product>
-<product-name>Antinori Tenuta Tignanello 'Solaia' 2015</product-name>
-<price>5440</price>
+<product-name>Antinori Tenuta Tignanello 'Solaia' 2015 Red</product-name>
+<price>8500</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3434,8 +3434,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>TURB0003</product-id>
 </product>
 <product>
-<product-name>Antinori Tenuta Guado al Tasso Bolgheri Superiore 2015</product-name>
-<price>4640</price>
+<product-name>Antinori Tenuta Guado al Tasso Bolgheri Superiore 2015 Red</product-name>
+<price>7250</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>3000 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3444,8 +3444,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>TURB0004</product-id>
 </product>
 <product>
-<product-name>Tenuta San Guido Sassicaia 2016</product-name>
-<price>2080</price>
+<product-name>Tenuta San Guido Sassicaia 2016 Red</product-name>
+<price>3250</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3454,8 +3454,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>TURB0005</product-id>
 </product>
 <product>
-<product-name>Sine Qua Non Shakti Grenache 2014</product-name>
-<price>2240</price>
+<product-name>Sine Qua Non Shakti Grenache 2014 Red</product-name>
+<price>3500</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3464,8 +3464,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>CARB0001</product-id>
 </product>
 <product>
-<product-name>Klein Constancia Vin de Constance (Natural Sweet) 2019</product-name>
-<price>360</price>
+<product-name>Klein Constancia Vin de Constance (Natural Sweet) 2019 Sweet</product-name>
+<price>570</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>500 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3474,8 +3474,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>SFWB0001</product-id>
 </product>
 <product>
-<product-name>Kracher Grande Cuvée Nummer 5 Nouvelle Vague Trockenbeerenauslese 2019</product-name>
-<price>400</price>
+<product-name>Kracher Grande Cuvée Nummer 5 Nouvelle Vague Trockenbeerenauslese 2019 Sweet</product-name>
+<price>620</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>375 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3484,8 +3484,8 @@ This XML file does not appear to have any style information associated with it. 
 <product-id>AUWB0001</product-id>
 </product>
 <product>
-<product-name>Jim Barry The Armagh Shiraz 2009</product-name>
-<price>1520</price>
+<product-name>Jim Barry The Armagh Shiraz 2009 Red</product-name>
+<price>2380</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
