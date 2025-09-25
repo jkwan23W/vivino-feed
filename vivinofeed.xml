@@ -1,7 +1,7 @@
 This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <vivino-product-list>
 <meta-data>
-<feed-generation-date>2025-09-22T17:47:52Z</feed-generation-date>
+<feed-generation-date>2025-09-25T10:49:00Z</feed-generation-date>
 </meta-data>
 <product>
 <product-name>Agnes Paquet Auxey-Duresses Blanc Les Hoz 2023 White</product-name>
@@ -125,7 +125,7 @@ This XML file does not appear to have any style information associated with it. 
 </product>
 <product>
 <product-name>Aurelien Verdet Chambolle-Musigny 2023 Red</product-name>
-<price>890</price>
+<price>1200</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -135,7 +135,7 @@ This XML file does not appear to have any style information associated with it. 
 </product>
 <product>
 <product-name>Aurelien Verdet Gevrey-Chambertin 2023 Red</product-name>
-<price>680</price>
+<price>820</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -695,7 +695,7 @@ This XML file does not appear to have any style information associated with it. 
 </product>
 <product>
 <product-name>Domaine Boigey Freres Nuits Saint Georges 1er Cru les Boudots 2023 Red</product-name>
-<price>2320</price>
+<price>2380</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -715,7 +715,7 @@ This XML file does not appear to have any style information associated with it. 
 </product>
 <product>
 <product-name>Domaine Boigey Freres Nuits Saint Georges 1er Cru les Damodes 2023 Red</product-name>
-<price>2200</price>
+<price>2280</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -775,7 +775,7 @@ This XML file does not appear to have any style information associated with it. 
 </product>
 <product>
 <product-name>Domaine Bruno Clavelier Gevrey Chambertin 1er Cru 'Les Corbeaux' 2022 Red</product-name>
-<price>1740</price>
+<price>1880</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -785,7 +785,7 @@ This XML file does not appear to have any style information associated with it. 
 </product>
 <product>
 <product-name>Domaine Bruno Clavelier Nuits Saint Georges 1er Cru 'Aux Cras' 2022 Red</product-name>
-<price>1740</price>
+<price>1880</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -1235,7 +1235,7 @@ This XML file does not appear to have any style information associated with it. 
 </product>
 <product>
 <product-name>Domaine Edouard Confuron Côteaux Bourguignons 2023 Red</product-name>
-<price>310</price>
+<price>315</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -1245,7 +1245,7 @@ This XML file does not appear to have any style information associated with it. 
 </product>
 <product>
 <product-name>Domaine Edouard Confuron Nuits-Saint-Georges Aux Allots 2023 Red</product-name>
-<price>920</price>
+<price>950</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -1585,7 +1585,7 @@ This XML file does not appear to have any style information associated with it. 
 </product>
 <product>
 <product-name>Domaine Muxin Cabernet Sauvignon 2022 Red</product-name>
-<price>1650</price>
+<price>1580</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2575,7 +2575,7 @@ This XML file does not appear to have any style information associated with it. 
 </product>
 <product>
 <product-name>Madelaine Brochet Millennium 2020 0</product-name>
-<price>1040</price>
+<price>990</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2585,7 +2585,7 @@ This XML file does not appear to have any style information associated with it. 
 </product>
 <product>
 <product-name>Madelaine Brochet Millennium 2018 0</product-name>
-<price>1040</price>
+<price>990</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2760,7 +2760,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/mj-tricot-meursault/w/12432227/</link>
-<inventory-count>19</inventory-count>
+<inventory-count>0</inventory-count>
 <product-id>BUWB0014</product-id>
 </product>
 <product>
@@ -2770,7 +2770,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/mj-tricot-meursault/w/12432227/</link>
-<inventory-count>44</inventory-count>
+<inventory-count>0</inventory-count>
 <product-id>BUWB0013</product-id>
 </product>
 <product>
@@ -2875,7 +2875,7 @@ This XML file does not appear to have any style information associated with it. 
 </product>
 <product>
 <product-name>Nathalie Falmet Cuvee Brut Nature NV White</product-name>
-<price>2080</price>
+<price>2400</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -2965,7 +2965,7 @@ This XML file does not appear to have any style information associated with it. 
 </product>
 <product>
 <product-name>Paul Granier Les Grandes Garrigues 2022 White</product-name>
-<price>550</price>
+<price>580</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -2975,7 +2975,7 @@ This XML file does not appear to have any style information associated with it. 
 </product>
 <product>
 <product-name>Paul Granier les Lignieres 2022 Red</product-name>
-<price>550</price>
+<price>580</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3085,7 +3085,7 @@ This XML file does not appear to have any style information associated with it. 
 </product>
 <product>
 <product-name>Robert Faivre Les Reflets du Clocher Blanc de Noirs NV White</product-name>
-<price>500</price>
+<price>450</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3095,7 +3095,7 @@ This XML file does not appear to have any style information associated with it. 
 </product>
 <product>
 <product-name>Robert Faivre Les Reflets du Clocher Blanc de Noirs NV White</product-name>
-<price>2600</price>
+<price>2500</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
