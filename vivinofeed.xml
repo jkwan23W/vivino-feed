@@ -1,7 +1,7 @@
 This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <vivino-product-list>
 <meta-data>
-<feed-generation-date>2025-09-25T10:49:00Z</feed-generation-date>
+<feed-generation-date>2025-10-22T17:05:41Z</feed-generation-date>
 </meta-data>
 <product>
 <product-name>Agnes Paquet Auxey-Duresses Blanc Les Hoz 2023 White</product-name>
@@ -10,7 +10,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/agnes-paquet-les-hoz-auxey-duresses/w/10589723</link>
-<inventory-count>92</inventory-count>
+<inventory-count>58</inventory-count>
 <product-id>BUWA0163</product-id>
 </product>
 <product>
@@ -20,7 +20,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/agnes-paquet-le-clou-et-la-plume-bourgogne-aligote/w/9050580</link>
-<inventory-count>257</inventory-count>
+<inventory-count>212</inventory-count>
 <product-id>BUWA0161</product-id>
 </product>
 <product>
@@ -30,7 +30,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/agnes-paquet-bourgogne-hautes-cotes-de-beaune-blanc/w/8803052</link>
-<inventory-count>31</inventory-count>
+<inventory-count>29</inventory-count>
 <product-id>BUWA0162</product-id>
 </product>
 <product>
@@ -120,7 +120,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/aurelien-verdet-le-prieure-bourgogne-hautes-cotes-de-nuits-rouge/w/1756328</link>
-<inventory-count>172</inventory-count>
+<inventory-count>169</inventory-count>
 <product-id>BURA0385</product-id>
 </product>
 <product>
@@ -140,7 +140,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/aurelien-verdet-gevrey-chambertin/w/1411160/</link>
-<inventory-count>84</inventory-count>
+<inventory-count>83</inventory-count>
 <product-id>BURA0389</product-id>
 </product>
 <product>
@@ -180,7 +180,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/aurelien-verdet-nuits-saint-georges-1er-cru-aux-boudots/w/1871963</link>
-<inventory-count>20</inventory-count>
+<inventory-count>18</inventory-count>
 <product-id>BURA0210</product-id>
 </product>
 <product>
@@ -220,7 +220,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/aurelien-verdet-vieilles-vignes-vosne-romanee/w/1746715/</link>
-<inventory-count>39</inventory-count>
+<inventory-count>38</inventory-count>
 <product-id>BURA0390</product-id>
 </product>
 <product>
@@ -230,7 +230,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/FR/en/henri-naudin-ferrand-la-plante-d-a-cote-binaume/w/6210703</link>
-<inventory-count>128</inventory-count>
+<inventory-count>127</inventory-count>
 <product-id>BURA0245</product-id>
 </product>
 <product>
@@ -250,7 +250,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/domaine-bruno-clavelier-vieilles-vignes-corton-le-rognet-grand-cru/w/1454211</link>
-<inventory-count>9</inventory-count>
+<inventory-count>3</inventory-count>
 <product-id>BURA0074</product-id>
 </product>
 <product>
@@ -340,7 +340,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>1500 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/chateau-giscours-chateau-giscours-grand-cru-classe/w/13689?ref=nav-search</link>
-<inventory-count>30</inventory-count>
+<inventory-count>18</inventory-count>
 <product-id>BORB0045</product-id>
 </product>
 <product>
@@ -370,7 +370,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/chateau-gruaud-larose-saint-julien-grand-cru-classe/w/79265/</link>
-<inventory-count>92</inventory-count>
+<inventory-count>88</inventory-count>
 <product-id>BORB0058</product-id>
 </product>
 <product>
@@ -380,7 +380,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/chateau-haut-bailly-chateau-haut-bailly-cru-classe-de-graves/w/13632/</link>
-<inventory-count>32</inventory-count>
+<inventory-count>30</inventory-count>
 <product-id>BORB0059</product-id>
 </product>
 <product>
@@ -460,7 +460,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>1500 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/chateau-lynch-bages-pauillac-grand-cru-classe/w/79262?ref=nav-search</link>
-<inventory-count>22</inventory-count>
+<inventory-count>20</inventory-count>
 <product-id>BORB0049</product-id>
 </product>
 <product>
@@ -490,7 +490,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/giraud-gari/w/8721793/</link>
-<inventory-count>62</inventory-count>
+<inventory-count>61</inventory-count>
 <product-id>RHRA0001</product-id>
 </product>
 <product>
@@ -570,7 +570,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/vico-clos-venturi-chiesa-nera-rouge/w/7120285</link>
-<inventory-count>5</inventory-count>
+<inventory-count>3</inventory-count>
 <product-id>CORA0003</product-id>
 </product>
 <product>
@@ -590,7 +590,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/vico-clos-venturi-ip-blanc/w/11734683</link>
-<inventory-count>19</inventory-count>
+<inventory-count>16</inventory-count>
 <product-id>COWA0002</product-id>
 </product>
 <product>
@@ -600,7 +600,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/vico-clos-venturi-ip-blanc/w/11734683</link>
-<inventory-count>31</inventory-count>
+<inventory-count>25</inventory-count>
 <product-id>COWA0013</product-id>
 </product>
 <product>
@@ -610,7 +610,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/vico-clos-venturi-le-clos/w/11663547</link>
-<inventory-count>158</inventory-count>
+<inventory-count>118</inventory-count>
 <product-id>COWA0012</product-id>
 </product>
 <product>
@@ -620,7 +620,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/vico-clos-venturi-le-clos/w/11663547</link>
-<inventory-count>158</inventory-count>
+<inventory-count>118</inventory-count>
 <product-id>COWA0012</product-id>
 </product>
 <product>
@@ -630,7 +630,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/vico-clos-venturi-le-clos-rouge/w/13165529</link>
-<inventory-count>180</inventory-count>
+<inventory-count>175</inventory-count>
 <product-id>CORA0010</product-id>
 </product>
 <product>
@@ -640,7 +640,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/vico-clos-venturi-le-clos-rouge/w/13165529</link>
-<inventory-count>13</inventory-count>
+<inventory-count>7</inventory-count>
 <product-id>CORA0005</product-id>
 </product>
 <product>
@@ -720,7 +720,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/domaine-boigey-freres-nuits-saint-georges-1er-cru-les-damodes/w/10005452</link>
-<inventory-count>55</inventory-count>
+<inventory-count>54</inventory-count>
 <product-id>BURA0370</product-id>
 </product>
 <product>
@@ -740,7 +740,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>0</link>
-<inventory-count>66</inventory-count>
+<inventory-count>65</inventory-count>
 <product-id>BURA0377</product-id>
 </product>
 <product>
@@ -920,7 +920,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/darviot-perrin-meursault-clos-de-la-velle-blanc/w/1185872</link>
-<inventory-count>11</inventory-count>
+<inventory-count>7</inventory-count>
 <product-id>BUWA0086</product-id>
 </product>
 <product>
@@ -930,7 +930,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/darviot-perrin-meursault-genevrieres-1er-cru/w/1182448</link>
-<inventory-count>37</inventory-count>
+<inventory-count>38</inventory-count>
 <product-id>BUWA0027</product-id>
 </product>
 <product>
@@ -940,7 +940,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/darviot-perrin-meursault-charmes-1er-cru/w/1454373</link>
-<inventory-count>32</inventory-count>
+<inventory-count>34</inventory-count>
 <product-id>BUWA0089</product-id>
 </product>
 <product>
@@ -950,7 +950,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/darviot-perrin-meursault-genevrieres-1er-cru/w/1182448</link>
-<inventory-count>30</inventory-count>
+<inventory-count>29</inventory-count>
 <product-id>BUWA0088</product-id>
 </product>
 <product>
@@ -960,7 +960,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/darviot-perrin-meursault-perrieres-1er-cru/w/1185874</link>
-<inventory-count>27</inventory-count>
+<inventory-count>29</inventory-count>
 <product-id>BUWA0090</product-id>
 </product>
 <product>
@@ -1000,7 +1000,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/darviot-perrin-volnay-1er-cru-la-gigotte/w/1185879</link>
-<inventory-count>40</inventory-count>
+<inventory-count>39</inventory-count>
 <product-id>BURA0087</product-id>
 </product>
 <product>
@@ -1030,7 +1030,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/domaine-de-la-commaraine-chambolle-musigny-les-condemennes/w/12415475</link>
-<inventory-count>27</inventory-count>
+<inventory-count>12</inventory-count>
 <product-id>BURA0406</product-id>
 </product>
 <product>
@@ -1040,7 +1040,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>0</link>
-<inventory-count>47</inventory-count>
+<inventory-count>20</inventory-count>
 <product-id>BUWA0175</product-id>
 </product>
 <product>
@@ -1050,7 +1050,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/domaine-de-la-commaraine-nuits-saint-georges-1er-cru-aux-bousselots/w/12843782</link>
-<inventory-count>50</inventory-count>
+<inventory-count>26</inventory-count>
 <product-id>BURA0404</product-id>
 </product>
 <product>
@@ -1060,7 +1060,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/domaine-de-la-commaraine-nuits-saint-georges-premier-cru-ronciere/w/11816065</link>
-<inventory-count>41</inventory-count>
+<inventory-count>22</inventory-count>
 <product-id>BURA0402</product-id>
 </product>
 <product>
@@ -1070,7 +1070,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>0</link>
-<inventory-count>34</inventory-count>
+<inventory-count>31</inventory-count>
 <product-id>BURA0410</product-id>
 </product>
 <product>
@@ -1080,7 +1080,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>0</link>
-<inventory-count>179</inventory-count>
+<inventory-count>134</inventory-count>
 <product-id>BURA0399</product-id>
 </product>
 <product>
@@ -1090,7 +1090,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/domaine-belleville-clos-de-la-commaraine-monopole/w/7978208</link>
-<inventory-count>118</inventory-count>
+<inventory-count>81</inventory-count>
 <product-id>BURA0264</product-id>
 </product>
 <product>
@@ -1100,7 +1100,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/domaine-de-la-commaraine-saint-aubin-premier-cru-les-murgers-des-dents-de-chien/w/12994601</link>
-<inventory-count>101</inventory-count>
+<inventory-count>76</inventory-count>
 <product-id>BUWA0178</product-id>
 </product>
 <product>
@@ -1110,7 +1110,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>0</link>
-<inventory-count>41</inventory-count>
+<inventory-count>16</inventory-count>
 <product-id>BURA0407</product-id>
 </product>
 <product>
@@ -1180,7 +1180,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/domaine-des-sables-verts-glouglou-saumur-champigny/w/8570072</link>
-<inventory-count>106</inventory-count>
+<inventory-count>223</inventory-count>
 <product-id>LORA0006</product-id>
 </product>
 <product>
@@ -1230,7 +1230,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/domaine-edouard-confuron-bourgogne-pinot-noir/w/11501591</link>
-<inventory-count>40</inventory-count>
+<inventory-count>32</inventory-count>
 <product-id>BURA0394</product-id>
 </product>
 <product>
@@ -1240,7 +1240,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/domaine-edouard-confuron-coteaux-bourguignons/w/12518200</link>
-<inventory-count>119</inventory-count>
+<inventory-count>98</inventory-count>
 <product-id>BURA0393</product-id>
 </product>
 <product>
@@ -1310,7 +1310,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/eymin-tichoux-crozes-hermitage/w/8469219</link>
-<inventory-count>307</inventory-count>
+<inventory-count>282</inventory-count>
 <product-id>RHRA0018</product-id>
 </product>
 <product>
@@ -1350,7 +1350,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/eymin-tichoux-cap-syrah/w/9552689</link>
-<inventory-count>96</inventory-count>
+<inventory-count>92</inventory-count>
 <product-id>RHRA0009</product-id>
 </product>
 <product>
@@ -1390,7 +1390,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/domaine-christian-gros-ladoix-1er-cru-les-grechons/w/7399399</link>
-<inventory-count>21</inventory-count>
+<inventory-count>19</inventory-count>
 <product-id>BUWA0019</product-id>
 </product>
 <product>
@@ -1410,7 +1410,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/domaine-julien-gros-corton-clos-du-roi-grand-cru-rouge/w/7535488</link>
-<inventory-count>24</inventory-count>
+<inventory-count>23</inventory-count>
 <product-id>BURA0247</product-id>
 </product>
 <product>
@@ -1440,7 +1440,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/la-courtade-cotes-de-provence-blanc/w/5778200</link>
-<inventory-count>38</inventory-count>
+<inventory-count>26</inventory-count>
 <product-id>PRWA0001</product-id>
 </product>
 <product>
@@ -1500,7 +1500,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/domaine-larue-bourgogne-cote-d-or-les-buees/w/7679942</link>
-<inventory-count>21</inventory-count>
+<inventory-count>19</inventory-count>
 <product-id>BUWA0165</product-id>
 </product>
 <product>
@@ -1520,7 +1520,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/domaine-larue-chassagne-montrachet-rouge/w/1147003</link>
-<inventory-count>71</inventory-count>
+<inventory-count>70</inventory-count>
 <product-id>BURA0383</product-id>
 </product>
 <product>
@@ -1540,7 +1540,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/domaine-larue-puligny-montrachet-le-trezin/w/1304753</link>
-<inventory-count>72</inventory-count>
+<inventory-count>58</inventory-count>
 <product-id>BUWA0166</product-id>
 </product>
 <product>
@@ -1580,7 +1580,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/domaine-larue-saint-aubin-1er-cru-sous-roche-dumay/w/7058714</link>
-<inventory-count>24</inventory-count>
+<inventory-count>12</inventory-count>
 <product-id>BUWA0172</product-id>
 </product>
 <product>
@@ -1590,7 +1590,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/domaine-muxin-cabernet-sauvignon/w/11400513</link>
-<inventory-count>99</inventory-count>
+<inventory-count>381</inventory-count>
 <product-id>YURA0001</product-id>
 </product>
 <product>
@@ -1700,7 +1700,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/odoul-coquard-gevrey-chambertin/w/1191873</link>
-<inventory-count>28</inventory-count>
+<inventory-count>20</inventory-count>
 <product-id>BURA0215</product-id>
 </product>
 <product>
@@ -1710,7 +1710,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/odoul-coquard-gevrey-chambertin-1er-cru-aux-combottes/w/1525295</link>
-<inventory-count>34</inventory-count>
+<inventory-count>32</inventory-count>
 <product-id>BURA0028</product-id>
 </product>
 <product>
@@ -1720,7 +1720,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/odoul-coquard-gevrey-chambertin-1er-cru-aux-combottes/w/1525295</link>
-<inventory-count>6</inventory-count>
+<inventory-count>1</inventory-count>
 <product-id>BURA0029</product-id>
 </product>
 <product>
@@ -1760,7 +1760,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/odoul-coquard-morey-saint-denis-morey-saint-denis-red-wine-v-b9xmo/w/9304488</link>
-<inventory-count>10</inventory-count>
+<inventory-count>8</inventory-count>
 <product-id>BURA0214</product-id>
 </product>
 <product>
@@ -1770,7 +1770,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/odoul-coquard-nuits-saint-georges-les-argillats/w/1535970</link>
-<inventory-count>13</inventory-count>
+<inventory-count>11</inventory-count>
 <product-id>BURA0212</product-id>
 </product>
 <product>
@@ -1810,7 +1810,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/potinet-ampeau-meursault/w/1871589</link>
-<inventory-count>28</inventory-count>
+<inventory-count>29</inventory-count>
 <product-id>BUWA0034</product-id>
 </product>
 <product>
@@ -1820,7 +1820,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/potinet-ampeau-meursault/w/1871589</link>
-<inventory-count>28</inventory-count>
+<inventory-count>29</inventory-count>
 <product-id>BUWA0034</product-id>
 </product>
 <product>
@@ -1830,7 +1830,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/potinet-ampeau-meursault/w/1871589</link>
-<inventory-count>5</inventory-count>
+<inventory-count>3</inventory-count>
 <product-id>BUWA0035</product-id>
 </product>
 <product>
@@ -1850,7 +1850,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/potinet-ampeau-pommard-1er-cru-les-pezerolles/w/1679750</link>
-<inventory-count>33</inventory-count>
+<inventory-count>26</inventory-count>
 <product-id>BURA0116</product-id>
 </product>
 <product>
@@ -1860,7 +1860,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/potinet-ampeau-pommard-1er-cru-les-pezerolles/w/1679750</link>
-<inventory-count>33</inventory-count>
+<inventory-count>26</inventory-count>
 <product-id>BURA0116</product-id>
 </product>
 <product>
@@ -1880,7 +1880,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/potinet-ampeau-puligny-montrachet/w/1290027</link>
-<inventory-count>87</inventory-count>
+<inventory-count>81</inventory-count>
 <product-id>BUWA0097</product-id>
 </product>
 <product>
@@ -1930,7 +1930,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/potinet-ampeau-volnay-1er-cru-les-santenots/w/1704845</link>
-<inventory-count>6</inventory-count>
+<inventory-count>7</inventory-count>
 <product-id>BURA0113</product-id>
 </product>
 <product>
@@ -1950,7 +1950,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/prieure-roch-nuits-saint-georges-1er-cru-clos-des-corvees/w/1369227</link>
-<inventory-count>6</inventory-count>
+<inventory-count>77</inventory-count>
 <product-id>BURA0172</product-id>
 </product>
 <product>
@@ -1960,7 +1960,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/prieure-roch-nuits-saint-georges-1er-cru-clos-des-corvees/w/1369227</link>
-<inventory-count>6</inventory-count>
+<inventory-count>24</inventory-count>
 <product-id>BURB0016</product-id>
 </product>
 <product>
@@ -1970,7 +1970,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>0</link>
-<inventory-count>12</inventory-count>
+<inventory-count>0</inventory-count>
 <product-id>BURA0296</product-id>
 </product>
 <product>
@@ -2070,7 +2070,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/serafin-pere-et-fils-charmes-chambertin-grand-cru/w/1843941/</link>
-<inventory-count>1</inventory-count>
+<inventory-count>0</inventory-count>
 <product-id>BURB0115</product-id>
 </product>
 <product>
@@ -2320,7 +2320,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/famille-messager-germain-bourgogne-pinot-noir/w/12556818</link>
-<inventory-count>0</inventory-count>
+<inventory-count>3</inventory-count>
 <product-id>BURA0314</product-id>
 </product>
 <product>
@@ -2360,7 +2360,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/famille-messager-germain-fixin-chardonnay/w/12534447</link>
-<inventory-count>17</inventory-count>
+<inventory-count>16</inventory-count>
 <product-id>BUWA0148</product-id>
 </product>
 <product>
@@ -2380,7 +2380,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/famille-messager-germain-fixin-cote-cour/w/13180432</link>
-<inventory-count>17</inventory-count>
+<inventory-count>14</inventory-count>
 <product-id>BURA0317</product-id>
 </product>
 <product>
@@ -2400,7 +2400,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/famille-messager-germain-pierre-virant-morey-saint-denis/w/13265163</link>
-<inventory-count>30</inventory-count>
+<inventory-count>29</inventory-count>
 <product-id>BURA0320</product-id>
 </product>
 <product>
@@ -2410,7 +2410,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/famille-messager-germain-nuits-saint-georges-aux-herbues/w/13401682</link>
-<inventory-count>15</inventory-count>
+<inventory-count>14</inventory-count>
 <product-id>BURA0319</product-id>
 </product>
 <product>
@@ -2430,7 +2430,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/francoise-bedel-entre-ciel-terre-champagne/w/1376893</link>
-<inventory-count>7</inventory-count>
+<inventory-count>5</inventory-count>
 <product-id>CHWB0012</product-id>
 </product>
 <product>
@@ -2440,7 +2440,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/francoise-bedel-l-ame-de-la-terre-millesime-champagne/w/1947240</link>
-<inventory-count>24</inventory-count>
+<inventory-count>21</inventory-count>
 <product-id>CHWB0013</product-id>
 </product>
 <product>
@@ -2550,7 +2550,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>500 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/klein-constantia-vin-de-constance-natural-sweet/w/1958101/</link>
-<inventory-count>10</inventory-count>
+<inventory-count>8</inventory-count>
 <product-id>SFWB0001</product-id>
 </product>
 <product>
@@ -2570,7 +2570,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/hospices-de-beaune-cuvee-boillot-auxey-duresses-premier-cru/w/1389369/</link>
-<inventory-count>29</inventory-count>
+<inventory-count>28</inventory-count>
 <product-id>BURB0050</product-id>
 </product>
 <product>
@@ -2580,7 +2580,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>0</link>
-<inventory-count>54</inventory-count>
+<inventory-count>45</inventory-count>
 <product-id>CHWA0035</product-id>
 </product>
 <product>
@@ -2590,7 +2590,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>0</link>
-<inventory-count>227</inventory-count>
+<inventory-count>215</inventory-count>
 <product-id>CHWA0036</product-id>
 </product>
 <product>
@@ -2630,7 +2630,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>0</link>
-<inventory-count>30</inventory-count>
+<inventory-count>26</inventory-count>
 <product-id>BURA0284</product-id>
 </product>
 <product>
@@ -2640,7 +2640,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/maison-fang-bourgogne-hautes-cotes-de-beaune/w/12342582</link>
-<inventory-count>106</inventory-count>
+<inventory-count>75</inventory-count>
 <product-id>BUWA0112</product-id>
 </product>
 <product>
@@ -2660,7 +2660,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/maison-fang-chassagne-montrachet-premier-cru-morgeot/w/13057742</link>
-<inventory-count>92</inventory-count>
+<inventory-count>90</inventory-count>
 <product-id>BURA0254</product-id>
 </product>
 <product>
@@ -2690,7 +2690,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/maison-fang-les-belles-filles-pernand-vergelesses/w/11725525</link>
-<inventory-count>96</inventory-count>
+<inventory-count>95</inventory-count>
 <product-id>BUWA0116</product-id>
 </product>
 <product>
@@ -2710,7 +2710,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>0</link>
-<inventory-count>12</inventory-count>
+<inventory-count>13</inventory-count>
 <product-id>BUWA0119</product-id>
 </product>
 <product>
@@ -2720,7 +2720,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/maison-fang-cuvee-zephyr-savigny-les-beaune/w/13031513</link>
-<inventory-count>53</inventory-count>
+<inventory-count>56</inventory-count>
 <product-id>BUWA0114</product-id>
 </product>
 <product>
@@ -2730,7 +2730,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>1500 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/maison-fang-cuvee-zephyr-savigny-les-beaune/w/13031513</link>
-<inventory-count>5</inventory-count>
+<inventory-count>6</inventory-count>
 <product-id>BUWA0115</product-id>
 </product>
 <product>
@@ -2740,7 +2740,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/mas-jullien-autour-de-jonquieres-terrasses-du-larzac/w/5275255?ref=nav-search</link>
-<inventory-count>109</inventory-count>
+<inventory-count>96</inventory-count>
 <product-id>RORA0002</product-id>
 </product>
 <product>
@@ -2750,7 +2750,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/mas-jullien-blanc/w/1174655</link>
-<inventory-count>114</inventory-count>
+<inventory-count>102</inventory-count>
 <product-id>ROWA0002</product-id>
 </product>
 <product>
@@ -2760,7 +2760,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/mj-tricot-meursault/w/12432227/</link>
-<inventory-count>0</inventory-count>
+<inventory-count>19</inventory-count>
 <product-id>BUWB0014</product-id>
 </product>
 <product>
@@ -2770,7 +2770,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/mj-tricot-meursault/w/12432227/</link>
-<inventory-count>0</inventory-count>
+<inventory-count>44</inventory-count>
 <product-id>BUWB0013</product-id>
 </product>
 <product>
@@ -2790,7 +2790,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/mj-tricot-meursault-1er-cru-charmes-blanc/w/12777014</link>
-<inventory-count>39</inventory-count>
+<inventory-count>37</inventory-count>
 <product-id>BUWB0016</product-id>
 </product>
 <product>
@@ -2870,7 +2870,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/nathalie-falmet-brut-nature-blanc-de-noirs-champagne/w/1693735</link>
-<inventory-count>197</inventory-count>
+<inventory-count>170</inventory-count>
 <product-id>CHWA0011</product-id>
 </product>
 <product>
@@ -2880,7 +2880,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
 <link>https://www.vivino.com/HK/en/nathalie-falmet-brut-nature-blanc-de-noirs-champagne/w/1693735</link>
-<inventory-count>197</inventory-count>
+<inventory-count>170</inventory-count>
 <product-id>CHWA0011</product-id>
 </product>
 <product>
@@ -2970,7 +2970,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/paul-granier-les-grandes-garrigues/w/13220918</link>
-<inventory-count>81</inventory-count>
+<inventory-count>70</inventory-count>
 <product-id>ROWA0001</product-id>
 </product>
 <product>
@@ -2980,7 +2980,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>0</link>
-<inventory-count>103</inventory-count>
+<inventory-count>97</inventory-count>
 <product-id>RORA0001</product-id>
 </product>
 <product>
@@ -3030,7 +3030,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/robert-faivre-les-champs-de-romy-blanc-de-blancs-extra-brut-champagne/w/9304708</link>
-<inventory-count>17</inventory-count>
+<inventory-count>14</inventory-count>
 <product-id>CHWA0007</product-id>
 </product>
 <product>
@@ -3040,7 +3040,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/robert-faivre-les-perles-du-paradis-rose-extra-brut/w/8450319</link>
-<inventory-count>77</inventory-count>
+<inventory-count>71</inventory-count>
 <product-id>CHROA0002</product-id>
 </product>
 <product>
@@ -3070,7 +3070,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>0</link>
-<inventory-count>52</inventory-count>
+<inventory-count>48</inventory-count>
 <product-id>CHWA0044</product-id>
 </product>
 <product>
@@ -3080,7 +3080,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>0</link>
-<inventory-count>0</inventory-count>
+<inventory-count>5</inventory-count>
 <product-id>CHWA0045</product-id>
 </product>
 <product>
@@ -3090,7 +3090,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/robert-faivre-les-reflets-du-clocher-blanc-de-noirs-un-terroir-extra-brut-champagne/w/12479874</link>
-<inventory-count>244</inventory-count>
+<inventory-count>185</inventory-count>
 <product-id>CHWA0033</product-id>
 </product>
 <product>
@@ -3100,7 +3100,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
 <link>https://www.vivino.com/HK/en/robert-faivre-les-reflets-du-clocher-blanc-de-noirs-un-terroir-extra-brut-champagne/w/12479874</link>
-<inventory-count>244</inventory-count>
+<inventory-count>185</inventory-count>
 <product-id>CHWA0033</product-id>
 </product>
 <product>
@@ -3120,7 +3120,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/siret-frere-soeur-blanc-de-noirs-millesime-cote-des-bar-extra-brut-champagne/w/12360019/</link>
-<inventory-count>99</inventory-count>
+<inventory-count>83</inventory-count>
 <product-id>CHWA0004</product-id>
 </product>
 <product>
@@ -3130,12 +3130,12 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/HK/en/siret-frere-soeur-millesime-rose-de-saignee-extra-brut-champagne/w/10819031/</link>
-<inventory-count>82</inventory-count>
+<inventory-count>33</inventory-count>
 <product-id>CHROA0003</product-id>
 </product>
 <product>
 <product-name>Domaine Thierry Mortet Bourgogne Rouge Cote d'Or 2023 Red</product-name>
-<price>420</price>
+<price>400</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3145,7 +3145,7 @@ This XML file does not appear to have any style information associated with it. 
 </product>
 <product>
 <product-name>Domaine Thierry Mortet Gevrey Chambertin 2023 Red</product-name>
-<price>700</price>
+<price>820</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3155,7 +3155,7 @@ This XML file does not appear to have any style information associated with it. 
 </product>
 <product>
 <product-name>Domaine Thierry Mortet Gevrey Chambertin "Vignes Belles" 2023 Red</product-name>
-<price>780</price>
+<price>940</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3165,7 +3165,7 @@ This XML file does not appear to have any style information associated with it. 
 </product>
 <product>
 <product-name>Domaine Thierry Mortet Chambolle-Musigny 1er Cru "Les Beaux Bruns" 2023 Red</product-name>
-<price>1180</price>
+<price>1380</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3175,12 +3175,12 @@ This XML file does not appear to have any style information associated with it. 
 </product>
 <product>
 <product-name>Domaine Darviot-Perrin Chassagne-Montrachet 1er Cru 'Les Bondues' 2023 Red</product-name>
-<price>870</price>
+<price>850</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/zh/darviot-perrin-chassagne-montrachet-1er-cru-les-bondues/w/1185883</link>
-<inventory-count>18</inventory-count>
+<inventory-count>48</inventory-count>
 <product-id>BURA0432</product-id>
 </product>
 <product>
@@ -3190,347 +3190,347 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/zh/darviot-perrin-volnay-santenots-1er-cru/w/1185880</link>
-<inventory-count>18</inventory-count>
+<inventory-count>48</inventory-count>
 <product-id>BURA0433</product-id>
 </product>
 <product>
 <product-name>Domaine Odoul Coquard Gevrey-Chambertin "Vieilles Vignes" 2023 Red</product-name>
-<price>800</price>
+<price>750</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/zh/odoul-coquard-gevrey-chambertin/w/1191873</link>
-<inventory-count>12</inventory-count>
+<inventory-count>48</inventory-count>
 <product-id>BURA0436</product-id>
 </product>
 <product>
 <product-name>Domaine Odoul Coquard Chambolle-Musigny 1er cru "Les Baudes" 2023 Red</product-name>
-<price>1670</price>
+<price>1570</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/zh/odoul-coquard-chambolle-musigny-1er-cru-les-baudes/w/1958216</link>
-<inventory-count>6</inventory-count>
+<inventory-count>18</inventory-count>
 <product-id>BURA0437</product-id>
 </product>
 <product>
 <product-name>Domaine Odoul Coquard Chambolle-Musigny 1er cru "Les Sentiers" 2023 Red</product-name>
-<price>1670</price>
+<price>1570</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/zh/odoul-coquard-chambolle-musigny-1er-cru-les-sentiers/w/7902150</link>
-<inventory-count>6</inventory-count>
+<inventory-count>12</inventory-count>
 <product-id>BURA0438</product-id>
 </product>
 <product>
 <product-name>Domaine Odoul Coquard Chambolle-Musigny 1er cru "Les Fuees" 2023 Red</product-name>
-<price>1670</price>
+<price>1570</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/zh/odoul-coquard-chambolle-musigny-1er-cru-les-fuees/w/3985239</link>
-<inventory-count>6</inventory-count>
+<inventory-count>18</inventory-count>
 <product-id>BURA0439</product-id>
 </product>
 <product>
 <product-name>Domaine Odoul Coquard Morey-Saint-Denis 1er Cru 'Les Millandes' 2023 Red</product-name>
-<price>1020</price>
+<price>1230</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/zh/odoul-coquard-morey-saint-denis-1er-cru-les-milandes/w/1403249</link>
-<inventory-count>6</inventory-count>
+<inventory-count>24</inventory-count>
 <product-id>BURA0440</product-id>
 </product>
 <product>
 <product-name>Domaine Odoul Coquard Gevrey-Chambertin 1er cru "Les Combottes" 2023 Red</product-name>
-<price>0</price>
+<price>1320</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/zh/odoul-coquard-gevrey-chambertin-1er-cru-aux-combottes/w/1525295</link>
-<inventory-count>6</inventory-count>
+<inventory-count>36</inventory-count>
 <product-id>BURA0441</product-id>
 </product>
 <product>
 <product-name>Domaine Odoul Coquard Charmes-Chambertin 2023 Red</product-name>
-<price>0</price>
+<price>1880</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/zh/odoul-coquard-charmes-chambertin-grand-cru/w/1956490</link>
-<inventory-count>6</inventory-count>
+<inventory-count>30</inventory-count>
 <product-id>BURA0442</product-id>
 </product>
 <product>
 <product-name>Domaine Odoul Coquard Clos Vougeot Grand Cru 2023 Red</product-name>
-<price>1800</price>
+<price>2070</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/zh/odoul-coquard-clos-de-vougeot-grand-cru/w/1532355</link>
-<inventory-count>6</inventory-count>
+<inventory-count>24</inventory-count>
 <product-id>BURA0443</product-id>
 </product>
 <product>
 <product-name>Domaine Odoul Coquard Bourgogne "Côte D'Or' 2023 Red</product-name>
-<price>380</price>
+<price>350</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/zh/odoul-coquard-bourgogne-cote-d-or-pinot-noir/w/9454189</link>
-<inventory-count>12</inventory-count>
+<inventory-count>60</inventory-count>
 <product-id>BURA0444</product-id>
 </product>
 <product>
 <product-name>Domaine Odoul Coquard Nuits-Saint-Georges "Les Argillats" 2023 Red</product-name>
-<price>700</price>
+<price>660</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/zh/odoul-coquard-nuits-saint-georges-les-argillats/w/1535970</link>
-<inventory-count>12</inventory-count>
+<inventory-count>48</inventory-count>
 <product-id>BURA0445</product-id>
 </product>
 <product>
 <product-name>Domaine Odoul Coquard Chambolle-Musigny "Vieilles Vignes" 2023 Red</product-name>
-<price>870</price>
+<price>690</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/zh/odoul-coquard-chambolle-musigny/w/1607759</link>
-<inventory-count>12</inventory-count>
+<inventory-count>60</inventory-count>
 <product-id>BURA0446</product-id>
 </product>
 <product>
 <product-name>Domaine Odoul Coquard Vosne Romanee "Vieilles Vignes" 2023 Red</product-name>
-<price>910</price>
-<quantity-is-minimum>false</quantity-is-minimum>
-<bottle_size>750 ml</bottle_size>
-<bottle_quantity>1</bottle_quantity>
-<link>https://www.vivino.com/zh/odoul-coquard-vieilles-vignes-vosne-romanee/w/9534742</link>
-<inventory-count>12</inventory-count>
-<product-id>BURA0447</product-id>
-</product>
-<product>
-<product-name>Domaine Odoul Coquard Morey-Saint-Denis "Aux Chéseaux" 2023 Red</product-name>
-<price>630</price>
-<quantity-is-minimum>false</quantity-is-minimum>
-<bottle_size>750 ml</bottle_size>
-<bottle_quantity>1</bottle_quantity>
-<link>https://www.vivino.com/zh/odoul-coquard-morey-saint-denis-1er-cru-aux-cheseaux/w/2213912</link>
-<inventory-count>12</inventory-count>
-<product-id>BURA0448</product-id>
-</product>
-<product>
-<product-name>Domaine Bachelet-Monnot Bourgogne Rouge 2023 Red</product-name>
-<price>360</price>
-<quantity-is-minimum>false</quantity-is-minimum>
-<bottle_size>750 ml</bottle_size>
-<bottle_quantity>1</bottle_quantity>
-<link>https://www.vivino.com/en/bachelet-monnot-bourgogne-rouge/w/1438845</link>
-<inventory-count>12</inventory-count>
-<product-id>BURA0449</product-id>
-</product>
-<product>
-<product-name>Domaine Bachelet-Monnot Maranges 1er Cru "la Fuissiere" 2023 Red</product-name>
-<price>510</price>
-<quantity-is-minimum>false</quantity-is-minimum>
-<bottle_size>1500 ml</bottle_size>
-<bottle_quantity>1</bottle_quantity>
-<link>https://www.vivino.com/en/bachelet-monnot-maranges-1er-cru-la-fussiere-rouge/w/1132258</link>
-<inventory-count>60</inventory-count>
-<product-id>BURA0450</product-id>
-</product>
-<product>
-<product-name>Domaine Bachelet-Monnot Maranges 1er Cru "Clos de la Boutiere" 2023 Red</product-name>
-<price>510</price>
-<quantity-is-minimum>false</quantity-is-minimum>
-<bottle_size>750 ml</bottle_size>
-<bottle_quantity>1</bottle_quantity>
-<link>https://www.vivino.com/en/bachelet-monnot-maranges-1er-cru-clos-de-la-boutiere/w/1132260</link>
-<inventory-count>36</inventory-count>
-<product-id>BURA0451</product-id>
-</product>
-<product>
-<product-name>Domaine Bachelet-Monnot Santenay "Charmes-Dessus" 2023 Red</product-name>
-<price>510</price>
-<quantity-is-minimum>false</quantity-is-minimum>
-<bottle_size>1500 ml</bottle_size>
-<bottle_quantity>1</bottle_quantity>
-<link>https://www.vivino.com/en/bachelet-monnot-santenay-les-charmes-dessus/w/5929435</link>
-<inventory-count>36</inventory-count>
-<product-id>BURA0452</product-id>
-</product>
-<product>
-<product-name>Domaine Bachelet-Monnot Pommard 2023 Red</product-name>
-<price>750</price>
-<quantity-is-minimum>false</quantity-is-minimum>
-<bottle_size>1500 ml</bottle_size>
-<bottle_quantity>1</bottle_quantity>
-<link>https://www.vivino.com/en/bachelet-monnot-pommard/w/13152996</link>
-<inventory-count>12</inventory-count>
-<product-id>BURA0453</product-id>
-</product>
-<product>
-<product-name>Domaine Darviot-Perrin Bourgogne Aligote 2023 White</product-name>
-<price>330</price>
-<quantity-is-minimum>false</quantity-is-minimum>
-<bottle_size>750 ml</bottle_size>
-<bottle_quantity>1</bottle_quantity>
-<link>https://www.vivino.com/zh/darviot-perrin-bourgogne-aligote-champs-lins/w/11743288</link>
-<inventory-count>24</inventory-count>
-<product-id>BUWA0200</product-id>
-</product>
-<product>
-<product-name>Domaine Darviot-Perrin Meursault "Les Corbins" 2023 White</product-name>
-<price>960</price>
-<quantity-is-minimum>false</quantity-is-minimum>
-<bottle_size>750 ml</bottle_size>
-<bottle_quantity>1</bottle_quantity>
-<link>0</link>
-<inventory-count>60</inventory-count>
-<product-id>BUWA0201</product-id>
-</product>
-<product>
-<product-name>Domaine Darviot-Perrin Meursault "Clos de la Velle" 2023 White</product-name>
-<price>960</price>
-<quantity-is-minimum>false</quantity-is-minimum>
-<bottle_size>750 ml</bottle_size>
-<bottle_quantity>1</bottle_quantity>
-<link>https://www.vivino.com/zh/darviot-perrin-meursault-clos-de-la-velle-blanc/w/1185872</link>
-<inventory-count>36</inventory-count>
-<product-id>BUWA0202</product-id>
-</product>
-<product>
-<product-name>Domaine Darviot-Perrin Meursault 1er Cru "Les Charmes" 2023 White</product-name>
-<price>0</price>
-<quantity-is-minimum>false</quantity-is-minimum>
-<bottle_size>750 ml</bottle_size>
-<bottle_quantity>1</bottle_quantity>
-<link>https://www.vivino.com/zh/darviot-perrin-meursault-charmes-1er-cru/w/1454373</link>
-<inventory-count>24</inventory-count>
-<product-id>BUWA0203</product-id>
-</product>
-<product>
-<product-name>Domaine Darviot-Perrin Meursault 1er Cru "Les Genevrieres" 2023 White</product-name>
-<price>1800</price>
-<quantity-is-minimum>false</quantity-is-minimum>
-<bottle_size>750 ml</bottle_size>
-<bottle_quantity>1</bottle_quantity>
-<link>https://www.vivino.com/zh/darviot-perrin-meursault-genevrieres-1er-cru/w/1182448</link>
-<inventory-count>18</inventory-count>
-<product-id>BUWA0204</product-id>
-</product>
-<product>
-<product-name>Domaine Darviot-Perrin Meursault 1er Cru "Les Perrieres" 2023 White</product-name>
-<price>0</price>
-<quantity-is-minimum>false</quantity-is-minimum>
-<bottle_size>750 ml</bottle_size>
-<bottle_quantity>1</bottle_quantity>
-<link>https://www.vivino.com/zh/darviot-perrin-meursault-perrieres-1er-cru/w/1185874</link>
-<inventory-count>18</inventory-count>
-<product-id>BUWA0205</product-id>
-</product>
-<product>
-<product-name>Domaine Darviot-Perrin Chassagne-Montrachet 'La Bergerie' 2023 White</product-name>
-<price>970</price>
-<quantity-is-minimum>false</quantity-is-minimum>
-<bottle_size>750 ml</bottle_size>
-<bottle_quantity>1</bottle_quantity>
-<link>https://www.vivino.com/zh/darviot-perrin-chassagne-montrachet-la-bergerie/w/1185870</link>
-<inventory-count>24</inventory-count>
-<product-id>BUWA0206</product-id>
-</product>
-<product>
-<product-name>Domaine Darviot-Perrin Chassagne-Montrachet 1er Cru 'Blanchot Dessus' 2023 White</product-name>
-<price>2580</price>
-<quantity-is-minimum>false</quantity-is-minimum>
-<bottle_size>750 ml</bottle_size>
-<bottle_quantity>1</bottle_quantity>
-<link>https://www.vivino.com/zh/darviot-perrin-chassagne-montrachet-1er-cru-les-blanchots-dessus/w/1179699</link>
-<inventory-count>24</inventory-count>
-<product-id>BUWA0207</product-id>
-</product>
-<product>
-<product-name>Domaine Odoul Coquard Morey Saint Denis Blanc 2023 White</product-name>
-<price>780</price>
-<quantity-is-minimum>false</quantity-is-minimum>
-<bottle_size>750 ml</bottle_size>
-<bottle_quantity>1</bottle_quantity>
-<link>https://www.vivino.com/zh/odoul-coquard-morey-saint-denis-blanc/w/13316266</link>
-<inventory-count>48</inventory-count>
-<product-id>BUWA0213</product-id>
-</product>
-<product>
-<product-name>Domaine Bachelet-Monnot Bourgogne Cote d'Or 2023 White</product-name>
-<price>420</price>
-<quantity-is-minimum>false</quantity-is-minimum>
-<bottle_size>750 ml</bottle_size>
-<bottle_quantity>1</bottle_quantity>
-<link>https://www.vivino.com/en/bachelet-monnot-bourgogne-cote-d-or/w/11401601?ref=nav-search</link>
-<inventory-count>12</inventory-count>
-<product-id>BUWA0214</product-id>
-</product>
-<product>
-<product-name>Domaine Bachelet-Monnot Maranges 1er Cru "la Fuissiere" Blanc 2023 White</product-name>
-<price>570</price>
-<quantity-is-minimum>false</quantity-is-minimum>
-<bottle_size>1500 ml</bottle_size>
-<bottle_quantity>1</bottle_quantity>
-<link>https://www.vivino.com/en/bachelet-monnot-maranges-1er-cru-la-fussiere-blanc/w/2123179</link>
-<inventory-count>12</inventory-count>
-<product-id>BUWA0215</product-id>
-</product>
-<product>
-<product-name>Domaine Bachelet-Monnot Chassagne Montrachet 2023 White</product-name>
 <price>820</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
+<link>https://www.vivino.com/zh/odoul-coquard-vieilles-vignes-vosne-romanee/w/9534742</link>
+<inventory-count>60</inventory-count>
+<product-id>BURA0447</product-id>
+</product>
+<product>
+<product-name>Domaine Odoul Coquard Morey-Saint-Denis "Aux Chéseaux" 2023 Red</product-name>
+<price>660</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>1</bottle_quantity>
+<link>https://www.vivino.com/zh/odoul-coquard-morey-saint-denis-1er-cru-aux-cheseaux/w/2213912</link>
+<inventory-count>48</inventory-count>
+<product-id>BURA0448</product-id>
+</product>
+<product>
+<product-name>Domaine Bachelet-Monnot Bourgogne Rouge 2023 Red</product-name>
+<price>350</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>1</bottle_quantity>
+<link>https://www.vivino.com/en/bachelet-monnot-bourgogne-rouge/w/1438845</link>
+<inventory-count>60</inventory-count>
+<product-id>BURA0449</product-id>
+</product>
+<product>
+<product-name>Domaine Bachelet-Monnot Maranges 1er Cru "la Fuissiere" 2023 Red</product-name>
+<price>480</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>1500 ml</bottle_size>
+<bottle_quantity>1</bottle_quantity>
+<link>https://www.vivino.com/en/bachelet-monnot-maranges-1er-cru-la-fussiere-rouge/w/1132258</link>
+<inventory-count>120</inventory-count>
+<product-id>BURA0450</product-id>
+</product>
+<product>
+<product-name>Domaine Bachelet-Monnot Maranges 1er Cru "Clos de la Boutiere" 2023 Red</product-name>
+<price>480</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>1</bottle_quantity>
+<link>https://www.vivino.com/en/bachelet-monnot-maranges-1er-cru-clos-de-la-boutiere/w/1132260</link>
+<inventory-count>60</inventory-count>
+<product-id>BURA0451</product-id>
+</product>
+<product>
+<product-name>Domaine Bachelet-Monnot Santenay "Charmes-Dessus" 2023 Red</product-name>
+<price>480</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>1500 ml</bottle_size>
+<bottle_quantity>1</bottle_quantity>
+<link>https://www.vivino.com/en/bachelet-monnot-santenay-les-charmes-dessus/w/5929435</link>
+<inventory-count>60</inventory-count>
+<product-id>BURA0452</product-id>
+</product>
+<product>
+<product-name>Domaine Bachelet-Monnot Pommard 2023 Red</product-name>
+<price>620</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>1500 ml</bottle_size>
+<bottle_quantity>1</bottle_quantity>
+<link>https://www.vivino.com/en/bachelet-monnot-pommard/w/13152996</link>
+<inventory-count>24</inventory-count>
+<product-id>BURA0453</product-id>
+</product>
+<product>
+<product-name>Domaine Darviot-Perrin Bourgogne Aligote 2023 White</product-name>
+<price>350</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>1</bottle_quantity>
+<link>https://www.vivino.com/zh/darviot-perrin-bourgogne-aligote-champs-lins/w/11743288</link>
+<inventory-count>60</inventory-count>
+<product-id>BUWA0200</product-id>
+</product>
+<product>
+<product-name>Domaine Darviot-Perrin Meursault "Les Corbins" 2023 White</product-name>
+<price>850</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>1</bottle_quantity>
+<link>0</link>
+<inventory-count>120</inventory-count>
+<product-id>BUWA0201</product-id>
+</product>
+<product>
+<product-name>Domaine Darviot-Perrin Meursault "Clos de la Velle" 2023 White</product-name>
+<price>850</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>1</bottle_quantity>
+<link>https://www.vivino.com/zh/darviot-perrin-meursault-clos-de-la-velle-blanc/w/1185872</link>
+<inventory-count>60</inventory-count>
+<product-id>BUWA0202</product-id>
+</product>
+<product>
+<product-name>Domaine Darviot-Perrin Meursault 1er Cru "Les Charmes" 2023 White</product-name>
+<price>1570</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>1</bottle_quantity>
+<link>https://www.vivino.com/zh/darviot-perrin-meursault-charmes-1er-cru/w/1454373</link>
+<inventory-count>47</inventory-count>
+<product-id>BUWA0203</product-id>
+</product>
+<product>
+<product-name>Domaine Darviot-Perrin Meursault 1er Cru "Les Genevrieres" 2023 White</product-name>
+<price>1690</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>1</bottle_quantity>
+<link>https://www.vivino.com/zh/darviot-perrin-meursault-genevrieres-1er-cru/w/1182448</link>
+<inventory-count>42</inventory-count>
+<product-id>BUWA0204</product-id>
+</product>
+<product>
+<product-name>Domaine Darviot-Perrin Meursault 1er Cru "Les Perrieres" 2023 White</product-name>
+<price>2250</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>1</bottle_quantity>
+<link>https://www.vivino.com/zh/darviot-perrin-meursault-perrieres-1er-cru/w/1185874</link>
+<inventory-count>42</inventory-count>
+<product-id>BUWA0205</product-id>
+</product>
+<product>
+<product-name>Domaine Darviot-Perrin Chassagne-Montrachet 'La Bergerie' 2023 White</product-name>
+<price>940</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>1</bottle_quantity>
+<link>https://www.vivino.com/zh/darviot-perrin-chassagne-montrachet-la-bergerie/w/1185870</link>
+<inventory-count>59</inventory-count>
+<product-id>BUWA0206</product-id>
+</product>
+<product>
+<product-name>Domaine Darviot-Perrin Chassagne-Montrachet 1er Cru 'Blanchot Dessus' 2023 White</product-name>
+<price>2250</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>1</bottle_quantity>
+<link>https://www.vivino.com/zh/darviot-perrin-chassagne-montrachet-1er-cru-les-blanchots-dessus/w/1179699</link>
+<inventory-count>48</inventory-count>
+<product-id>BUWA0207</product-id>
+</product>
+<product>
+<product-name>Domaine Odoul Coquard Morey Saint Denis Blanc 2023 White</product-name>
+<price>730</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>1</bottle_quantity>
+<link>https://www.vivino.com/zh/odoul-coquard-morey-saint-denis-blanc/w/13316266</link>
+<inventory-count>118</inventory-count>
+<product-id>BUWA0213</product-id>
+</product>
+<product>
+<product-name>Domaine Bachelet-Monnot Bourgogne Cote d'Or 2023 White</product-name>
+<price>350</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>1</bottle_quantity>
+<link>https://www.vivino.com/en/bachelet-monnot-bourgogne-cote-d-or/w/11401601?ref=nav-search</link>
+<inventory-count>60</inventory-count>
+<product-id>BUWA0214</product-id>
+</product>
+<product>
+<product-name>Domaine Bachelet-Monnot Maranges 1er Cru "la Fuissiere" Blanc 2023 White</product-name>
+<price>540</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>1500 ml</bottle_size>
+<bottle_quantity>1</bottle_quantity>
+<link>https://www.vivino.com/en/bachelet-monnot-maranges-1er-cru-la-fussiere-blanc/w/2123179</link>
+<inventory-count>46</inventory-count>
+<product-id>BUWA0215</product-id>
+</product>
+<product>
+<product-name>Domaine Bachelet-Monnot Chassagne Montrachet 2023 White</product-name>
+<price>850</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/en/bachelet-monnot-chassagne-montrachet/w/1992394</link>
-<inventory-count>12</inventory-count>
+<inventory-count>84</inventory-count>
 <product-id>BUWA0216</product-id>
 </product>
 <product>
 <product-name>Domaine Bachelet-Monnot Meursault "Clos du Cromin" 2023 White</product-name>
-<price>960</price>
+<price>1000</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/en/bachelet-monnot-meursault-clos-du-cromin/w/3098065</link>
-<inventory-count>6</inventory-count>
+<inventory-count>12</inventory-count>
 <product-id>BUWA0217</product-id>
 </product>
 <product>
 <product-name>Domaine Bachelet-Monnot Puligny Montrachet 2023 White</product-name>
-<price>900</price>
+<price>1000</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/en/bachelet-monnot-puligny-montrachet/w/1132270</link>
-<inventory-count>12</inventory-count>
+<inventory-count>60</inventory-count>
 <product-id>BUWA0218</product-id>
 </product>
 <product>
 <product-name>Domaine Bachelet-Monnot Puligny Montrachet 1er Cru "les Referts" 2023 White</product-name>
-<price>2140</price>
+<price>2000</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>1500 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/en/bachelet-monnot-puligny-montrachet-1er-cru-les-referts/w/1132273</link>
-<inventory-count>6</inventory-count>
+<inventory-count>12</inventory-count>
 <product-id>BUWA0219</product-id>
 </product>
 <product>
 <product-name>Domaine Bachelet-Monnot Puligny Montrachet 1er Cru "les Folatieres" 2023 White</product-name>
-<price>2140</price>
+<price>2000</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/en/bachelet-monnot-puligny-montrachet-1er-cru-les-folatieres/w/1132276</link>
-<inventory-count>6</inventory-count>
+<inventory-count>12</inventory-count>
 <product-id>BUWA0220</product-id>
 </product>
 <product>
@@ -3540,12 +3540,12 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/zh/jacques-lassaigne-les-vignes-de-montgueux-extra-brut-rose-champagne/w/10682857?ref=nav-search</link>
-<inventory-count>32</inventory-count>
+<inventory-count>31</inventory-count>
 <product-id>CHROA0004</product-id>
 </product>
 <product>
 <product-name>Siret Frere &amp; Soeur Rose de Saignee 2020 0</product-name>
-<price>840</price>
+<price>870</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3560,7 +3560,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/zh/jacques-lassaigne-les-vignes-de-montgueux-extra-brut-blanc-de-blancs-champagne/w/1492586?ref=nav-search</link>
-<inventory-count>264</inventory-count>
+<inventory-count>211</inventory-count>
 <product-id>CHWA0046</product-id>
 </product>
 <product>
@@ -3570,7 +3570,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/zh/jacques-lassaigne-le-cotet-extra-brut-blanc-de-blancs-champagne/w/1159449</link>
-<inventory-count>57</inventory-count>
+<inventory-count>53</inventory-count>
 <product-id>CHWA0047</product-id>
 </product>
 <product>
@@ -3580,7 +3580,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/zh/jacques-lassaigne-millesime-blanc-de-blancs-brut-nature-champagne/w/1752980</link>
-<inventory-count>57</inventory-count>
+<inventory-count>52</inventory-count>
 <product-id>CHWA0048</product-id>
 </product>
 <product>
@@ -3590,12 +3590,12 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/zh/jacques-lassaigne-clos-sainte-sophie-blanc-de-blancs-brut-nature-champagne/w/7412771</link>
-<inventory-count>19</inventory-count>
+<inventory-count>17</inventory-count>
 <product-id>CHWA0049</product-id>
 </product>
 <product>
 <product-name>Siret Frere &amp; Soeur Blanc de Noirs 2018 0</product-name>
-<price>1320</price>
+<price>1470</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
@@ -3610,7 +3610,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/zh/les-quatre-piliers-cabernet-franc/w/12093565</link>
-<inventory-count>36</inventory-count>
+<inventory-count>35</inventory-count>
 <product-id>LORA0011</product-id>
 </product>
 <product>
@@ -3620,7 +3620,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/zh/les-quatre-piliers-ancrage-blanc/w/13371059</link>
-<inventory-count>298</inventory-count>
+<inventory-count>294</inventory-count>
 <product-id>LOWA0006</product-id>
 </product>
 <product>
@@ -3630,7 +3630,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/zh/les-quatre-piliers-chapitre-i/w/10515292</link>
-<inventory-count>179</inventory-count>
+<inventory-count>177</inventory-count>
 <product-id>LOWA0007</product-id>
 </product>
 <product>
@@ -3640,7 +3640,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/zh/les-quatre-piliers-bel-air/w/11450649</link>
-<inventory-count>110</inventory-count>
+<inventory-count>103</inventory-count>
 <product-id>LOWA0008</product-id>
 </product>
 <product>
@@ -3650,7 +3650,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/en/domaine-des-sables-verts-les-roueres-saumur/w/10682912?year=2022&amp;price_id=39436340</link>
-<inventory-count>36</inventory-count>
+<inventory-count>96</inventory-count>
 <product-id>LOWA0009</product-id>
 </product>
 <product>
@@ -3660,7 +3660,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>0</link>
-<inventory-count>48</inventory-count>
+<inventory-count>54</inventory-count>
 <product-id>PRRA0003</product-id>
 </product>
 <product>
@@ -3670,7 +3670,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/en/sack-zafiropulo-cassis-blanc/w/1239726</link>
-<inventory-count>96</inventory-count>
+<inventory-count>117</inventory-count>
 <product-id>PRWA0005</product-id>
 </product>
 <product>
@@ -3680,7 +3680,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/en/sack-zafiropulo-cassis-blanc/w/1239726</link>
-<inventory-count>60</inventory-count>
+<inventory-count>87</inventory-count>
 <product-id>PRWA0006</product-id>
 </product>
 <product>
@@ -3690,17 +3690,17 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/en/sack-zafiropulo-bel-arme-cassis/w/2592536</link>
-<inventory-count>36</inventory-count>
+<inventory-count>58</inventory-count>
 <product-id>PRWA0007</product-id>
 </product>
 <product>
 <product-name>Cassis Clos Sainte Magdeleine Cassis Blanc "Cuvee Bel Arme" 2018 White</product-name>
-<price>570</price>
+<price>600</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/en/sack-zafiropulo-bel-arme-cassis/w/2592536</link>
-<inventory-count>36</inventory-count>
+<inventory-count>59</inventory-count>
 <product-id>PRWA0008</product-id>
 </product>
 <product>
@@ -3710,7 +3710,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/en/domaine-du-gour-de-chaule-eighteen-seventyone-les-jardinieres-gigondas/w/13330905</link>
-<inventory-count>96</inventory-count>
+<inventory-count>111</inventory-count>
 <product-id>RHRA0021</product-id>
 </product>
 <product>
@@ -3720,7 +3720,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/en/domaine-du-gour-de-chaule-le-gour-7-gigondas/w/11112429</link>
-<inventory-count>12</inventory-count>
+<inventory-count>24</inventory-count>
 <product-id>RHRA0022</product-id>
 </product>
 <product>
@@ -3730,7 +3730,7 @@ This XML file does not appear to have any style information associated with it. 
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>1</bottle_quantity>
 <link>https://www.vivino.com/en/domaine-du-gour-de-chaule-la-numero-huit-gigondas/w/8106045</link>
-<inventory-count>6</inventory-count>
+<inventory-count>9</inventory-count>
 <product-id>RHRA0023</product-id>
 </product>
 </vivino-product-list>
