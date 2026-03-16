@@ -2,56 +2,67 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vinosophy Selection - Name Tags</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Vinosophy Selection</title>
+    
+    <!-- Mobile App Settings (Add to Home Screen) -->
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Vinosophy">
+    <link rel="apple-touch-icon" href="https://cdn-icons-png.flaticon.com/512/763/763048.png">
+
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+    
     <style>
-        /* Printing Configuration */
-        @page {
-            size: A4 portrait;
-            margin: 0mm;
-        }
+        /* PRINT STYLES - A4 Precise Dimensions */
+        @page { size: A4 portrait; margin: 0mm; }
 
         @media print {
             .no-print { display: none !important; }
             body { 
                 margin: 0 !important; 
-                padding: 0 !important;
+                padding: 0 !important; 
                 background: white !important; 
-                -webkit-print-color-adjust: exact !important;
+                -webkit-print-color-adjust: exact !important; 
                 print-color-adjust: exact !important;
             }
-            .page-container {
-                display: block !important;
-                width: 210mm;
-                padding: 10mm;
+            .page-container { 
+                display: block !important; 
+                width: 210mm; 
+                padding: 10mm; 
             }
-            .grid-container {
-                display: grid !important;
-                grid-template-columns: 70mm 70mm !important;
-                gap: 0 !important;
-                justify-content: center;
+            .grid-container { 
+                display: grid !important; 
+                grid-template-columns: 70mm 70mm !important; 
+                gap: 0 !important; 
+                justify-content: center; 
             }
-            .name-tag-tent {
-                border: 0.1mm solid #e0e0e0 !important;
+            .name-tag-tent { 
+                border: 0.1mm solid #f1f5f9 !important; 
+                break-inside: avoid; 
+                page-break-inside: avoid; 
+                background-color: white !important; 
                 box-shadow: none !important;
-                break-inside: avoid;
-                page-break-inside: avoid;
-                background-color: white !important;
+                border-radius: 0 !important;
             }
+            .fold-line { border-top: 1px dashed #cbd5e1 !important; }
         }
         
+        /* SCREEN/APP STYLES */
         body {
             font-family: 'Montserrat', sans-serif;
             background-color: #f8fafc;
+            -webkit-tap-highlight-color: transparent;
         }
 
         .grid-container {
             display: grid;
-            grid-template-columns: repeat(2, 70mm);
-            gap: 12px;
+            grid-template-columns: repeat(auto-fit, 70mm);
+            gap: 20px;
             padding: 20px;
+            padding-bottom: 120px;
             justify-content: center;
         }
 
@@ -62,20 +73,20 @@
             position: relative;
             display: flex;
             flex-direction: column;
-            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+            border-radius: 20px;
+            overflow: hidden;
+            box-shadow: 0 15px 30px -10px rgba(0, 0, 0, 0.1);
         }
 
         .fold-line {
             position: absolute;
-            top: 50%;
-            left: 0;
-            width: 100%;
-            border-top: 1px dashed #e5e5e5;
+            top: 50%; left: 0; width: 100%;
+            border-top: 1px dashed #e2e8f0;
             z-index: 10;
         }
 
-        .tent-face-blank { height: 35mm; background-color: #fff; }
-
+        .tent-face-blank { height: 35mm; background-color: #fafafa; }
+        
         .tent-face-name {
             height: 35mm;
             display: flex;
@@ -83,90 +94,131 @@
             justify-content: center;
             align-items: center;
             position: relative;
-            padding: 2mm;
+            padding: 5mm;
+            background: white;
         }
 
         .guest-name {
             font-family: 'Great Vibes', cursive;
-            font-size: 26pt;
-            color: #1a1a1a;
+            font-size: 28pt;
+            color: #005A7C; /* Your requested Blue color */
             text-align: center;
             line-height: 1.1;
         }
 
         .footer-logo {
             position: absolute;
-            bottom: 2mm;
-            font-size: 5pt;
-            color: #bbb;
-            letter-spacing: 0.15em;
+            bottom: 3.5mm;
+            font-size: 5.5pt;
+            color: #cbd5e1;
+            letter-spacing: 0.25em;
             text-transform: uppercase;
-            font-weight: 400;
+            font-weight: 600;
         }
 
-        /* Settings UI for API Key */
-        #settings-modal {
-            display: none;
+        /* App UI: Bottom Navigation */
+        .bottom-nav {
             position: fixed;
-            top: 0; left: 0; width: 100%; height: 100%;
-            background: rgba(0,0,0,0.5);
+            bottom: 0; left: 0; right: 0;
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(20px);
+            border-top: 1px solid #f1f5f9;
+            display: flex;
+            justify-content: space-around;
+            padding: 16px 10px calc(20px + env(safe-area-inset-bottom));
             z-index: 100;
+            border-radius: 24px 24px 0 0;
+        }
+
+        .nav-btn {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 6px;
+            transition: transform 0.1s ease;
+        }
+        .nav-btn:active { transform: scale(0.9); }
+
+        .icon-box {
+            width: 54px;
+            height: 54px;
+            border-radius: 18px;
+            display: flex;
             align-items: center;
             justify-content: center;
+            color: white;
+            box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1);
         }
+
+        /* Animations */
+        .slide-up { animation: slideUp 0.4s ease-out; }
+        @keyframes slideUp { from { transform: translateY(20px); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
     </style>
 </head>
-<body>
+<body class="pb-32">
 
-    <!-- Header UI -->
-    <div class="no-print p-6 bg-white border-b sticky top-0 z-50 shadow-md text-center">
-        <div class="max-w-4xl mx-auto flex justify-between items-center">
-            <div class="text-left">
-                <h1 class="text-xl font-bold text-gray-900">Vinosophy Selection</h1>
-                <p class="text-xs text-gray-500 italic">Print ready: A4 / 70mm x 70mm</p>
-            </div>
-            
-            <div class="flex gap-3">
-                <button onclick="toggleSettings()" class="p-2 text-gray-400 hover:text-rose-900 transition">
-                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z" />
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
-                    </svg>
-                </button>
-                <button onclick="window.print()" class="bg-rose-900 text-white px-6 py-2 rounded-full font-bold hover:bg-rose-800 transition shadow-lg">
-                    🖨️ PRINT PDF
-                </button>
-                <button onclick="getAIDinnerPlan()" id="ai-btn" class="bg-indigo-600 text-white px-6 py-2 rounded-full font-bold hover:bg-indigo-500 transition shadow-lg flex items-center gap-2">
-                    ✨ AI BUTLER
-                </button>
+    <!-- Mobile Header -->
+    <div class="no-print bg-white p-6 pb-4 border-b sticky top-0 z-50 shadow-sm flex justify-between items-center">
+        <div>
+            <h1 class="text-xl font-black text-slate-800 tracking-tight">Vinosophy</h1>
+            <div class="flex items-center gap-1.5">
+                <span class="w-1.5 h-1.5 rounded-full bg-[#005A7C]"></span>
+                <p class="text-[10px] font-bold text-slate-400 uppercase tracking-widest">Dinner Concierge</p>
             </div>
         </div>
+        <button onclick="toggleSettings()" class="w-10 h-10 rounded-full bg-slate-50 flex items-center justify-center text-slate-400 hover:text-[#005A7C] transition-colors">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z" /><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" /></svg>
+        </button>
+    </div>
 
-        <div id="ai-result" class="hidden mt-4 max-w-2xl mx-auto bg-rose-50 border border-rose-200 rounded-xl p-4 text-left">
-            <div id="ai-status" class="text-rose-700 font-bold text-xs mb-1 uppercase tracking-wider"></div>
-            <div id="ai-content" class="text-gray-800 text-sm italic leading-relaxed whitespace-pre-wrap"></div>
+    <!-- AI Insights Panel -->
+    <div id="ai-result" class="hidden no-print px-4 pt-4">
+        <div class="bg-slate-900 text-white rounded-3xl p-6 shadow-2xl slide-up">
+            <div class="flex justify-between items-center mb-4">
+                <span id="ai-status" class="text-[9px] font-bold text-[#005A7C] bg-white px-2 py-0.5 rounded-full uppercase tracking-tighter">Sommelier's Note</span>
+                <button onclick="document.getElementById('ai-result').classList.add('hidden')" class="text-slate-500">✕</button>
+            </div>
+            <div id="ai-content" class="text-sm font-light italic leading-relaxed whitespace-pre-wrap"></div>
         </div>
     </div>
 
-    <!-- API Key Modal -->
-    <div id="settings-modal" class="no-print">
-        <div class="bg-white p-8 rounded-2xl shadow-2xl max-w-md w-full mx-4">
-            <h2 class="text-xl font-bold mb-4">API Settings</h2>
-            <p class="text-sm text-gray-600 mb-4">Enter your Gemini API Key here. It will be saved locally in your browser and not uploaded to GitHub.</p>
-            <input type="password" id="api-key-input" class="w-full border p-3 rounded-lg mb-4" placeholder="AI API Key...">
-            <div class="flex justify-end gap-3">
-                <button onclick="toggleSettings()" class="px-4 py-2 text-gray-500">Cancel</button>
-                <button onclick="saveKey()" class="px-4 py-2 bg-rose-900 text-white rounded-lg font-bold">Save Key</button>
-            </div>
-        </div>
-    </div>
-
-    <!-- Tags Display -->
+    <!-- Main View: Grid of Tags -->
     <div class="page-container">
         <div id="tags-container" class="grid-container"></div>
     </div>
 
+    <!-- App Bottom Menu -->
+    <div class="bottom-nav no-print">
+        <button onclick="window.print()" class="nav-btn">
+            <div class="icon-box bg-slate-800">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 17h2a2 2 0 002-2v-4a2 2 0 00-2-2H5a2 2 0 00-2 2v4a2 2 0 002 2h2m2 4h6a2 2 0 002-2v-4a2 2 0 00-2-2H9a2 2 0 00-2 2v4a2 2 0 002 2zm8-12V5a2 2 0 00-2-2H9a2 2 0 00-2 2v4h10z" /></svg>
+            </div>
+            <span class="text-[10px] font-bold text-slate-500 uppercase tracking-tighter">Print PDF</span>
+        </button>
+
+        <button onclick="getAIDinnerPlan()" id="ai-btn" class="nav-btn">
+            <div class="icon-box bg-[#005A7C]">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z" /></svg>
+            </div>
+            <span class="text-[10px] font-bold text-[#005A7C] uppercase tracking-tighter">AI Butler</span>
+        </button>
+    </div>
+
+    <!-- API Key Popup -->
+    <div id="settings-modal" class="hidden no-print fixed inset-0 bg-slate-900/60 backdrop-blur-md z-[200] items-center justify-center p-6">
+        <div class="bg-white rounded-[32px] p-8 max-w-sm w-full shadow-2xl">
+            <h2 class="text-2xl font-black mb-2 text-slate-800">Settings</h2>
+            <p class="text-sm text-slate-400 mb-8">Enter your API Key to enable the AI Butler features.</p>
+            <input type="password" id="api-key-input" class="w-full bg-slate-50 border-none p-5 rounded-2xl mb-8 focus:ring-4 focus:ring-sky-50 transition outline-none" placeholder="Gemini API Key...">
+            <div class="flex gap-4">
+                <button onclick="toggleSettings()" class="flex-1 py-4 font-bold text-slate-400">Cancel</button>
+                <button onclick="saveKey()" class="flex-1 py-4 bg-[#005A7C] text-white rounded-2xl font-bold shadow-lg shadow-sky-100">Save</button>
+            </div>
+        </div>
+    </div>
+
     <script>
+        // Data Configuration
         const guests = [
             "Ming Fang", "Shelley Hon", "Angel Wei", "Shirley Chiu", 
             "Pierre", "Peter Wu", "Dora Kam", "Mr Xing", 
@@ -175,7 +227,7 @@
             "Colin Zhong", "Bernard Lim"
         ];
 
-        // Initialize Tags
+        // Component: Create Name Tags
         const container = document.getElementById('tags-container');
         guests.forEach(name => {
             const tag = document.createElement('div');
@@ -191,25 +243,22 @@
             container.appendChild(tag);
         });
 
-        // Key Management
+        // App State Management
         function toggleSettings() {
             const modal = document.getElementById('settings-modal');
-            modal.style.display = modal.style.display === 'flex' ? 'none' : 'flex';
+            modal.classList.toggle('hidden');
+            modal.style.display = modal.classList.contains('hidden') ? 'none' : 'flex';
             document.getElementById('api-key-input').value = localStorage.getItem('gemini_api_key') || "";
         }
 
         function saveKey() {
-            const val = document.getElementById('api-key-input').value;
-            localStorage.setItem('gemini_api_key', val);
+            localStorage.setItem('gemini_api_key', document.getElementById('api-key-input').value);
             toggleSettings();
         }
 
         async function getAIDinnerPlan() {
             const key = localStorage.getItem('gemini_api_key');
-            if (!key) {
-                toggleSettings();
-                return;
-            }
+            if (!key) { toggleSettings(); return; }
 
             const btn = document.getElementById('ai-btn');
             const resultDiv = document.getElementById('ai-result');
@@ -218,24 +267,19 @@
 
             btn.disabled = true;
             resultDiv.classList.remove('hidden');
-            statusDiv.textContent = "Connecting to the Butler...";
-            
-            const prompt = `Sommelier for Vinosophy dinner. Guests: ${guests.join(", ")}. Provide an opening toast and 3 conversation topics.`;
+            statusDiv.textContent = "Selecting a vintage toast...";
             
             try {
                 const response = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-09-2025:generateContent?key=${key}`, {
-                    method: 'POST',
-                    headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }] })
+                    method: 'POST', headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ contents: [{ parts: [{ text: "Sommelier for Vinosophy Selection. Guest list: " + guests.join(", ") + ". Give an elegant toast and 2 icebreakers." }] }] })
                 });
                 const data = await response.json();
-                statusDiv.textContent = "✨ Sommelier's Note:";
+                statusDiv.textContent = "Sommelier's Toast";
                 contentDiv.textContent = data.candidates[0].content.parts[0].text;
             } catch (err) {
-                contentDiv.textContent = "Error: Please check your API key in settings.";
-            } finally {
-                btn.disabled = false;
-            }
+                contentDiv.textContent = "Check your API key in settings.";
+            } finally { btn.disabled = false; }
         }
     </script>
 </body>
