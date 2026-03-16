@@ -40,14 +40,15 @@
                 justify-content: center; 
             }
             .name-tag-tent { 
-                border: 0.1mm solid #f1f5f9 !important; 
+                /* Thicker border for easier cutting */
+                border: 0.4mm solid #cbd5e1 !important; 
                 break-inside: avoid; 
                 page-break-inside: avoid; 
                 background-color: white !important; 
                 box-shadow: none !important;
                 border-radius: 0 !important;
             }
-            .fold-line { border-top: 1px dashed #cbd5e1 !important; }
+            .fold-line { border-top: 1px dashed #94a3b8 !important; }
         }
         
         /* SCREEN/APP STYLES */
@@ -60,9 +61,9 @@
         .grid-container {
             display: grid;
             grid-template-columns: repeat(auto-fit, 70mm);
-            gap: 20px;
+            gap: 24px;
             padding: 20px;
-            padding-bottom: 120px;
+            padding-bottom: 140px;
             justify-content: center;
         }
 
@@ -75,17 +76,18 @@
             flex-direction: column;
             border-radius: 20px;
             overflow: hidden;
-            box-shadow: 0 15px 30px -10px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 15px 35px -10px rgba(0, 0, 0, 0.12);
+            border: 1px solid #e2e8f0;
         }
 
         .fold-line {
             position: absolute;
             top: 50%; left: 0; width: 100%;
-            border-top: 1px dashed #e2e8f0;
+            border-top: 1px dashed #cbd5e1;
             z-index: 10;
         }
 
-        .tent-face-blank { height: 35mm; background-color: #fafafa; }
+        .tent-face-blank { height: 35mm; background-color: #fcfcfc; }
         
         .tent-face-name {
             height: 35mm;
@@ -100,20 +102,10 @@
 
         .guest-name {
             font-family: 'Great Vibes', cursive;
-            font-size: 28pt;
-            color: #005A7C; /* Your requested Blue color */
+            font-size: 32pt; /* Slightly larger since footer is removed */
+            color: #005A7C; 
             text-align: center;
-            line-height: 1.1;
-        }
-
-        .footer-logo {
-            position: absolute;
-            bottom: 3.5mm;
-            font-size: 5.5pt;
-            color: #cbd5e1;
-            letter-spacing: 0.25em;
-            text-transform: uppercase;
-            font-weight: 600;
+            line-height: 1;
         }
 
         /* App UI: Bottom Navigation */
@@ -125,29 +117,30 @@
             border-top: 1px solid #f1f5f9;
             display: flex;
             justify-content: space-around;
-            padding: 16px 10px calc(20px + env(safe-area-inset-bottom));
+            padding: 16px 10px calc(24px + env(safe-area-inset-bottom));
             z-index: 100;
-            border-radius: 24px 24px 0 0;
+            border-radius: 30px 30px 0 0;
+            box-shadow: 0 -10px 25px rgba(0,0,0,0.05);
         }
 
         .nav-btn {
             display: flex;
             flex-direction: column;
             align-items: center;
-            gap: 6px;
-            transition: transform 0.1s ease;
+            gap: 8px;
+            transition: transform 0.1s cubic-bezier(0.175, 0.885, 0.32, 1.275);
         }
-        .nav-btn:active { transform: scale(0.9); }
+        .nav-btn:active { transform: scale(0.85); }
 
         .icon-box {
-            width: 54px;
-            height: 54px;
-            border-radius: 18px;
+            width: 58px;
+            height: 58px;
+            border-radius: 20px;
             display: flex;
             align-items: center;
             justify-content: center;
             color: white;
-            box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1);
+            box-shadow: 0 8px 15px -3px rgba(0,0,0,0.1);
         }
 
         /* Animations */
@@ -162,23 +155,23 @@
         <div>
             <h1 class="text-xl font-black text-slate-800 tracking-tight">Vinosophy</h1>
             <div class="flex items-center gap-1.5">
-                <span class="w-1.5 h-1.5 rounded-full bg-[#005A7C]"></span>
+                <span class="w-2 h-2 rounded-full bg-[#005A7C] animate-pulse"></span>
                 <p class="text-[10px] font-bold text-slate-400 uppercase tracking-widest">Dinner Concierge</p>
             </div>
         </div>
-        <button onclick="toggleSettings()" class="w-10 h-10 rounded-full bg-slate-50 flex items-center justify-center text-slate-400 hover:text-[#005A7C] transition-colors">
-            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z" /><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" /></svg>
+        <button onclick="toggleSettings()" class="w-11 h-11 rounded-2xl bg-slate-50 flex items-center justify-center text-slate-400 hover:text-[#005A7C] transition-all active:bg-slate-100">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z" /><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" /></svg>
         </button>
     </div>
 
     <!-- AI Insights Panel -->
     <div id="ai-result" class="hidden no-print px-4 pt-4">
-        <div class="bg-slate-900 text-white rounded-3xl p-6 shadow-2xl slide-up">
-            <div class="flex justify-between items-center mb-4">
-                <span id="ai-status" class="text-[9px] font-bold text-[#005A7C] bg-white px-2 py-0.5 rounded-full uppercase tracking-tighter">Sommelier's Note</span>
-                <button onclick="document.getElementById('ai-result').classList.add('hidden')" class="text-slate-500">✕</button>
+        <div class="bg-slate-900 text-white rounded-[32px] p-7 shadow-2xl slide-up border border-white/5">
+            <div class="flex justify-between items-center mb-5">
+                <span id="ai-status" class="text-[10px] font-black text-[#005A7C] bg-white px-3 py-1 rounded-full uppercase tracking-widest">Sommelier Insight</span>
+                <button onclick="document.getElementById('ai-result').classList.add('hidden')" class="w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white">✕</button>
             </div>
-            <div id="ai-content" class="text-sm font-light italic leading-relaxed whitespace-pre-wrap"></div>
+            <div id="ai-content" class="text-base font-light italic leading-relaxed whitespace-pre-wrap opacity-90"></div>
         </div>
     </div>
 
@@ -191,28 +184,28 @@
     <div class="bottom-nav no-print">
         <button onclick="window.print()" class="nav-btn">
             <div class="icon-box bg-slate-800">
-                <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 17h2a2 2 0 002-2v-4a2 2 0 00-2-2H5a2 2 0 00-2 2v4a2 2 0 002 2h2m2 4h6a2 2 0 002-2v-4a2 2 0 00-2-2H9a2 2 0 00-2 2v4a2 2 0 002 2zm8-12V5a2 2 0 00-2-2H9a2 2 0 00-2 2v4h10z" /></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-7 w-7" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 17h2a2 2 0 002-2v-4a2 2 0 00-2-2H5a2 2 0 00-2 2v4a2 2 0 002 2h2m2 4h6a2 2 0 002-2v-4a2 2 0 00-2-2H9a2 2 0 00-2 2v4a2 2 0 002 2zm8-12V5a2 2 0 00-2-2H9a2 2 0 00-2 2v4h10z" /></svg>
             </div>
-            <span class="text-[10px] font-bold text-slate-500 uppercase tracking-tighter">Print PDF</span>
+            <span class="text-[11px] font-black text-slate-500 uppercase tracking-tighter">Print PDF</span>
         </button>
 
         <button onclick="getAIDinnerPlan()" id="ai-btn" class="nav-btn">
             <div class="icon-box bg-[#005A7C]">
-                <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z" /></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-7 w-7" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z" /></svg>
             </div>
-            <span class="text-[10px] font-bold text-[#005A7C] uppercase tracking-tighter">AI Butler</span>
+            <span class="text-[11px] font-black text-[#005A7C] uppercase tracking-tighter">AI Butler</span>
         </button>
     </div>
 
     <!-- API Key Popup -->
-    <div id="settings-modal" class="hidden no-print fixed inset-0 bg-slate-900/60 backdrop-blur-md z-[200] items-center justify-center p-6">
-        <div class="bg-white rounded-[32px] p-8 max-w-sm w-full shadow-2xl">
-            <h2 class="text-2xl font-black mb-2 text-slate-800">Settings</h2>
-            <p class="text-sm text-slate-400 mb-8">Enter your API Key to enable the AI Butler features.</p>
-            <input type="password" id="api-key-input" class="w-full bg-slate-50 border-none p-5 rounded-2xl mb-8 focus:ring-4 focus:ring-sky-50 transition outline-none" placeholder="Gemini API Key...">
-            <div class="flex gap-4">
-                <button onclick="toggleSettings()" class="flex-1 py-4 font-bold text-slate-400">Cancel</button>
-                <button onclick="saveKey()" class="flex-1 py-4 bg-[#005A7C] text-white rounded-2xl font-bold shadow-lg shadow-sky-100">Save</button>
+    <div id="settings-modal" class="hidden no-print fixed inset-0 bg-slate-900/70 backdrop-blur-xl z-[200] items-center justify-center p-6">
+        <div class="bg-white rounded-[40px] p-10 max-w-sm w-full shadow-2xl">
+            <h2 class="text-3xl font-black mb-3 text-slate-800 tracking-tight">Settings</h2>
+            <p class="text-sm text-slate-400 mb-9 leading-relaxed">Please configure your Gemini API Key to enable your personalized dinner concierge.</p>
+            <input type="password" id="api-key-input" class="w-full bg-slate-50 border-none p-6 rounded-3xl mb-9 focus:ring-4 focus:ring-sky-50 transition outline-none font-medium" placeholder="Paste Key here...">
+            <div class="flex gap-5">
+                <button onclick="toggleSettings()" class="flex-1 py-5 font-bold text-slate-400">Cancel</button>
+                <button onclick="saveKey()" class="flex-1 py-5 bg-[#005A7C] text-white rounded-[24px] font-bold shadow-xl shadow-sky-100">Save</button>
             </div>
         </div>
     </div>
@@ -237,7 +230,6 @@
                 <div class="tent-face-blank"></div>
                 <div class="tent-face-name">
                     <div class="guest-name">${name}</div>
-                    <div class="footer-logo">Vinosophy Selection</div>
                 </div>
             `;
             container.appendChild(tag);
@@ -278,7 +270,7 @@
                 statusDiv.textContent = "Sommelier's Toast";
                 contentDiv.textContent = data.candidates[0].content.parts[0].text;
             } catch (err) {
-                contentDiv.textContent = "Check your API key in settings.";
+                contentDiv.textContent = "Error: Please check your API key.";
             } finally { btn.disabled = false; }
         }
     </script>
