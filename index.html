@@ -47,7 +47,7 @@
             background-color: #ffffff;
             width: 595px; /* A5-ish Aspect Ratio */
             height: 842px;
-            padding: 50px;
+            padding: 60px;
             position: relative;
             box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
             display: flex;
@@ -76,7 +76,7 @@
             color: #c5a059;
             border-bottom: 1px solid rgba(197, 160, 89, 0.2);
             padding-bottom: 15px;
-            margin-bottom: 40px;
+            margin-bottom: 30px;
         }
 
         h1 {
@@ -100,9 +100,32 @@
         p {
             font-size: 14px;
             line-height: 1.8;
-            color: #444;
+            color: #333;
             text-align: justify;
             margin-bottom: 20px;
+        }
+
+        /* IMAGE PLACEHOLDER - RESIZED SMALLER */
+        .image-container {
+            width: 70%;
+            height: 180px;
+            background-color: #fcfcfc;
+            border: 1px solid rgba(197, 160, 89, 0.2);
+            margin: 0 auto 40px auto;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .image-label {
+            font-family: 'Playfair Display', serif;
+            font-style: italic;
+            color: #c5a059;
+            font-size: 13px;
+            letter-spacing: 1px;
+            opacity: 0.6;
         }
 
         /* TABLES */
@@ -118,11 +141,11 @@
             letter-spacing: 1px;
             color: #c5a059;
             border-bottom: 2px solid #c5a059;
-            padding: 10px 5px;
+            padding: 12px 5px;
         }
         .offer-table td {
-            padding: 10px 5px;
-            font-size: 12px;
+            padding: 12px 5px;
+            font-size: 13px;
             border-bottom: 1px solid #eee;
         }
         .tasted-row { background-color: rgba(197, 160, 89, 0.05); }
@@ -146,6 +169,7 @@
         .footer {
             margin-top: auto;
             text-align: center;
+            padding-bottom: 10px;
         }
         .footer-logo {
             font-family: 'Playfair Display', serif;
@@ -179,8 +203,15 @@
         <div class="gold-accents"></div>
         <div class="page-header">Maison Fang</div>
         <h1>The Story</h1>
+        
+        <!-- RESIZED IMAGE SPACE -->
+        <div class="image-container">
+            <span class="image-label">Photo Reference</span>
+        </div>
+
         <p>Between tradition and precision, Maison FANG is the story of an enthusiast dedicated to the creation of exceptional wines and the extraction of the vine's pure soul. Founded by Ming FANG, whose Chinese roots intertwine with French soil, the domaine creates wines of rare authenticity and unparalleled excellence.</p>
-        <p>MAISON FANG embodies the essence of Burgundy, where respect for terroir and ancestral know-how converge. Every bottle that leaves the domaine is the result of a relentless quest for perfection.</p>
+        <p>MAISON FANG embodies the essence of Burgundy, where respect for terroir and ancestral know-how converge. Every bottle that leaves the domaine is the result of a relentless quest for perfection, bridging continents through a shared love for the vine.</p>
+        
         <div class="footer">
             <div class="footer-logo">Vinosophy</div>
         </div>
@@ -191,4 +222,65 @@
         <div class="gold-accents"></div>
         <div class="page-header">Exclusive Offer</div>
         <h3>White Selection</h3>
-        <div class="discount-banner">Further 5% for 6 btls | 10
+        <div class="discount-banner">Further 5% for 6 btls | 10% for 12 btls</div>
+        <table class="offer-table">
+            <thead>
+                <tr>
+                    <th>Appellation / Cuvée</th>
+                    <th style="text-align: center;">Year</th>
+                    <th style="text-align: right;">HKD/BT</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr><td>Bourgogne Hautes Côtes de Beaune</td><td style="text-align: center;">2022</td><td class="price-col">$735</td></tr>
+                <tr class="tasted-row"><td>🍷 Bourgogne Hautes Côtes de Beaune</td><td style="text-align: center;">2023</td><td class="price-col">$750</td></tr>
+                <tr class="tasted-row"><td>🍷 Pernand Vergellesses Les Belles Filles</td><td style="text-align: center;">2022</td><td class="price-col">$1,200</td></tr>
+                <tr><td>Bourgogne Aligote</td><td style="text-align: center;">2023</td><td class="price-col">$535</td></tr>
+                <tr class="tasted-row"><td>🍷 Meursault Les Narvaux</td><td style="text-align: center;">2023</td><td class="price-col">$2,800</td></tr>
+                <tr class="tasted-row"><td>🍷 Meursault 1er Cru Sous Blagny</td><td style="text-align: center;">2023</td><td class="price-col">$3,200</td></tr>
+                <tr><td>Corton Charlemagne Grand Cru</td><td style="text-align: center;">2023</td><td class="price-col">$5,500</td></tr>
+            </tbody>
+        </table>
+        <div class="footer">
+            <div class="footer-logo">Vinosophy</div>
+        </div>
+    </div>
+
+    <!-- PAGE 3: RED SELECTION & T&Cs -->
+    <div class="page-simulation">
+        <div class="gold-accents"></div>
+        <div class="page-header">Exclusive Offer</div>
+        <h3>Red Selection</h3>
+        <table class="offer-table">
+            <thead>
+                <tr>
+                    <th>Appellation / Cuvée</th>
+                    <th style="text-align: center;">Year</th>
+                    <th style="text-align: right;">HKD/BT</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr><td>Saint Aubin 1er Cru</td><td style="text-align: center;">2021</td><td class="price-col">$950</td></tr>
+                <tr class="tasted-row"><td>🍷 Chassagne Montrachet 1er Cru Les Morgeots</td><td style="text-align: center;">2022</td><td class="price-col">$1,800</td></tr>
+                <tr class="tasted-row"><td>🍷 Gevrey Chambertin</td><td style="text-align: center;">2023</td><td class="price-col">$1,950</td></tr>
+                <tr><td>Echezeaux Grand Cru</td><td style="text-align: center;">2023</td><td class="price-col">$13,500</td></tr>
+            </tbody>
+        </table>
+
+        <div style="margin-top: 40px; border-top: 1px solid #eee; padding-top: 30px;">
+            <div style="font-size: 11px; font-weight: 700; color: #c5a059; text-transform: uppercase; margin-bottom: 12px; letter-spacing: 1px;">Terms & Conditions</div>
+            <div style="font-size: 11px; color: #555; line-height: 1.8;">
+                • Prices quoted in HKD per 750ml bottle.<br>
+                • Free delivery in HK for orders over HK$3,000.<br>
+                • Offer subject to stock availability.<br>
+                • Contact: WINE@VINOSOPHY.HK
+            </div>
+        </div>
+
+        <div class="footer">
+            <div class="footer-logo">Vinosophy</div>
+        </div>
+    </div>
+
+</body>
+</html>
