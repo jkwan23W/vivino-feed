@@ -47,7 +47,7 @@
             background-color: #ffffff;
             width: 595px; /* A5-ish Aspect Ratio */
             height: 842px;
-            padding: 60px;
+            padding: 50px 60px;
             position: relative;
             box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
             display: flex;
@@ -75,109 +75,109 @@
             font-size: 11px;
             color: #c5a059;
             border-bottom: 1px solid rgba(197, 160, 89, 0.2);
-            padding-bottom: 15px;
-            margin-bottom: 30px;
+            padding-bottom: 12px;
+            margin-bottom: 25px;
         }
 
         h1 {
             font-family: 'Playfair Display', serif;
             color: #005266;
-            font-size: 36px;
+            font-size: 32px;
             text-align: center;
             letter-spacing: 4px;
-            margin: 0 0 30px 0;
+            margin: 0 0 20px 0;
         }
 
         h3 {
             font-family: 'Playfair Display', serif;
             color: #005266;
-            font-size: 22px;
+            font-size: 20px;
             text-transform: uppercase;
             text-align: center;
-            margin: 20px 0;
+            margin: 15px 0;
         }
 
         p {
-            font-size: 14px;
-            line-height: 1.8;
+            font-size: 13px;
+            line-height: 1.7;
             color: #333;
             text-align: justify;
-            margin-bottom: 20px;
+            margin-bottom: 15px;
         }
 
-        /* IMAGE PLACEHOLDER - RESIZED SMALLER */
+        /* IMAGE PLACEHOLDER - COMPACT SIZE */
         .image-container {
-            width: 70%;
-            height: 180px;
+            width: 65%;
+            height: 140px;
             background-color: #fcfcfc;
-            border: 1px solid rgba(197, 160, 89, 0.2);
-            margin: 0 auto 40px auto;
+            border: 1px solid rgba(197, 160, 89, 0.15);
+            margin: 0 auto 25px auto;
             display: flex;
             align-items: center;
             justify-content: center;
             position: relative;
-            overflow: hidden;
         }
         
         .image-label {
             font-family: 'Playfair Display', serif;
             font-style: italic;
             color: #c5a059;
-            font-size: 13px;
+            font-size: 11px;
             letter-spacing: 1px;
-            opacity: 0.6;
+            opacity: 0.5;
         }
 
         /* TABLES */
         .offer-table {
             width: 100%;
             border-collapse: collapse;
-            margin: 20px 0;
+            margin: 10px 0;
         }
         .offer-table th {
             text-align: left;
-            font-size: 11px;
+            font-size: 10px;
             text-transform: uppercase;
             letter-spacing: 1px;
             color: #c5a059;
-            border-bottom: 2px solid #c5a059;
-            padding: 12px 5px;
+            border-bottom: 1.5px solid #c5a059;
+            padding: 8px 5px;
         }
         .offer-table td {
-            padding: 12px 5px;
-            font-size: 13px;
-            border-bottom: 1px solid #eee;
+            padding: 7px 5px;
+            font-size: 12px;
+            border-bottom: 1px solid #f0f0f0;
+            line-height: 1.2;
         }
-        .tasted-row { background-color: rgba(197, 160, 89, 0.05); }
-        .tasted-row td { color: #005266; font-weight: 700; }
+        .tasted-row { background-color: rgba(197, 160, 89, 0.04); }
+        .tasted-row td { color: #005266; font-weight: 600; }
         .price-col { font-weight: 700; color: #005266; text-align: right; }
+        .year-col { text-align: center; color: #666; width: 60px; }
 
         /* BANNERS */
         .discount-banner {
             background-color: #005266;
             color: white;
             text-align: center;
-            padding: 12px;
-            font-size: 12px;
+            padding: 8px;
+            font-size: 11px;
             font-weight: 700;
             letter-spacing: 1px;
             text-transform: uppercase;
-            margin: 10px 0 20px 0;
+            margin: 5px 0 15px 0;
         }
 
         /* FOOTER */
         .footer {
             margin-top: auto;
             text-align: center;
-            padding-bottom: 10px;
         }
         .footer-logo {
             font-family: 'Playfair Display', serif;
-            font-size: 14px;
+            font-size: 13px;
             letter-spacing: 8px;
-            color: rgba(197, 160, 89, 0.5);
+            color: rgba(197, 160, 89, 0.4);
             text-transform: uppercase;
-            margin-top: 20px;
+            padding-bottom: 5px;
         }
 
         /* PRINT STYLES */
@@ -204,9 +204,8 @@
         <div class="page-header">Maison Fang</div>
         <h1>The Story</h1>
         
-        <!-- RESIZED IMAGE SPACE -->
         <div class="image-container">
-            <span class="image-label">Photo Reference</span>
+            <span class="image-label">Photo Reference - Vineyard Estate</span>
         </div>
 
         <p>Between tradition and precision, Maison FANG is the story of an enthusiast dedicated to the creation of exceptional wines and the extraction of the vine's pure soul. Founded by Ming FANG, whose Chinese roots intertwine with French soil, the domaine creates wines of rare authenticity and unparalleled excellence.</p>
@@ -227,18 +226,23 @@
             <thead>
                 <tr>
                     <th>Appellation / Cuvée</th>
-                    <th style="text-align: center;">Year</th>
+                    <th class="year-col">Year</th>
                     <th style="text-align: right;">HKD/BT</th>
                 </tr>
             </thead>
             <tbody>
-                <tr><td>Bourgogne Hautes Côtes de Beaune</td><td style="text-align: center;">2022</td><td class="price-col">$735</td></tr>
-                <tr class="tasted-row"><td>🍷 Bourgogne Hautes Côtes de Beaune</td><td style="text-align: center;">2023</td><td class="price-col">$750</td></tr>
-                <tr class="tasted-row"><td>🍷 Pernand Vergellesses Les Belles Filles</td><td style="text-align: center;">2022</td><td class="price-col">$1,200</td></tr>
-                <tr><td>Bourgogne Aligote</td><td style="text-align: center;">2023</td><td class="price-col">$535</td></tr>
-                <tr class="tasted-row"><td>🍷 Meursault Les Narvaux</td><td style="text-align: center;">2023</td><td class="price-col">$2,800</td></tr>
-                <tr class="tasted-row"><td>🍷 Meursault 1er Cru Sous Blagny</td><td style="text-align: center;">2023</td><td class="price-col">$3,200</td></tr>
-                <tr><td>Corton Charlemagne Grand Cru</td><td style="text-align: center;">2023</td><td class="price-col">$5,500</td></tr>
+                <tr><td>Bourgogne Aligote</td><td class="year-col">2022</td><td class="price-col">$515</td></tr>
+                <tr><td>Bourgogne Aligote</td><td class="year-col">2023</td><td class="price-col">$535</td></tr>
+                <tr><td>Bourgogne Hautes Côtes de Beaune</td><td class="year-col">2022</td><td class="price-col">$735</td></tr>
+                <tr class="tasted-row"><td>🍷 Bourgogne Hautes Côtes de Beaune</td><td class="year-col">2023</td><td class="price-col">$750</td></tr>
+                <tr><td>Pernand Vergellesses Les Belles Filles</td><td class="year-col">2021</td><td class="price-col">$1,100</td></tr>
+                <tr class="tasted-row"><td>🍷 Pernand Vergellesses Les Belles Filles</td><td class="year-col">2022</td><td class="price-col">$1,200</td></tr>
+                <tr><td>Meursault Les Narvaux</td><td class="year-col">2022</td><td class="price-col">$2,700</td></tr>
+                <tr class="tasted-row"><td>🍷 Meursault Les Narvaux</td><td class="year-col">2023</td><td class="price-col">$2,800</td></tr>
+                <tr><td>Meursault 1er Cru Sous Blagny</td><td class="year-col">2022</td><td class="price-col">$3,100</td></tr>
+                <tr class="tasted-row"><td>🍷 Meursault 1er Cru Sous Blagny</td><td class="year-col">2023</td><td class="price-col">$3,200</td></tr>
+                <tr><td>Corton Charlemagne Grand Cru</td><td class="year-col">2022</td><td class="price-col">$5,200</td></tr>
+                <tr class="tasted-row"><td>🍷 Corton Charlemagne Grand Cru</td><td class="year-col">2023</td><td class="price-col">$5,500</td></tr>
             </tbody>
         </table>
         <div class="footer">
@@ -255,21 +259,24 @@
             <thead>
                 <tr>
                     <th>Appellation / Cuvée</th>
-                    <th style="text-align: center;">Year</th>
+                    <th class="year-col">Year</th>
                     <th style="text-align: right;">HKD/BT</th>
                 </tr>
             </thead>
             <tbody>
-                <tr><td>Saint Aubin 1er Cru</td><td style="text-align: center;">2021</td><td class="price-col">$950</td></tr>
-                <tr class="tasted-row"><td>🍷 Chassagne Montrachet 1er Cru Les Morgeots</td><td style="text-align: center;">2022</td><td class="price-col">$1,800</td></tr>
-                <tr class="tasted-row"><td>🍷 Gevrey Chambertin</td><td style="text-align: center;">2023</td><td class="price-col">$1,950</td></tr>
-                <tr><td>Echezeaux Grand Cru</td><td style="text-align: center;">2023</td><td class="price-col">$13,500</td></tr>
+                <tr><td>Saint Aubin 1er Cru</td><td class="year-col">2021</td><td class="price-col">$950</td></tr>
+                <tr><td>Chassagne Montrachet 1er Cru Les Morgeots</td><td class="year-col">2021</td><td class="price-col">$1,650</td></tr>
+                <tr class="tasted-row"><td>🍷 Chassagne Montrachet 1er Cru Les Morgeots</td><td class="year-col">2022</td><td class="price-col">$1,800</td></tr>
+                <tr><td>Gevrey Chambertin</td><td class="year-col">2022</td><td class="price-col">$1,850</td></tr>
+                <tr class="tasted-row"><td>🍷 Gevrey Chambertin</td><td class="year-col">2023</td><td class="price-col">$1,950</td></tr>
+                <tr><td>Echezeaux Grand Cru</td><td class="year-col">2022</td><td class="price-col">$12,800</td></tr>
+                <tr class="tasted-row"><td>🍷 Echezeaux Grand Cru</td><td class="year-col">2023</td><td class="price-col">$13,500</td></tr>
             </tbody>
         </table>
 
-        <div style="margin-top: 40px; border-top: 1px solid #eee; padding-top: 30px;">
-            <div style="font-size: 11px; font-weight: 700; color: #c5a059; text-transform: uppercase; margin-bottom: 12px; letter-spacing: 1px;">Terms & Conditions</div>
-            <div style="font-size: 11px; color: #555; line-height: 1.8;">
+        <div style="margin-top: 30px; border-top: 1px solid #f0f0f0; padding-top: 20px;">
+            <div style="font-size: 10px; font-weight: 700; color: #c5a059; text-transform: uppercase; margin-bottom: 8px; letter-spacing: 1px;">Terms & Conditions</div>
+            <div style="font-size: 10px; color: #555; line-height: 1.6;">
                 • Prices quoted in HKD per 750ml bottle.<br>
                 • Free delivery in HK for orders over HK$3,000.<br>
                 • Offer subject to stock availability.<br>
